@@ -2,9 +2,12 @@
 """
 Script to generate folder structure for iller from ptt_il_ilce_mahalle.json
 
-This script reads the main JSON file and creates:
-- PTT/iller/{il_adi}/ilceler.json - contains list of ilceler for each il
-- PTT/iller/{il_adi}/{ilce_adi}/mahalleler.json - contains list of mahalleler for each il/ilce
+Klasör adları scrape_ptt_address2.py çıktısındaki il_slug / ilce_slug ile üretilir
+(eski JSON için il_adi / ilce_adi sanitize edilir).
+
+Oluşturulan yapı:
+- PTT/iller/{il_slug}/ilceler.json
+- PTT/iller/{il_slug}/{ilce_slug}/mahalleler.json
 """
 
 import json
@@ -20,9 +23,21 @@ def sanitize_filename(name):
     return name.strip()
 
 
+def il_folder_name(il):
+    """PTT JSON il_slug; yoksa geriye dönük uyumluluk için il_adi sanitize."""
+    slug = (il.get("il_slug") or "").strip()
+    return slug if slug else sanitize_filename(il["il_adi"])
+
+
+def ilce_folder_name(ilce):
+    """PTT JSON ilce_slug; yoksa ilce_adi sanitize."""
+    slug = (ilce.get("ilce_slug") or "").strip()
+    return slug if slug else sanitize_filename(ilce["ilce_adi"])
+
+
 def generate_iller_structure():
     """Generate folder structure from ptt_il_ilce_mahalle.json"""
-    
+
     # Paths
     base_dir = Path(__file__).parent.parent.parent
     input_file = base_dir / "PTT" / "ptt_il_ilce_mahalle.json"
@@ -38,24 +53,25 @@ def generate_iller_structure():
     
     # Process each il
     for il in data:
-        il_adi = il['il_adi']
-        ilceler = il['ilceler']
-        
-        # Sanitize il name for folder
-        il_folder_name = sanitize_filename(il_adi)
-        il_dir = iller_dir / il_folder_name
-        
+        il_adi = il["il_adi"]
+        ilceler = il["ilceler"]
+        il_slug = il_folder_name(il)
+        il_dir = iller_dir / il_slug
+
         # Create il directory
         il_dir.mkdir(parents=True, exist_ok=True)
-        print(f"Processing {il_adi}...")
-        
+        print(f"Processing {il_adi} ({il_slug})...")
+
         # Create ilceler.json
         ilceler_data = []
         for ilce in ilceler:
-            ilceler_data.append({
-                "ilce_id": ilce['ilce_id'],
-                "ilce_adi": ilce['ilce_adi']
-            })
+            entry = {
+                "ilce_id": ilce["ilce_id"],
+                "ilce_adi": ilce["ilce_adi"],
+            }
+            if ilce.get("ilce_slug"):
+                entry["ilce_slug"] = ilce["ilce_slug"]
+            ilceler_data.append(entry)
         
         ilceler_file = il_dir / "ilceler.json"
         with open(ilceler_file, 'w', encoding='utf-8') as f:
@@ -63,12 +79,9 @@ def generate_iller_structure():
         
         # Process each ilce
         for ilce in ilceler:
-            ilce_adi = ilce['ilce_adi']
-            mahalleler = ilce.get('mahalleler', [])
-            
-            # Sanitize ilce name for folder
-            ilce_folder_name = sanitize_filename(ilce_adi)
-            ilce_dir = il_dir / ilce_folder_name
+            mahalleler = ilce.get("mahalleler", [])
+            ilce_slug = ilce_folder_name(ilce)
+            ilce_dir = il_dir / ilce_slug
             
             # Create ilce directory
             ilce_dir.mkdir(parents=True, exist_ok=True)
