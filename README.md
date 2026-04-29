@@ -1,4 +1,4 @@
-# 🇹🇷 Türkiye Adres Verisi
+# 🇹🇷 Türkiye İl, İlçe ve Mahalle Verisi
 
 > Türkiye'nin en güncel il, ilçe ve mahalle verilerini PTT'nin resmi kaynağından otomatik olarak toplayan açık kaynak proje.
 
