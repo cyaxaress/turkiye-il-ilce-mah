@@ -1,51 +1,66 @@
-# 🇹🇷 Türkiye İl, İlçe ve Mahalle Verisi
+# Türkiye il, ilçe ve mahalle verisi
 
-> Türkiye'nin en güncel il, ilçe ve mahalle verilerini PTT'nin resmi kaynağından otomatik olarak toplayan açık kaynak proje.
+Türkiye genelinde **il**, **ilçe** ve **mahalle** (posta kodu dahiye) hiyerarşisini [PTT](https://www.ptt.gov.tr) kaynağından düzenli olarak çeken ve JSON olarak yayımlayan açık kaynak bir veri deposudur. Amaç, uygulamalarda güncel ve tutarlı adres seçimleri için tek bir güvenilir kaynak sunmaktır.
 
 ## 📅 Son Güncelleme
 
 **Son güncelleme:** 29 Nisan 2026, 23:18
 
-## 🎯 Problem
+## İçindekiler
 
-Türkiye'de yazılım geliştiren her geliştiricinin karşılaştığı ortak bir sorun var: **güncel adres verisi bulmak**.
+- [Neden bu depo?](#neden-bu-depo)
+- [Özellikler](#özellikler)
+- [Veri şeması](#veri-şeması)
+- [Depo düzeni](#depo-düzeni)
+- [Slug ve dosya yolları](#slug-ve-dosya-yolları)
+- [Yerel çalıştırma](#yerel-çalıştırma)
+- [Katkı](#katkı)
+- [Sorumluluk reddi](#sorumluluk-reddi)
 
-- 📅 Çoğu veri kaynağı güncel değil
-- 🔄 Yeni ilçeler ve mahalleler ekleniyor, ancak veri setleri güncellenmiyor
-- ⚠️ Eski verilerle çalışan uygulamalar hatalı sonuçlar üretiyor
-- 💰 Ticari API'ler pahalı ve erişimi kısıtlı
-- 📦 Açık kaynak alternatifler çoğunlukla eski ve bakımsız
+## Neden bu depo?
 
-Bu proje, bu sorunu çözmek için doğrudan **PTT'nin resmi web sitesinden** veri çekerek, Türkiye'deki tüm geliştiricilere ücretsiz ve güncel bir kaynak sunuyor.
+Türkiye adres verisiyle çalışan projelerde sık karşılaşılan sorunlar:
 
-## ✨ Özellikler
+- Kamuya açık veya üçüncü parti listelerin güncelliğinin düşmesi
+- İdari değişikliklerin (yeni ilçe, mahalle, posta kodu) yansımaması
+- Ticari API maliyeti veya kullanım kısıtları
 
-- 🔄 **Günlük Otomatik Güncelleme**: Veriler her gün otomatik olarak PTT'den çekilir
-- 📍 **Resmi Kaynak**: Veriler PTT'nin resmi web sitesinden (`postakodu.ptt.gov.tr`) alınır
-- 🆓 **Tamamen Ücretsiz**: Açık kaynak ve herkesin kullanımına açık
-- 📊 **JSON Formatı**: Kolay entegrasyon için yapılandırılmış JSON formatında
-- 🏙️ **Kapsamlı Veri**: İl, ilçe, mahalle ve posta kodu bilgileri
-- 🤖 **Otomatik**: GitHub Actions ile tamamen otomatik çalışır
+Bu depo, veriyi doğrudan PTT üzerinden alır; günlük zamanlanmış iş akışı ile dosyalar güncellenir.
 
-## 📚 Veri Yapısı
+## Özellikler
 
-Proje, PTT'nin resmi web sitesinden (`https://postakodu.ptt.gov.tr`) aşağıdaki verileri çeker:
+|               |                                                 |
+| ------------- | ----------------------------------------------- |
+| **Güncellik** | Günlük otomatik çekim                           |
+| **Kaynak**    | `https://www.ptt.gov.tr`                        |
+| **Kapsam**    | İl → ilçe → mahalle; mahalle bazında posta kodu |
 
-- **İller** (İl ID ve İl Adı)
-- **İlçeler** (İlçe ID ve İlçe Adı)
-- **Mahalleler** (Mahalle ID, Mahalle Adı ve Posta Kodu)
+## Veri şeması
 
-### Örnek Veri Yapısı
+Her il kaydı şu alanları içerir (mahalle listesi ilçe altında):
+
+| Alan                               | Açıklama                                                                                 |
+| ---------------------------------- | ---------------------------------------------------------------------------------------- |
+| `il_id`                            | PTT il tanımlayıcısı                                                                     |
+| `il_adi`                           | İl adı                                                                                   |
+| `il_slug`                          | Klasör adlarıyla eşleşen URL-dostu tanımlayıcı (birleşik dosyada ve `iller.json` içinde) |
+| `ilceler`                          | İlçe dizisi                                                                              |
+| `ilce_id`, `ilce_adi`, `ilce_slug` | İlçe tanımı ve slug                                                                      |
+| `mahalleler`                       | `mahalle_id`, `mahalle_adi`, `posta_kodu` alanları                                       |
+
+Örnek (özet):
 
 ```json
 [
   {
     "il_id": "34",
     "il_adi": "İstanbul",
+    "il_slug": "istanbul",
     "ilceler": [
       {
         "ilce_id": "2054",
         "ilce_adi": "Kadıköy",
+        "ilce_slug": "kadikoy",
         "mahalleler": [
           {
             "mahalle_id": "12345",
@@ -59,58 +74,83 @@ Proje, PTT'nin resmi web sitesinden (`https://postakodu.ptt.gov.tr`) aşağıdak
 ]
 ```
 
-## 🔄 Otomatik Güncelleme
+## Depo düzeni
 
-Bu proje, **GitHub Actions** kullanarak her gün otomatik olarak çalışır ve verileri günceller. Yeni ilçeler, mahalleler veya posta kodları eklendiğinde, otomatik olarak veri setine dahil edilir.
+### Birleşik dosya
 
-## 🚀 Kullanım
+| Yol                                                            | İçerik                                                      |
+| -------------------------------------------------------------- | ----------------------------------------------------------- |
+| [`PTT/ptt_il_ilce_mahalle.json`](PTT/ptt_il_ilce_mahalle.json) | Tüm ülke; tek istekte veya tam ağaç ihtiyacı için uygundur. |
 
-### Veri Dosyalarına Erişim
+### `PTT/iller` — il ve ilçe bazında bölünmüş dosyalar
 
-Proje, çekilen verileri JSON formatında depolar. En güncel veri dosyasını repository'de bulabilirsiniz.
+Aynı bilgi, küçük parçalar halinde okunabilir:
 
-### Yerel Çalıştırma
+```text
+PTT/
+├── ptt_il_ilce_mahalle.json
+└── iller/
+    ├── iller.json
+    ├── istanbul/
+    │   ├── ilceler.json
+    │   ├── uskudar/
+    │   │   └── mahalleler.json
+    │   └── kadikoy/
+    │       └── mahalleler.json
+    └── ankara/
+        ├── ilceler.json
+        └── ...
+```
 
-Eğer script'i kendiniz çalıştırmak isterseniz:
+| Yol                                | Dosya                                | İçerik                                  |
+| ---------------------------------- | ------------------------------------ | --------------------------------------- |
+| `PTT/iller/`                       | [`iller.json`](PTT/iller/iller.json) | Tüm iller; `il_id`, `il_adi`, `il_slug` |
+| `PTT/iller/{il_slug}/`             | `ilceler.json`                       | O ile ait ilçeler; `ilce_slug` dahil    |
+| `PTT/iller/{il_slug}/{ilce_slug}/` | `mahalleler.json`                    | Mahalleler ve posta kodları             |
+
+Örnek doğrudan kullanım: [İstanbul / Üsküdar mahalleleri](PTT/iller/istanbul/uskudar/mahalleler.json).
+
+```mermaid
+flowchart LR
+    M["ptt_il_ilce_mahalle.json"]
+    G["generate_iller_structure.py"]
+    T["PTT/iller/ ..."]
+    M --> G --> T
+```
+
+## Slug ve dosya yolları
+
+- `PTT/iller/` altındaki **il klasör adı**, `iller.json` ve birleşik JSON’daki **`il_slug`** ile aynıdır (ör. `istanbul`, `sanliurfa`).
+- İl altındaki **ilçe klasör adı**, ilgili **`ilce_slug`** ile aynıdır (ör. `uskudar`, `merkez`).
+- Slug’lar dosya sistemi ve URL’ler için ASCII’ye indirgenmiş adlardan türetilir; haritalama için her zaman [`PTT/iller/iller.json`](PTT/iller/iller.json) ve ilgili `ilceler.json` dosyalarına başvurun.
+
+## Yerel çalıştırma
+
+**Gereksinimler:** Python 3.11+ önerilir (iş akışlarıyla uyumlu). Scraper doğrudan `requests` kullanır; `urllib3` uyarılarını bastırmak için betiğe dahildir.
 
 ```bash
-# Bağımlılıkları yükleyin
-pip install requests beautifulsoup4
-
-# Script'i çalıştırın
+pip install requests
 python .github/scripts/scrape_ptt.py
 ```
 
-## 🤝 Katkıda Bulunun
+Birleşik dosyayı elle veya farklı bir kaynaktan güncelledikten sonra klasör ağacını yeniden oluşturmak için:
 
-Bu proje, Türkiye'deki tüm geliştiriciler için bir kaynak. Katkılarınızı bekliyoruz!
+```bash
+python .github/scripts/generate_iller_structure.py
+```
 
-### Nasıl Katkıda Bulunabilirsiniz?
+## Katkı
 
-- 🐛 **Hata Bildirimi**: Bir sorun bulduysanız issue açın
-- 💡 **Öneriler**: Yeni fikirler ve önerilerinizi paylaşın
-- 🔧 **Kod Katkısı**: Pull request göndererek projeyi geliştirin
-- 📖 **Dokümantasyon**: Dokümantasyonu iyileştirmeye yardımcı olun
-- ⭐ **Yıldız Verin**: Projeyi beğendiyseniz yıldız vermeyi unutmayın!
+- Hata veya tutarsızlık: [Issues](https://github.com/cyaxaress/tukiye-address/issues) üzerinden bildirin.
+- İyileştirme veya yeni format: önce kısa bir tartışma veya PR açıklamasıyla hedefi netleştirin.
+- Bu README’deki **Son güncelleme** bölümü otomatik güncellenir; başlık metni (`## 📅 Son Güncelleme` ve `**Son güncelleme:**`) değiştirilirse scraper’daki düzenli ifade de güncellenmelidir.
 
-### Fikirler ve Öneriler
+## Sorumluluk reddi
 
-Aşağıdaki konularda fikirlerinizi paylaşabilirsiniz:
+Veri, PTT’nin yayınladığı kaynağa dayanır; doğruluk ve güncellik nihai olarak o kaynağa bağlıdır. Bu depo resmi bir PTT ürünü değildir; üretim ortamında kritik kararlar için kaynakla çapraz kontrol önerilir.
 
-- Veri formatı iyileştirmeleri
-- Yeni özellikler (örneğin: API endpoint, farklı formatlar)
-- Performans optimizasyonları
-- Dokümantasyon geliştirmeleri
-- Test kapsamı artırımı
-
-## 📝 Lisans
-
-Bu proje açık kaynaklıdır ve topluluk tarafından geliştirilmektedir.
-
-## 🙏 Teşekkürler
-
-PTT'ye, resmi web sitesi üzerinden bu verileri sağladığı için teşekkür ederiz.
+Teşekkür: Adres bilgisini kamuya açık arayüz ve API ile sunan PTT’ye.
 
 ---
 
-**Not**: Bu proje, PTT'nin resmi web sitesinden veri çekmektedir. Verilerin doğruluğu ve güncelliği PTT'nin kaynağına bağlıdır.
+_Lisans: Depoda ayrı bir `LICENSE` dosyası yoksa, kullanım koşulları depo sahibinin tercihine göre netleştirilmelidir._
