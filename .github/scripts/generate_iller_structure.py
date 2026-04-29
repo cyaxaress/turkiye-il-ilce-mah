@@ -6,6 +6,7 @@ Klasör adları scrape_ptt_address2.py çıktısındaki il_slug / ilce_slug ile 
 (eski JSON için il_adi / ilce_adi sanitize edilir).
 
 Oluşturulan yapı:
+- PTT/iller/iller.json (tüm iller; ilceler.json ile aynı kayıt biçimi: id, ad, isteğe bağlı slug)
 - PTT/iller/{il_slug}/ilceler.json
 - PTT/iller/{il_slug}/{ilce_slug}/mahalleler.json
 """
@@ -50,7 +51,23 @@ def generate_iller_structure():
     
     # Create iller directory if it doesn't exist
     iller_dir.mkdir(parents=True, exist_ok=True)
-    
+
+    # Tüm iller: ilceler.json ile aynı yapı (id, ad, varsa slug)
+    iller_data = []
+    for il in data:
+        entry = {
+            "il_id": il["il_id"],
+            "il_adi": il["il_adi"],
+        }
+        if il.get("il_slug"):
+            entry["il_slug"] = il["il_slug"]
+        iller_data.append(entry)
+
+    iller_file = iller_dir / "iller.json"
+    with open(iller_file, "w", encoding="utf-8") as f:
+        json.dump(iller_data, f, ensure_ascii=False, indent=4)
+    print(f"Wrote {len(iller_data)} provinces to {iller_file}")
+
     # Process each il
     for il in data:
         il_adi = il["il_adi"]
