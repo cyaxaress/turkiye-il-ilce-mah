@@ -1,0 +1,662 @@
+[
+    {
+        "mahalle_id": "10_1291_452ca0d4138a92570cc31465ff0f52a3",
+        "mahalle_adi": "Bozyokuş Mah.",
+        "mahalle_slug": "bozyokus-mah",
+        "posta_kodu": "10800"
+    },
+    {
+        "mahalle_id": "10_1291_b81783ab6b4728e2518bae44813d25ef",
+        "mahalle_adi": "Çakmak Mah.",
+        "mahalle_slug": "cakmak-mah",
+        "posta_kodu": "10800"
+    },
+    {
+        "mahalle_id": "10_1291_d7ce243702dd1a12ab4e7e30ce54d0d2",
+        "mahalle_adi": "Cebeci Mah.",
+        "mahalle_slug": "cebeci-mah",
+        "posta_kodu": "10800"
+    },
+    {
+        "mahalle_id": "10_1291_b8d2dc395f2dd1abd98f17eecf60a1f5",
+        "mahalle_adi": "Çiftçi Mah.",
+        "mahalle_slug": "ciftci-mah",
+        "posta_kodu": "10800"
+    },
+    {
+        "mahalle_id": "10_1291_09f20ffc6e37b0bd758c06ac9ac0fdcd",
+        "mahalle_adi": "Ferah Mah.",
+        "mahalle_slug": "ferah-mah",
+        "posta_kodu": "10800"
+    },
+    {
+        "mahalle_id": "10_1291_7c4caf178838f866512f103965e661fc",
+        "mahalle_adi": "İstasyon Mah.",
+        "mahalle_slug": "istasyon-mah",
+        "posta_kodu": "10800"
+    },
+    {
+        "mahalle_id": "10_1291_a046365d9000c24b245d6ffbdbdb23a0",
+        "mahalle_adi": "Mollaoğlu Mah.",
+        "mahalle_slug": "mollaoglu-mah",
+        "posta_kodu": "10800"
+    },
+    {
+        "mahalle_id": "10_1291_76076165d8bddd7881093ef531462741",
+        "mahalle_adi": "Üçeylül Mah.",
+        "mahalle_slug": "uceylul-mah",
+        "posta_kodu": "10800"
+    },
+    {
+        "mahalle_id": "10_1291_c72fb8b8339eb43c668cdf2409c7cdf7",
+        "mahalle_adi": "Vakıf Mah.",
+        "mahalle_slug": "vakif-mah",
+        "posta_kodu": "10800"
+    },
+    {
+        "mahalle_id": "10_1291_e3f2b07fda018ddaec316673415c598b",
+        "mahalle_adi": "Adaören Mah.",
+        "mahalle_slug": "adaoren-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_baba6ea1318cd2103504f07e78edceeb",
+        "mahalle_adi": "Akbaşlar Mah.",
+        "mahalle_slug": "akbaslar-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_10e804377de7d4875ddb5e599583ee2f",
+        "mahalle_adi": "Akçagüney Mah.",
+        "mahalle_slug": "akcaguney-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_e18d141ed6169feab357ebead8bdb412",
+        "mahalle_adi": "Akyayla Mah.",
+        "mahalle_slug": "akyayla-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_d68d3608e2be1251b53949a375fc6929",
+        "mahalle_adi": "Alaçam Mah.",
+        "mahalle_slug": "alacam-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_ab1e6cca26d76716e8c8ff831bca688a",
+        "mahalle_adi": "Alagüney Mah.",
+        "mahalle_slug": "alaguney-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_f167a3a82c70f6748be4b8940d4ada73",
+        "mahalle_adi": "Arıklar Mah.",
+        "mahalle_slug": "ariklar-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_8a3d6f1691690d003c8e3f333d01f826",
+        "mahalle_adi": "Aşağımusalar Mah.",
+        "mahalle_slug": "asagimusalar-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_c0f4b5566af8c480af65448968ab4ec4",
+        "mahalle_adi": "Aşağıyağcılar Mah.",
+        "mahalle_slug": "asagiyagcilar-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_bdfcad34509e774cd0d09a6cde9db716",
+        "mahalle_adi": "Ayvacık Mah.",
+        "mahalle_slug": "ayvacik-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_7e87597113f2f72c7d9a660488e1212f",
+        "mahalle_adi": "Aziziye Mah.",
+        "mahalle_slug": "aziziye-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_3bc9a9c6f68c2a910481233e4a477379",
+        "mahalle_adi": "Bayıryüzügüney Mah.",
+        "mahalle_slug": "bayiryuzuguney-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_abd4f9be8a034dbee9df7d255ba08acf",
+        "mahalle_adi": "Beyce Mah.",
+        "mahalle_slug": "beyce-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_becb56e152e7f5efad2dbb7951279ea0",
+        "mahalle_adi": "Beyel Mah.",
+        "mahalle_slug": "beyel-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_7bfaa8ceb34925d3209ea2253d1f9ac2",
+        "mahalle_adi": "Boyalıca Mah.",
+        "mahalle_slug": "boyalica-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_4bea495399a0f1007ffef481e9a92a42",
+        "mahalle_adi": "Büyükakçaalan Mah.",
+        "mahalle_slug": "buyukakcaalan-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_2cb762e8475b1fe31eaf578b2630dedb",
+        "mahalle_adi": "Çakırca Mah.",
+        "mahalle_slug": "cakirca-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_e78f937dcb7b4308d1c6069a3a3156a5",
+        "mahalle_adi": "Çaltıcak Mah.",
+        "mahalle_slug": "calticak-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_7e4f72b6d9506594d1832c4f9b7ba114",
+        "mahalle_adi": "Çamharman Mah.",
+        "mahalle_slug": "camharman-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_cac12535880dcfa77a3665f96244369e",
+        "mahalle_adi": "Çamköy Mah.",
+        "mahalle_slug": "camkoy-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_6f763825ddd2e320e0cae8d867f16ae1",
+        "mahalle_adi": "Çanakçı Mah.",
+        "mahalle_slug": "canakci-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_6478921b231d40b06f8c737bdc688ac0",
+        "mahalle_adi": "Çatalçam Mah.",
+        "mahalle_slug": "catalcam-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_0a92c6dcfa96f2972a62fdaaf9cbf493",
+        "mahalle_adi": "Çelikler Mah.",
+        "mahalle_slug": "celikler-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_4e96b4f24d924f29b7f5f80502e2c29f",
+        "mahalle_adi": "Çınarköy Mah.",
+        "mahalle_slug": "cinarkoy-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_4b59e90957f997b083183df4b9fd863b",
+        "mahalle_adi": "Dada Mah.",
+        "mahalle_slug": "dada-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_61d50c175b503a5af3a4f26e7aa1db54",
+        "mahalle_adi": "Değirmenciler Mah.",
+        "mahalle_slug": "degirmenciler-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_8d0fab819acd0bef205333dd7d5ae398",
+        "mahalle_adi": "Delice Mah.",
+        "mahalle_slug": "delice-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_5ccb02a0c5d205c0c2a8c06548f7009a",
+        "mahalle_adi": "Demirciler Mah.",
+        "mahalle_slug": "demirciler-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_f59fba52ac5b8a36f226afb2bdf7d663",
+        "mahalle_adi": "Dereköy Mah.",
+        "mahalle_slug": "derekoy-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_9f2e2292971a30b7d01b51e410f2b9d9",
+        "mahalle_adi": "Dodurga Mah.",
+        "mahalle_slug": "dodurga-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_7d213c3cdc04be24550c4d540dc55718",
+        "mahalle_adi": "Doğancılar Mah.",
+        "mahalle_slug": "dogancilar-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_99f37467add398d3646dcb557b342d06",
+        "mahalle_adi": "Durabeyler Mah.",
+        "mahalle_slug": "durabeyler-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_0cf4020a09b5160f165bf6b1c95116a5",
+        "mahalle_adi": "Ericek Mah.",
+        "mahalle_slug": "ericek-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_be7fcd7383881bc7c219fa6d65926b5e",
+        "mahalle_adi": "Gazellidere Mah.",
+        "mahalle_slug": "gazellidere-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_b5bc0da4e896cb9f63dc131f9b5d7721",
+        "mahalle_adi": "Göbül Mah.",
+        "mahalle_slug": "gobul-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_7215a9b5525e7ab1f7cf7377f056e1a0",
+        "mahalle_adi": "Gökçedağ Mah.",
+        "mahalle_slug": "gokcedag-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_fbfb8e0fa1587bb4a9dab42a1d4455f3",
+        "mahalle_adi": "Gökçepınar Mah.",
+        "mahalle_slug": "gokcepinar-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_fc0952bd80c563d37ae451005b5ef884",
+        "mahalle_adi": "Gölcük Mah.",
+        "mahalle_slug": "golcuk-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_99fc034ea39999f91af0c7ee4aa38e13",
+        "mahalle_adi": "Güğü Mah.",
+        "mahalle_slug": "gugu-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_454589744e0535e6ca9032c36fb41af0",
+        "mahalle_adi": "Gürleyen Mah.",
+        "mahalle_slug": "gurleyen-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_1134d1a8755d43137466351ce88ad6d7",
+        "mahalle_adi": "Hacıahmetpınarı Mah.",
+        "mahalle_slug": "haciahmetpinari-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_d4a9656ba83106c2bbc1a9f9d5555bc0",
+        "mahalle_adi": "Hacılar Mah.",
+        "mahalle_slug": "hacilar-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_371e1a155499c71285cff4b498fa20ee",
+        "mahalle_adi": "Hamzacık Mah.",
+        "mahalle_slug": "hamzacik-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_6d979c62a8d778a45cd80347e83e17af",
+        "mahalle_adi": "Hasanlar Mah.",
+        "mahalle_slug": "hasanlar-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_18e02017c27f8f60ae198d267510d44c",
+        "mahalle_adi": "Hindikler Mah.",
+        "mahalle_slug": "hindikler-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_4aaf13ad8d0cf47f7ad4e231580ecd65",
+        "mahalle_adi": "Hondular Mah.",
+        "mahalle_slug": "hondular-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_4640652d7c15ffe394be86ce6ba744e0",
+        "mahalle_adi": "Hopanlar Mah.",
+        "mahalle_slug": "hopanlar-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_24edebee2bde3ace762ea5c97150e283",
+        "mahalle_adi": "İrfaniye Mah.",
+        "mahalle_slug": "irfaniye-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_32bc1ee4913065ef15e51619a0ff36ee",
+        "mahalle_adi": "Işıklar Mah.",
+        "mahalle_slug": "isiklar-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_d62508663228a3449713891b35610cd1",
+        "mahalle_adi": "İsmailler Mah.",
+        "mahalle_slug": "ismailler-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_e7301a94e87f3c7fe27cb488cb4d7329",
+        "mahalle_adi": "Karagöz Mah.",
+        "mahalle_slug": "karagoz-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_e45b33655971312b211c5a467701ab71",
+        "mahalle_adi": "Karakaya Mah.",
+        "mahalle_slug": "karakaya-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_17361a3ac80362a29cc5aa024bc5eb6c",
+        "mahalle_adi": "Karamanlar Mah.",
+        "mahalle_slug": "karamanlar-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_d2e16bde0fde7581ded99290c10037b2",
+        "mahalle_adi": "Karapınar Mah.",
+        "mahalle_slug": "karapinar-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_4679138aaf6097f2c6f8ac14d7bfd50e",
+        "mahalle_adi": "Kardeşler Mah.",
+        "mahalle_slug": "kardesler-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_93fbae1cd1d399e0fe045581c3a42df1",
+        "mahalle_adi": "Kavacık Mah.",
+        "mahalle_slug": "kavacik-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_3f1945af77353f168558425f55d44e28",
+        "mahalle_adi": "Kavakköy Mah.",
+        "mahalle_slug": "kavakkoy-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_2f5783f1b509dbdb95ff8e1acbfc8538",
+        "mahalle_adi": "Kazimiye Mah.",
+        "mahalle_slug": "kazimiye-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_9bc6932e9784320588eb9d95072fd3d4",
+        "mahalle_adi": "Kireç Mah.",
+        "mahalle_slug": "kirec-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_c1db94f16b3f10040ecf009474c8224e",
+        "mahalle_adi": "Kızılcadere Mah.",
+        "mahalle_slug": "kizilcadere-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_7b716e765383dde513ab1c99f1e53c5e",
+        "mahalle_adi": "Kızılöz Mah.",
+        "mahalle_slug": "kiziloz-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_8c3d6441ced8c3dc4a3b787806460e06",
+        "mahalle_adi": "Küçükakçaalan Mah.",
+        "mahalle_slug": "kucukakcaalan-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_ccd47b0b3ada5d23042e0df88e3a3d7e",
+        "mahalle_adi": "Küçükler Mah.",
+        "mahalle_slug": "kucukler-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_3183a38f80c289c744c2a1d3ad305c0e",
+        "mahalle_adi": "Kumlu Mah.",
+        "mahalle_slug": "kumlu-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_e5b0ea0dd382544d1e1e7d7984c65ab9",
+        "mahalle_adi": "Kurtlar Mah.",
+        "mahalle_slug": "kurtlar-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_da920ba472f7114a7f7d0fb0234a0a3b",
+        "mahalle_adi": "Kuzköy Mah.",
+        "mahalle_slug": "kuzkoy-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_0bffaf68fa02c0b9b68ebc29e72ad232",
+        "mahalle_adi": "Mahmudiye Mah.",
+        "mahalle_slug": "mahmudiye-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_d58bed048390e68920a875e571089c9d",
+        "mahalle_adi": "Mahmutça Mah.",
+        "mahalle_slug": "mahmutca-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_1c67db453834745c8a66fd9b5f2582e0",
+        "mahalle_adi": "Meydançayırı Mah.",
+        "mahalle_slug": "meydancayiri-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_3ea5d82a531843588d6a38ff04b9085f",
+        "mahalle_adi": "Mıcırlar Mah.",
+        "mahalle_slug": "micirlar-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_01490660ce9bf23d7a7b0ab151854ef1",
+        "mahalle_adi": "Naipler Mah.",
+        "mahalle_slug": "naipler-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_96f4276e89f4c9643ae804ad2c485494",
+        "mahalle_adi": "Odaköy Mah.",
+        "mahalle_slug": "odakoy-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_f27bc8bd5ecc6015e8a7a377d350650a",
+        "mahalle_adi": "Örenköy Mah.",
+        "mahalle_slug": "orenkoy-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_c2021bb3ddf8f0dc4897ecdcbe672255",
+        "mahalle_adi": "Osmaniye Mah.",
+        "mahalle_slug": "osmaniye-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_bde3d6d1267d8c12b5df0be7473da655",
+        "mahalle_adi": "Poyracık Mah.",
+        "mahalle_slug": "poyracik-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_eaa24af4c3beeca0f713ddc8ef61a363",
+        "mahalle_adi": "Ramazanlar Mah.",
+        "mahalle_slug": "ramazanlar-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_552e70b8832b1aca0be3fe8614227a0f",
+        "mahalle_adi": "Reşadiye Mah.",
+        "mahalle_slug": "resadiye-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_15e191b0eaa8df1c26f37ca90599b649",
+        "mahalle_adi": "Resüller Mah.",
+        "mahalle_slug": "resuller-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_956d87eaa50ade42f20286eefc3e4e9c",
+        "mahalle_adi": "Şabanlar Mah.",
+        "mahalle_slug": "sabanlar-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_c79163d7060564afdb0a046b6fa140a5",
+        "mahalle_adi": "Saçayak Mah.",
+        "mahalle_slug": "sacayak-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_93ec3b032698a5263a89a38a00b81f55",
+        "mahalle_adi": "Sağırlar Mah.",
+        "mahalle_slug": "sagirlar-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_8053b401e7e6c36a7751b3f7821f7fbb",
+        "mahalle_adi": "Sakızköy Mah.",
+        "mahalle_slug": "sakizkoy-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_aa13ac76e70b0d3ed43cb2a1ccd38a48",
+        "mahalle_adi": "Sarısipahiler Mah.",
+        "mahalle_slug": "sarisipahiler-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_eb9efc7950b30a01dc8efeb1f55b2ab2",
+        "mahalle_adi": "Sarnıçköy Mah.",
+        "mahalle_slug": "sarnickoy-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_41e2ecf3de3fb65a867e2e5f3dc9fd17",
+        "mahalle_adi": "Sebiller Mah.",
+        "mahalle_slug": "sebiller-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_a23cc310c5211b6a8c50aad5840f5001",
+        "mahalle_adi": "Selimağa Mah.",
+        "mahalle_slug": "selimaga-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_e561f242a165aad9adfa936d94986f79",
+        "mahalle_adi": "Şenköy Mah.",
+        "mahalle_slug": "senkoy-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_3fe96c647add92aafda7b44d589b6334",
+        "mahalle_adi": "Sinderler Mah.",
+        "mahalle_slug": "sinderler-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_11a8c1aeb853e42ae0383e1ce65b4f60",
+        "mahalle_adi": "Süleler Mah.",
+        "mahalle_slug": "suleler-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_0cf679253fdae98fae401c252ad6230b",
+        "mahalle_adi": "Tafak Mah.",
+        "mahalle_slug": "tafak-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_9dcafd8be1aa4826b477f0176409e92d",
+        "mahalle_adi": "Taşkesiği Mah.",
+        "mahalle_slug": "taskesigi-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_7897469c3561f228f97b244d3ad8c2e2",
+        "mahalle_adi": "Taşpınar Mah.",
+        "mahalle_slug": "taspinar-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_1beceef99db029855703038b54920bb8",
+        "mahalle_adi": "Tepeköy Mah.",
+        "mahalle_slug": "tepekoy-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_d4395dd64dd8ce34595b4fbe9f86436c",
+        "mahalle_adi": "Tezlik Mah.",
+        "mahalle_slug": "tezlik-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_7d49afab3948217b44847b63a57bad2b",
+        "mahalle_adi": "Turnacık Mah.",
+        "mahalle_slug": "turnacik-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_dd21576e4e337b481b3fcdf82a8e4b3a",
+        "mahalle_adi": "Umurlar Mah.",
+        "mahalle_slug": "umurlar-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_990e0a508946b9d8fb62c812c71c8be9",
+        "mahalle_adi": "Veliler Mah.",
+        "mahalle_slug": "veliler-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_fdeff9f23b7556a4dc4d104b744f5098",
+        "mahalle_adi": "Yassıören Mah.",
+        "mahalle_slug": "yassioren-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_4638243f38015d820a10979e9bf7663b",
+        "mahalle_adi": "Yukarımusalar Mah.",
+        "mahalle_slug": "yukarimusalar-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_32b6800d939dadfce368e8662f0360d5",
+        "mahalle_adi": "Yukarıyağcılar Mah.",
+        "mahalle_slug": "yukariyagcilar-mah",
+        "posta_kodu": "10802"
+    },
+    {
+        "mahalle_id": "10_1291_f7b17763f512d6c4d9918f3662acca67",
+        "mahalle_adi": "Yunuslar Mah.",
+        "mahalle_slug": "yunuslar-mah",
+        "posta_kodu": "10802"
+    }
+]

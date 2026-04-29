@@ -1,0 +1,326 @@
+[
+    {
+        "mahalle_id": "15_1357_92a1d4299da26ea00ff0a877f5fd3152",
+        "mahalle_adi": "Armutlu Mah.",
+        "mahalle_slug": "armutlu-mah",
+        "posta_kodu": "15400"
+    },
+    {
+        "mahalle_id": "15_1357_a49ebfbffddf009491646b32ccd6a8fb",
+        "mahalle_adi": "Çakmak Mah.",
+        "mahalle_slug": "cakmak-mah",
+        "posta_kodu": "15400"
+    },
+    {
+        "mahalle_id": "15_1357_46cadee359a9b13ea28f23f3f3f37a33",
+        "mahalle_adi": "Çeşme Mah.",
+        "mahalle_slug": "cesme-mah",
+        "posta_kodu": "15400"
+    },
+    {
+        "mahalle_id": "15_1357_947d6112c4e0f83bf2d0876595f53619",
+        "mahalle_adi": "Fatih Mah.",
+        "mahalle_slug": "fatih-mah",
+        "posta_kodu": "15400"
+    },
+    {
+        "mahalle_id": "15_1357_5743a49cd71ad950a4e41e26cf578f8d",
+        "mahalle_adi": "Horzum Mah.",
+        "mahalle_slug": "horzum-mah",
+        "posta_kodu": "15400"
+    },
+    {
+        "mahalle_id": "15_1357_ada0a1250799f8e2f8c3d34e2449e480",
+        "mahalle_adi": "Konak Mah.",
+        "mahalle_slug": "konak-mah",
+        "posta_kodu": "15400"
+    },
+    {
+        "mahalle_id": "15_1357_76556b70f0589316d4c9475d30262e43",
+        "mahalle_adi": "Merkez Camii Mah.",
+        "mahalle_slug": "merkez-camii-mah",
+        "posta_kodu": "15400"
+    },
+    {
+        "mahalle_id": "15_1357_a2c938240d7bd2b82a24fe3585c29aa3",
+        "mahalle_adi": "Pazar Mah.",
+        "mahalle_slug": "pazar-mah",
+        "posta_kodu": "15400"
+    },
+    {
+        "mahalle_id": "15_1357_83900a0331a2038be64f8672fcc7e6d0",
+        "mahalle_adi": "Ulucamii Mah.",
+        "mahalle_slug": "ulucamii-mah",
+        "posta_kodu": "15400"
+    },
+    {
+        "mahalle_id": "15_1357_5b0f1ff1af3e727d3b00c58dade5eab4",
+        "mahalle_adi": "Asmalı Köyü",
+        "mahalle_slug": "asmali-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_f384ecdf81c144bf468be1c88e1d499b",
+        "mahalle_adi": "Balcılar / Elmalıyurt Köyü",
+        "mahalle_slug": "balcilar-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_e9b60a3587dfced311a53579064647d6",
+        "mahalle_adi": "Başpınar / Elmalıyurt Köyü",
+        "mahalle_slug": "baspinar-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_f098df27b95db1597470b38eb11fa885",
+        "mahalle_adi": "Bayramlar / Elmalıyurt Köyü",
+        "mahalle_slug": "bayramlar-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_57c0a07d7944331dcf5a2fe9be23f42b",
+        "mahalle_adi": "Çamiçi / Elmalıyurt Köyü",
+        "mahalle_slug": "camici-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_a71e60adc429f02f6e9d40c1db48cf66",
+        "mahalle_adi": "Çamköy Köyü",
+        "mahalle_slug": "camkoy-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_cb3765b78baa448edfdeea4a0eebc81a",
+        "mahalle_adi": "Çamlık / İbecik Köyü",
+        "mahalle_slug": "camlik-ibecik-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_f2004782e55551d1a7cfcf4cd6e49ba0",
+        "mahalle_adi": "Çayiçi / Elmalıyurt Köyü",
+        "mahalle_slug": "cayici-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_d29a2b9a2c52a3c69ca748e11f0a11b8",
+        "mahalle_adi": "Damarası / Elmalıyurt Köyü",
+        "mahalle_slug": "damarasi-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_6be65f8c93038dd6a918b9dd8a30fae4",
+        "mahalle_adi": "Delicin / Elmalıyurt Köyü",
+        "mahalle_slug": "delicin-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_96cf2f66d32a91d6e42b9e3c5815130e",
+        "mahalle_adi": "Deprem Evleri / Evciler Köyü",
+        "mahalle_slug": "deprem-evleri-evciler-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_30a718c44885f73048d5bd367dfc4952",
+        "mahalle_adi": "Divre / Elmalıyurt Köyü",
+        "mahalle_slug": "divre-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_46c8371cc6d15fb2f6a3ef3f6a4361c6",
+        "mahalle_adi": "Doğanlar / Elmalıyurt Köyü",
+        "mahalle_slug": "doganlar-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_32653ddb5e8731ade3ae708edd38d71e",
+        "mahalle_adi": "Göçekiçi / Elmalıyurt Köyü",
+        "mahalle_slug": "gocekici-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_9f94a30b079bcb7a28bdb5bb16702a3a",
+        "mahalle_adi": "Gökçe Pınar / Yeşildere Köyü",
+        "mahalle_slug": "gokce-pinar-yesildere-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_9ceec3b66fe206411277e8cdfa4c3d7c",
+        "mahalle_adi": "Hanyanı / Elmalıyurt Köyü",
+        "mahalle_slug": "hanyani-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_f6a1926c380ac85e9d7cd3dfb1e2fed4",
+        "mahalle_adi": "Karataş / Elmalıyurt Köyü",
+        "mahalle_slug": "karatas-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_572d073b64c1ba7ea279a938456590db",
+        "mahalle_adi": "Kelaliler / Elmalıyurt Köyü",
+        "mahalle_slug": "kelaliler-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_b8a10466ce95eb0e3dbce7e7ad41dc97",
+        "mahalle_adi": "Kocatarla / Hisarardı Köyü",
+        "mahalle_slug": "kocatarla-hisarardi-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_cacd75c3e2804b301e7b626ecccd12e7",
+        "mahalle_adi": "Künüklü / Elmalıyurt Köyü",
+        "mahalle_slug": "kunuklu-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_aac8340108479d484629042f1779383b",
+        "mahalle_adi": "Kürtlüyamaç / Elmalıyurt Köyü",
+        "mahalle_slug": "kurtluyamac-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_a94871828adac7285b4c51e0e63fbd55",
+        "mahalle_adi": "Kuşdili Mevkii / Karapınar Köyü",
+        "mahalle_slug": "kusdili-mevkii-karapinar-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_0d15903f07d3a5ce5544d3d1e510038b",
+        "mahalle_adi": "Merkez / Elmalıyurt Köyü",
+        "mahalle_slug": "merkez-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_f950abd115dc134228d7c75a648ce763",
+        "mahalle_adi": "Merkez / Evciler Köyü",
+        "mahalle_slug": "merkez-evciler-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_65ff37a81eb66fec66ee038f9e007d46",
+        "mahalle_adi": "Merkez / Hisarardı Köyü",
+        "mahalle_slug": "merkez-hisarardi-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_9bf0fb36812457f16822611e1e2935d5",
+        "mahalle_adi": "Merkez / Karapınar Köyü",
+        "mahalle_slug": "merkez-karapinar-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_e550610617a7022b656c04798cf49cde",
+        "mahalle_adi": "Merkez / Kargalı Köyü",
+        "mahalle_slug": "merkez-kargali-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_aaef325b9c170921658eb79fcf5f8341",
+        "mahalle_adi": "Merkez / Uylupınar Köyü",
+        "mahalle_slug": "merkez-uylupinar-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_89d9a3497375611031df9f6190fd0b44",
+        "mahalle_adi": "Merkez / Yeşildere Köyü",
+        "mahalle_slug": "merkez-yesildere-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_30c29dcc0339d25adff9d833acc86bda",
+        "mahalle_adi": "Orta / Elmalıyurt Köyü",
+        "mahalle_slug": "orta-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_44b381f45e69a57f75f15dc5c071d222",
+        "mahalle_adi": "Pazar Yeri / Elmalıyurt Köyü",
+        "mahalle_slug": "pazar-yeri-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_f4a829e80e9dcd640c4dcd6effa38199",
+        "mahalle_adi": "Selmanlar / Elmalıyurt Köyü",
+        "mahalle_slug": "selmanlar-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_7db4dd6a3a61548389f259c68ebc17b9",
+        "mahalle_adi": "Sorkun Köyü",
+        "mahalle_slug": "sorkun-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_6032ede97b3bc8eaf732288d71be0f56",
+        "mahalle_adi": "Tekeliler / Elmalıyurt Köyü",
+        "mahalle_slug": "tekeliler-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_045f3dd5a0f45337b2bb2cecb6e348b9",
+        "mahalle_adi": "Turanlar / Elmalıyurt Köyü",
+        "mahalle_slug": "turanlar-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_b9d1e6c8251561cb9d068b5668bd018a",
+        "mahalle_adi": "Üçoluk / Yeşildere Köyü",
+        "mahalle_slug": "ucoluk-yesildere-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_035a157683deedaabe07496d0a13295c",
+        "mahalle_adi": "Yağpınarı / Kargalı Köyü",
+        "mahalle_slug": "yagpinari-kargali-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_38c8a5b059f7454a93ea66d1d8b015ff",
+        "mahalle_adi": "Yamadı Köyü",
+        "mahalle_slug": "yamadi-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_851ee8b514fdd689a019a710fc80609b",
+        "mahalle_adi": "Yapraklı / İbecik Köyü",
+        "mahalle_slug": "yaprakli-ibecik-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_dadcc7a1f34d1b93d1b0573cc88b0947",
+        "mahalle_adi": "Yeni / İbecik Köyü",
+        "mahalle_slug": "yeni-ibecik-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_a0af21c030e9b429d726f65eb2631e04",
+        "mahalle_adi": "Yılanlı / Elmalıyurt Köyü",
+        "mahalle_slug": "yilanli-elmaliyurt-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_3373e5b4890f8f741c9e9ed39a36105e",
+        "mahalle_adi": "Yukarı / Uylupınar Köyü",
+        "mahalle_slug": "yukari-uylupinar-koyu",
+        "posta_kodu": "15402"
+    },
+    {
+        "mahalle_id": "15_1357_3b33e311703266d24dc266b0f9dc0a0f",
+        "mahalle_adi": "Aşağı Mah.",
+        "mahalle_slug": "asagi-mah",
+        "posta_kodu": "15413"
+    },
+    {
+        "mahalle_id": "15_1357_80981d7d3d73a93042ddbdaa67ff986a",
+        "mahalle_adi": "Yeni Mah.",
+        "mahalle_slug": "yeni-mah",
+        "posta_kodu": "15413"
+    },
+    {
+        "mahalle_id": "15_1357_926450bf6b79efca80a666e75710b002",
+        "mahalle_adi": "Yukarı Mah.",
+        "mahalle_slug": "yukari-mah",
+        "posta_kodu": "15413"
+    }
+]

@@ -1,0 +1,410 @@
+[
+    {
+        "mahalle_id": "80_2028_bd99c85b1800914baac83a873814fd75",
+        "mahalle_adi": "Armağanlı Mah.",
+        "mahalle_slug": "armaganli-mah",
+        "posta_kodu": "80940"
+    },
+    {
+        "mahalle_id": "80_2028_b9194b4e2027a52ae4203ee57a994d92",
+        "mahalle_adi": "Cumhuriyet Mah.",
+        "mahalle_slug": "cumhuriyet-mah",
+        "posta_kodu": "80940"
+    },
+    {
+        "mahalle_id": "80_2028_5d2d1b66da2aec8218cd0a86c68f53c4",
+        "mahalle_adi": "Yeni Mah.",
+        "mahalle_slug": "yeni-mah",
+        "posta_kodu": "80940"
+    },
+    {
+        "mahalle_id": "80_2028_c4fe871601d0af72c1e56e581cc0efa0",
+        "mahalle_adi": "Agedik / Yeşilyayla Köyü",
+        "mahalle_slug": "agedik-yesilyayla-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_a0ae3a9fc01e63b4d55683d8741023a4",
+        "mahalle_adi": "Akçalıuşağı / Akçataş Köyü",
+        "mahalle_slug": "akcaliusagi-akcatas-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_556bf2bebb1e8383e73d972ca9eeb39b",
+        "mahalle_adi": "Akyar / Akdam Köyü",
+        "mahalle_slug": "akyar-akdam-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_9b31738b2a09b8ca9a17272aa5e25c73",
+        "mahalle_adi": "Alasırt / Çiçeklidere Köyü",
+        "mahalle_slug": "alasirt-ciceklidere-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_5baf33eba3135843e8af76d1e864c4f9",
+        "mahalle_adi": "Alişanlı / Kızılömerli Köyü",
+        "mahalle_slug": "alisanli-kizilomerli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_7caac98af0bc75ca32c602ef4b194f43",
+        "mahalle_adi": "Aydınlar / Akçataş Köyü",
+        "mahalle_slug": "aydinlar-akcatas-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_f7cacf8575572c5c084ec7b3d84a69c7",
+        "mahalle_adi": "Bağdaş / Esenli Köyü",
+        "mahalle_slug": "bagdas-esenli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_3f6d1a183e10561e9007ccdbda842a07",
+        "mahalle_adi": "Bağyeri / Gafarlı Köyü",
+        "mahalle_slug": "bagyeri-gafarli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_2e32ec3ae999431a1079d7864d6e8930",
+        "mahalle_adi": "Cemiller / Gafarlı Köyü",
+        "mahalle_slug": "cemiller-gafarli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_9c91cb5264daf16d7ceb5a294c407028",
+        "mahalle_adi": "Çıkıkalan / Çiçeklidere Köyü",
+        "mahalle_slug": "cikikalan-ciceklidere-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_587bb1465c677ff9bd54c333d5d3b1c2",
+        "mahalle_adi": "Çintizli / Akçataş Köyü",
+        "mahalle_slug": "cintizli-akcatas-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_899844babd470492af83e0acc5a6dc2a",
+        "mahalle_adi": "Çukurfenk / Yeşilyayla Köyü",
+        "mahalle_slug": "cukurfenk-yesilyayla-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_4203c6cff9c9e90463a7e27afe3d809a",
+        "mahalle_adi": "Davutlu / Akdam Köyü",
+        "mahalle_slug": "davutlu-akdam-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_579728a7ff8b294e0c692b996a0f5fb5",
+        "mahalle_adi": "Delialiler / Akdam Köyü",
+        "mahalle_slug": "delialiler-akdam-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_d05e18dada7d7bd435bcf0149867efd3",
+        "mahalle_adi": "Demirciler / Köseli Köyü",
+        "mahalle_slug": "demirciler-koseli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_52e6ad68e4b84a6e8e2d450ed01af797",
+        "mahalle_adi": "Dineker / Gafarlı Köyü",
+        "mahalle_slug": "dineker-gafarli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_8d05d594c909d630e5ed8ceefe7dbbc9",
+        "mahalle_adi": "Diniker / Akçataş Köyü",
+        "mahalle_slug": "diniker-akcatas-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_b070baa9089e831dbcd40680b4409ccf",
+        "mahalle_adi": "Ellezli / Gafarlı Köyü",
+        "mahalle_slug": "ellezli-gafarli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_a8913136975a7638d608da4f77e464af",
+        "mahalle_adi": "Evciler / Akdam Köyü",
+        "mahalle_slug": "evciler-akdam-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_8b41063b5a9a6f6a8afa7fd546e6e79f",
+        "mahalle_adi": "Fındıklar / Yeşilyayla Köyü",
+        "mahalle_slug": "findiklar-yesilyayla-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_99cc386e984a28d72005afffc785ba4a",
+        "mahalle_adi": "Galipli / Yeşilyayla Köyü",
+        "mahalle_slug": "galipli-yesilyayla-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_a80b6ee98cd26fcb80fcce72e6592e09",
+        "mahalle_adi": "Gazeller / Esenli Köyü",
+        "mahalle_slug": "gazeller-esenli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_16961930b71893e474913660e8b06675",
+        "mahalle_adi": "Geceli / Gafarlı Köyü",
+        "mahalle_slug": "geceli-gafarli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_718c4ce3b5924a8176ca6ec972dc541d",
+        "mahalle_adi": "Gençaliler / Köseli Köyü",
+        "mahalle_slug": "gencaliler-koseli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_19830287ac3ff44ba9a82237277a12ba",
+        "mahalle_adi": "Geyikağılı / Yeşilyayla Köyü",
+        "mahalle_slug": "geyikagili-yesilyayla-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_1103b7fe05650601b2400367dd0ce5bb",
+        "mahalle_adi": "Gökçebel / Esenli Köyü",
+        "mahalle_slug": "gokcebel-esenli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_759e7cf3bd2cf18b32d8f35c649d8fcd",
+        "mahalle_adi": "Gökgedik / Gafarlı Köyü",
+        "mahalle_slug": "gokgedik-gafarli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_6a0d4a5ffa8e277a05d90c8ffbae7a2c",
+        "mahalle_adi": "Göz / Akçataş Köyü",
+        "mahalle_slug": "goz-akcatas-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_4f98d0de59fcf466d2f48fe41bed114e",
+        "mahalle_adi": "Güveller / Gafarlı Köyü",
+        "mahalle_slug": "guveller-gafarli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_8e3cd038d172f2ceef107cc1291984f2",
+        "mahalle_adi": "Harmancık / Gafarlı Köyü",
+        "mahalle_slug": "harmancik-gafarli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_5f88e8daff076cb018532675c680b6bf",
+        "mahalle_adi": "İncirliburun / Akçataş Köyü",
+        "mahalle_slug": "incirliburun-akcatas-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_a530d1f30e888f155c456e79acdd7e27",
+        "mahalle_adi": "İncirliburun / Köseli Köyü",
+        "mahalle_slug": "incirliburun-koseli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_f18e50c9498c0747e91c43a6b27ea771",
+        "mahalle_adi": "Işıklı / Akdam Köyü",
+        "mahalle_slug": "isikli-akdam-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_47283fc07465cc7adb9936eb3f87fbc9",
+        "mahalle_adi": "Kalfa / Alibeyli Köyü",
+        "mahalle_slug": "kalfa-alibeyli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_02d5f2fccb40a221cabf735a320aa469",
+        "mahalle_adi": "Kalkan / Çiçeklidere Köyü",
+        "mahalle_slug": "kalkan-ciceklidere-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_69b7f72c31cc9d693787bf6981bbe8e6",
+        "mahalle_adi": "Karagedik / Yeşilyayla Köyü",
+        "mahalle_slug": "karagedik-yesilyayla-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_8f5b15fac37670f94931d8601ee4d64c",
+        "mahalle_adi": "Karşıyaka / Akçataş Köyü",
+        "mahalle_slug": "karsiyaka-akcatas-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_5bf81d8b2eb64bed307dfdcb2c0bff3c",
+        "mahalle_adi": "Kayseri / Yeşilyayla Köyü",
+        "mahalle_slug": "kayseri-yesilyayla-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_a118517e1a8cff94ebacda1a847024db",
+        "mahalle_adi": "Kesmesur / Gafarlı Köyü",
+        "mahalle_slug": "kesmesur-gafarli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_695afbd1981c03e496eba69a47c8589f",
+        "mahalle_adi": "Kırıkköprü / Çiçeklidere Köyü",
+        "mahalle_slug": "kirikkopru-ciceklidere-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_7b95301fa3f02f2b9a619c07b55f6a8b",
+        "mahalle_adi": "Kürtler / Akdam Köyü",
+        "mahalle_slug": "kurtler-akdam-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_600a1b3456ba48e21ff1ff1d6c893115",
+        "mahalle_adi": "Merkez / Akçataş Köyü",
+        "mahalle_slug": "merkez-akcatas-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_642dcb1dc056f9078d0f14646d4608ea",
+        "mahalle_adi": "Merkez / Akdam Köyü",
+        "mahalle_slug": "merkez-akdam-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_fd31536d489d6003b8df53a566658bbc",
+        "mahalle_adi": "Merkez / Alibeyli Köyü",
+        "mahalle_slug": "merkez-alibeyli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_ce302a43ae3a0840f19945266dddce1a",
+        "mahalle_adi": "Merkez / Çiçeklidere Köyü",
+        "mahalle_slug": "merkez-ciceklidere-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_599ea127a4c42d34a440b607dda95a8e",
+        "mahalle_adi": "Merkez / Esenli Köyü",
+        "mahalle_slug": "merkez-esenli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_7a088031c6db66e552e3b725b8fd49fe",
+        "mahalle_adi": "Merkez / Gafarlı Köyü",
+        "mahalle_slug": "merkez-gafarli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_1f8886d847a35e2ee41ed52c31382704",
+        "mahalle_adi": "Merkez / Höyük Köyü",
+        "mahalle_slug": "merkez-hoyuk-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_ab36c75440caea7a5765ff2dc470cca7",
+        "mahalle_adi": "Merkez / Kızılömerli Köyü",
+        "mahalle_slug": "merkez-kizilomerli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_14732ea3e32e9acade5cc891c1f5742b",
+        "mahalle_adi": "Merkez / Köseli Köyü",
+        "mahalle_slug": "merkez-koseli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_44415e883b10c48fa35a7a41790acc5a",
+        "mahalle_adi": "Merkez / Küçükçınar Köyü",
+        "mahalle_slug": "merkez-kucukcinar-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_48fce6c4646b9b4c1281b8b53d1bebb3",
+        "mahalle_adi": "Merkez / Reşadiye Köyü",
+        "mahalle_slug": "merkez-resadiye-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_07f0a2b538ea43d4902c7185f1dc2988",
+        "mahalle_adi": "Merkez / Yazıboyu Köyü",
+        "mahalle_slug": "merkez-yaziboyu-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_820e9fd0e692f93167f32ce63025bb97",
+        "mahalle_adi": "Merkez / Yeşilyayla Köyü",
+        "mahalle_slug": "merkez-yesilyayla-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_a001bf8f06dc7231fb19a7dc59f77a5f",
+        "mahalle_adi": "Müstenler / Yazıboyu Köyü",
+        "mahalle_slug": "mustenler-yaziboyu-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_33e0a040c37b75618e0239d0e961f301",
+        "mahalle_adi": "Safiyeler / Yeşilyayla Köyü",
+        "mahalle_slug": "safiyeler-yesilyayla-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_da36f35c78d036e0679f854e3cf0a739",
+        "mahalle_adi": "Tahtalı / Çiçeklidere Köyü",
+        "mahalle_slug": "tahtali-ciceklidere-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_91a495cfae653012d4fb0d3fc25c2322",
+        "mahalle_adi": "Taşköprü / Gafarlı Köyü",
+        "mahalle_slug": "taskopru-gafarli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_f9ac88015f146d5e1646e5976c814802",
+        "mahalle_adi": "Taşocağı / Gafarlı Köyü",
+        "mahalle_slug": "tasocagi-gafarli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_0afef98bfa05a52b6d8cdf840f885170",
+        "mahalle_adi": "Terelik / Gafarlı Köyü",
+        "mahalle_slug": "terelik-gafarli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_4f98334ec0dc4269d7eb9b58d53855b8",
+        "mahalle_adi": "Yeni Cennetli / Esenli Köyü",
+        "mahalle_slug": "yeni-cennetli-esenli-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_db6f70b62c164bd5b9e30b7168afbce5",
+        "mahalle_adi": "Yirce / Çiçeklidere Köyü",
+        "mahalle_slug": "yirce-ciceklidere-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_de31e5755ecdef9b4b7c5f12d383d131",
+        "mahalle_adi": "Zincarcık / Çiçeklidere Köyü",
+        "mahalle_slug": "zincarcik-ciceklidere-koyu",
+        "posta_kodu": "80902"
+    },
+    {
+        "mahalle_id": "80_2028_1e3faeeacf7683414794eaee0bc6e3fe",
+        "mahalle_adi": "Döğenli Mah.",
+        "mahalle_slug": "dogenli-mah",
+        "posta_kodu": "80900"
+    },
+    {
+        "mahalle_id": "80_2028_b1db97275be473a877b1ccbc9fab4dee",
+        "mahalle_adi": "Karaömerli Mah.",
+        "mahalle_slug": "karaomerli-mah",
+        "posta_kodu": "80900"
+    }
+]

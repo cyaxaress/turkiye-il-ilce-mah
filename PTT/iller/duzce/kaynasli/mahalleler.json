@@ -1,0 +1,524 @@
+[
+    {
+        "mahalle_id": "81_2031_a881b4c78fccd863476b80f464f6eb8b",
+        "mahalle_adi": "Çele Mah.",
+        "mahalle_slug": "cele-mah",
+        "posta_kodu": "81900"
+    },
+    {
+        "mahalle_id": "81_2031_298fb57741c8e0c7a650981c5719c52f",
+        "mahalle_adi": "Eskiköy Mah.",
+        "mahalle_slug": "eskikoy-mah",
+        "posta_kodu": "81900"
+    },
+    {
+        "mahalle_id": "81_2031_d92774ead762cbe791552e2fbf8870e6",
+        "mahalle_adi": "Karaçalı Mah.",
+        "mahalle_slug": "karacali-mah",
+        "posta_kodu": "81900"
+    },
+    {
+        "mahalle_id": "81_2031_181c95751feb0bca160be18497eb6765",
+        "mahalle_adi": "Kumluca Mah.",
+        "mahalle_slug": "kumluca-mah",
+        "posta_kodu": "81900"
+    },
+    {
+        "mahalle_id": "81_2031_5426f17866363ab385e820cabe078840",
+        "mahalle_adi": "Merkez Mah.",
+        "mahalle_slug": "merkez-mah",
+        "posta_kodu": "81900"
+    },
+    {
+        "mahalle_id": "81_2031_3defe09c12f1327343b1e0d57c227869",
+        "mahalle_adi": "Sarıyer Mah.",
+        "mahalle_slug": "sariyer-mah",
+        "posta_kodu": "81900"
+    },
+    {
+        "mahalle_id": "81_2031_d35a07f4e7958f7c3683b4568fa88bcd",
+        "mahalle_adi": "Şimşir Mah.",
+        "mahalle_slug": "simsir-mah",
+        "posta_kodu": "81900"
+    },
+    {
+        "mahalle_id": "81_2031_91db271e924256d03e382cd260e6b6b2",
+        "mahalle_adi": "28 Evler / Darıyeri Yörükler Köyü",
+        "mahalle_slug": "28-evler-dariyeri-yorukler-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_99e35a85a8f75e5a2a33922870857448",
+        "mahalle_adi": "Alt / Çatalçam Köyü",
+        "mahalle_slug": "alt-catalcam-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_0cdc978ff7c2bf90ab6647d04c006581",
+        "mahalle_adi": "Alt / Hacıazizler Köyü",
+        "mahalle_slug": "alt-haciazizler-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_e1a9694b39d1102e2f198dd3dd9d70cf",
+        "mahalle_adi": "Başyazıcıoğlu Dağ Evleri / Darıyeri Bakacak Köyü",
+        "mahalle_slug": "basyazicioglu-dag-evleri-dariyeri-bakacak-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_ddcec2be7a097b3e751eb6dbb037f7a6",
+        "mahalle_adi": "Bektaşlı / Bıçkıyanı Köyü",
+        "mahalle_slug": "bektasli-bickiyani-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_ad664b039dd39bef94e47e54cc1da5d9",
+        "mahalle_adi": "Bülbüldere / Çamoluk Köyü",
+        "mahalle_slug": "bulbuldere-camoluk-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_3ed182d65ace72debd43ec1cac6f543c",
+        "mahalle_adi": "Çakırsayvan Köyü",
+        "mahalle_slug": "cakirsayvan-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_bbda8d425b7ac169018c1234303da413",
+        "mahalle_adi": "Çamlık / Çatalçam Köyü",
+        "mahalle_slug": "camlik-catalcam-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_9997604efa024bf81c469ec0bf80953d",
+        "mahalle_adi": "Çaykara / Yeşiltepe Köyü",
+        "mahalle_slug": "caykara-yesiltepe-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_be6e881fd300855851a1fa307ff17f79",
+        "mahalle_adi": "Çillioğlu / Sarıçökek Köyü",
+        "mahalle_slug": "cillioglu-saricokek-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_51ad4ef621b681386fd406fc2fecc53a",
+        "mahalle_adi": "Çimenlikoruluk / Tavak Köyü",
+        "mahalle_slug": "cimenlikoruluk-tavak-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_ce299371d32b6eefa9e45f63f677a4c3",
+        "mahalle_adi": "D-100 Boludağı Karayolu / Darıyeri Bakacak Köyü",
+        "mahalle_slug": "d-100-boludagi-karayolu-dariyeri-bakacak-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_293ffe543f1e8622151438765d6fa6f0",
+        "mahalle_adi": "D-100 Karayolu / Darıyeri Hasanbey Köyü",
+        "mahalle_slug": "d-100-karayolu-dariyeri-hasanbey-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_28da8a621056c6a9c68886ff8e6d236d",
+        "mahalle_adi": "Degirmenyanı / Sarıçökek Köyü",
+        "mahalle_slug": "degirmenyani-saricokek-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_f0ec3a3c0e7ee6ae26cb467bde2edd86",
+        "mahalle_adi": "Dere / Çamlıca Köyü",
+        "mahalle_slug": "dere-camlica-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_b0583ae7a9f47e1cb7ad03ed509258eb",
+        "mahalle_adi": "Dere / Dipsizgöl Köyü",
+        "mahalle_slug": "dere-dipsizgol-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_564fae06fd64ee5f74f994ca32e715d7",
+        "mahalle_adi": "Dereboyu / Darıyeri Hasanbey Köyü",
+        "mahalle_slug": "dereboyu-dariyeri-hasanbey-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_cf1a6012252748fe80c07f12da505e5b",
+        "mahalle_adi": "Dip / Darıyeri Hasanbey Köyü",
+        "mahalle_slug": "dip-dariyeri-hasanbey-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_488422b73b07c547eb47d2c469540c6a",
+        "mahalle_adi": "Doğantepe / Dipsizgöl Köyü",
+        "mahalle_slug": "dogantepe-dipsizgol-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_5c3c18c01b14d2bf118a752b76204f16",
+        "mahalle_adi": "Düzgöstek / Yeniyurt Köyü",
+        "mahalle_slug": "duzgostek-yeniyurt-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_cd8452e72a53b5562363ec5e6e5794b3",
+        "mahalle_adi": "Düzormanı / Sarıçökek Köyü",
+        "mahalle_slug": "duzormani-saricokek-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_2aef5b04f7679a40a6f1d82ccb5aa829",
+        "mahalle_adi": "Eğreltili / Yeniyurt Köyü",
+        "mahalle_slug": "egreltili-yeniyurt-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_247465c6c4430430e165885e56f2d127",
+        "mahalle_adi": "Elmalı / Darıyeri Hasanbey Köyü",
+        "mahalle_slug": "elmali-dariyeri-hasanbey-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_7df4570c4845e6a1ab08cd3298730a91",
+        "mahalle_adi": "Fatih / Üçköprü Köyü",
+        "mahalle_slug": "fatih-uckopru-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_e40300448df8030e546a64707f81d5bd",
+        "mahalle_adi": "Fenerbahçe / Üçköprü Köyü",
+        "mahalle_slug": "fenerbahce-uckopru-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_a05dc11047575e4dc285ef0ebd283c34",
+        "mahalle_adi": "Fındıklı / Çatalçam Köyü",
+        "mahalle_slug": "findikli-catalcam-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_1182511fa96e8ed5dc1abee71ba3c6fc",
+        "mahalle_adi": "Fındıklı Köyü",
+        "mahalle_slug": "findikli-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_5fc2f506cf0158414ceb7fe88338212e",
+        "mahalle_adi": "Güldere / Darıyeri Hasanbey Köyü",
+        "mahalle_slug": "guldere-dariyeri-hasanbey-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_ae7d74eb4841cb74a2b27e6512d1e661",
+        "mahalle_adi": "Güney / Sazköy Köyü",
+        "mahalle_slug": "guney-sazkoy-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_a2fc99b38f6e149b325a32f259b67aa6",
+        "mahalle_adi": "Hacımehmet / Darıyeri Mengencik Köyü",
+        "mahalle_slug": "hacimehmet-dariyeri-mengencik-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_7c027be6d3281119bcaadea296b36602",
+        "mahalle_adi": "Hamzalı / Bıçkıyanı Köyü",
+        "mahalle_slug": "hamzali-bickiyani-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_699479bf90391def2306fb39a4df550f",
+        "mahalle_adi": "Hendanoğlu / Darıyeri Hasanbey Köyü",
+        "mahalle_slug": "hendanoglu-dariyeri-hasanbey-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_92802754a017735a78acb1c6dadd05b6",
+        "mahalle_adi": "İlhanlı / Yeniyurt Köyü",
+        "mahalle_slug": "ilhanli-yeniyurt-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_b03552faa90019af4e16bd43e4ae4216",
+        "mahalle_adi": "Kahveci / Darıyeri Mengencik Köyü",
+        "mahalle_slug": "kahveci-dariyeri-mengencik-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_22320dbd2ab32b6db12ab4dd74b13d29",
+        "mahalle_adi": "Karşı / Yeniyurt Köyü",
+        "mahalle_slug": "karsi-yeniyurt-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_686942ef02985bf5a87d771190277b70",
+        "mahalle_adi": "Koytaklı / Çamlıca Köyü",
+        "mahalle_slug": "koytakli-camlica-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_032ed29d4b9bbcce3a530bb9e2121288",
+        "mahalle_adi": "Kültür / Dipsizgöl Köyü",
+        "mahalle_slug": "kultur-dipsizgol-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_52551e9689beb9bf6a8d815256795c24",
+        "mahalle_adi": "Kulubeyanı / Darıyeri Hasanbey Köyü",
+        "mahalle_slug": "kulubeyani-dariyeri-hasanbey-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_eb1dd618f7420b2ca88e80d90080fb8e",
+        "mahalle_adi": "Kuzumlu / Bıçkıyanı Köyü",
+        "mahalle_slug": "kuzumlu-bickiyani-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_88281eceeb1f82c854591d2aec0cf337",
+        "mahalle_adi": "Mehmetpınar / Yeniyurt Köyü",
+        "mahalle_slug": "mehmetpinar-yeniyurt-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_a94c71342ec83505420c8ba0b45d8d0d",
+        "mahalle_adi": "Merkez / Altunköy Köyü",
+        "mahalle_slug": "merkez-altunkoy-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_c7ed6c1c8d684cd8b80acbe9b64c01e1",
+        "mahalle_adi": "Merkez / Bıçkıyanı Köyü",
+        "mahalle_slug": "merkez-bickiyani-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_28696f2ca8e507d6e04e1ab1dfa12a0d",
+        "mahalle_adi": "Merkez / Çamlıca Köyü",
+        "mahalle_slug": "merkez-camlica-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_f776e27bef40972417d7a063f4571ee4",
+        "mahalle_adi": "Merkez / Çamoluk Köyü",
+        "mahalle_slug": "merkez-camoluk-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_cdf75ab41beb770335b526f8f12ee728",
+        "mahalle_adi": "Merkez / Çatalçam Köyü",
+        "mahalle_slug": "merkez-catalcam-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_5c1dba0498f235c82b55791d29d6acc1",
+        "mahalle_adi": "Merkez / Darıyeri Bakacak Köyü",
+        "mahalle_slug": "merkez-dariyeri-bakacak-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_a253d46c5d52558657d70696fe0c1b50",
+        "mahalle_adi": "Merkez / Darıyeri Hasanbey Köyü",
+        "mahalle_slug": "merkez-dariyeri-hasanbey-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_0f9170f741d8b9c21ebad897b33b0b40",
+        "mahalle_adi": "Merkez / Darıyeri Mengencik Köyü",
+        "mahalle_slug": "merkez-dariyeri-mengencik-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_9e56f86c4dc7fd152a24e9dd37f57613",
+        "mahalle_adi": "Merkez / Darıyeri Yörükler Köyü",
+        "mahalle_slug": "merkez-dariyeri-yorukler-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_4ae23eb8e40879cfc6e22eea482dbac6",
+        "mahalle_adi": "Merkez / Dipsizgöl Köyü",
+        "mahalle_slug": "merkez-dipsizgol-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_fa56e68c41d1eb8c365652c5967a91d7",
+        "mahalle_adi": "Merkez / Hacıazizler Köyü",
+        "mahalle_slug": "merkez-haciazizler-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_cf55b3fd8fe203067af520d8365a8d83",
+        "mahalle_adi": "Merkez / Muratbey Köyü",
+        "mahalle_slug": "merkez-muratbey-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_471c2ee88971b3f754395fb8947e5ea3",
+        "mahalle_adi": "Merkez / Sarıçökek Köyü",
+        "mahalle_slug": "merkez-saricokek-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_bc12b61318d74a7477cc8b0d043218e2",
+        "mahalle_adi": "Merkez / Sazköy Köyü",
+        "mahalle_slug": "merkez-sazkoy-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_dc7bff7d3481bab3bf4396fb327bfd7e",
+        "mahalle_adi": "Merkez / Tavak Köyü",
+        "mahalle_slug": "merkez-tavak-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_772a2f49030b98a51a79c864a99f5fbe",
+        "mahalle_adi": "Merkez / Yeniyurt Köyü",
+        "mahalle_slug": "merkez-yeniyurt-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_2b2748dfdf1db4c1c332bfbd0b71d12c",
+        "mahalle_adi": "Merkez / Yeşiltepe Köyü",
+        "mahalle_slug": "merkez-yesiltepe-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_1dc6e651ab0ca19e57c0db7d7d861aa4",
+        "mahalle_adi": "Merkezyayla / Altunköy Köyü",
+        "mahalle_slug": "merkezyayla-altunkoy-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_8ab1bd1991e9475b729286760010ebfa",
+        "mahalle_adi": "Meşelik / Darıyeri Hasanbey Köyü",
+        "mahalle_slug": "meselik-dariyeri-hasanbey-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_2c6816b0aa7c33a40770ac8c69ca2294",
+        "mahalle_adi": "Oflu / Altunköy Köyü",
+        "mahalle_slug": "oflu-altunkoy-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_a45efbc53a020afc4e812ec1858c325b",
+        "mahalle_adi": "Onbaşı / Tavak Köyü",
+        "mahalle_slug": "onbasi-tavak-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_11be26bc8c72533d2875037e5c5dd543",
+        "mahalle_adi": "Orta / Dipsizgöl Köyü",
+        "mahalle_slug": "orta-dipsizgol-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_a242a7a94265578b554e1bd03fed6a2f",
+        "mahalle_adi": "Orta / Hacıazizler Köyü",
+        "mahalle_slug": "orta-haciazizler-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_47bafe1ef5dedc59ac5a81eb358c6379",
+        "mahalle_adi": "Osmançavuş / Tavak Köyü",
+        "mahalle_slug": "osmancavus-tavak-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_c49d14b76d9492cdda01af94040d5df7",
+        "mahalle_adi": "Şafak / Üçköprü Köyü",
+        "mahalle_slug": "safak-uckopru-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_a77204c89a2a9a7c2c3cb8d4d527c8bf",
+        "mahalle_adi": "Sağlık / Dipsizgöl Köyü",
+        "mahalle_slug": "saglik-dipsizgol-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_251fc022de84edf9222f1c101f4b1dfa",
+        "mahalle_adi": "Şevki / Darıyeri Hasanbey Köyü",
+        "mahalle_slug": "sevki-dariyeri-hasanbey-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_4a846c1ba5e6d8c151f3354a74961cd1",
+        "mahalle_adi": "Sinekli / Çakırsayvan Köyü",
+        "mahalle_slug": "sinekli-cakirsayvan-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_e5373498be1d42f79e6a0e96fdcb32db",
+        "mahalle_adi": "Şirinevler / Darıyeri Hasanbey Köyü",
+        "mahalle_slug": "sirinevler-dariyeri-hasanbey-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_4544935f7642d7c806e33c54ef391192",
+        "mahalle_adi": "Soğuksu / Yeşiltepe Köyü",
+        "mahalle_slug": "soguksu-yesiltepe-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_92260ae2772db93ccdd88fb05edae563",
+        "mahalle_adi": "Tahtalık / Sarıçökek Köyü",
+        "mahalle_slug": "tahtalik-saricokek-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_85e117487dc11088e5493b2f3ffd16b5",
+        "mahalle_adi": "Taşaltı / Darıyeri Hasanbey Köyü",
+        "mahalle_slug": "tasalti-dariyeri-hasanbey-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_461ec94522ea1346a5772125cbd5013b",
+        "mahalle_adi": "Tekirsu / Dipsizgöl Köyü",
+        "mahalle_slug": "tekirsu-dipsizgol-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_6b983ebb77ee4a30a02b6cf86f6493d8",
+        "mahalle_adi": "Tütekyatak / Yeniyurt Köyü",
+        "mahalle_slug": "tutekyatak-yeniyurt-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_12c75e67b89f4d76bf2112db23b62dea",
+        "mahalle_adi": "Ufuk / Üçköprü Köyü",
+        "mahalle_slug": "ufuk-uckopru-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_fb0a3365ba17a9d8a88c9299c3a2895a",
+        "mahalle_adi": "Üst / Çatalçam Köyü",
+        "mahalle_slug": "ust-catalcam-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_4d992039674169497e4c2ccdc9588c59",
+        "mahalle_adi": "Velioğlu Aliosman / Muratbey Köyü",
+        "mahalle_slug": "velioglu-aliosman-muratbey-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_67c71008ee03193cd3fe609fefacf58e",
+        "mahalle_adi": "Veyselusta / Tavak Köyü",
+        "mahalle_slug": "veyselusta-tavak-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_b79e0cf981a8de292451d7e50f0befaa",
+        "mahalle_adi": "Yağcılar Bilal / Muratbey Köyü",
+        "mahalle_slug": "yagcilar-bilal-muratbey-koyu",
+        "posta_kodu": "81902"
+    },
+    {
+        "mahalle_id": "81_2031_a687d2c129e9e020a7e80c1edbfd4342",
+        "mahalle_adi": "Yenidoğan / Üçköprü Köyü",
+        "mahalle_slug": "yenidogan-uckopru-koyu",
+        "posta_kodu": "81902"
+    }
+]

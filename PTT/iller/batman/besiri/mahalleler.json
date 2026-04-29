@@ -1,0 +1,698 @@
+[
+    {
+        "mahalle_id": "72_1184_13b07cd74f3d51ae47dccc98f5cf85bc",
+        "mahalle_adi": "Bağdu Mah.",
+        "mahalle_slug": "bagdu-mah",
+        "posta_kodu": "72200"
+    },
+    {
+        "mahalle_id": "72_1184_1ba41d71f95af036a6eb98863b5f5707",
+        "mahalle_adi": "Behrem Yoğun Mah.",
+        "mahalle_slug": "behrem-yogun-mah",
+        "posta_kodu": "72200"
+    },
+    {
+        "mahalle_id": "72_1184_837e001abb850ea9ddbbccba356e901b",
+        "mahalle_adi": "Cumhuriyet Mah.",
+        "mahalle_slug": "cumhuriyet-mah",
+        "posta_kodu": "72200"
+    },
+    {
+        "mahalle_id": "72_1184_238adcf0eb902a02417460f9d8a69e7d",
+        "mahalle_adi": "Kobin Mah.",
+        "mahalle_slug": "kobin-mah",
+        "posta_kodu": "72200"
+    },
+    {
+        "mahalle_id": "72_1184_10f6079e39aab450cf7a39cdc0ab1aae",
+        "mahalle_adi": "Mehmet Yatkın Mah.",
+        "mahalle_slug": "mehmet-yatkin-mah",
+        "posta_kodu": "72200"
+    },
+    {
+        "mahalle_id": "72_1184_de065f76b9d0bc18c21095e55c77d4df",
+        "mahalle_adi": "Şehit Nihat Özcan Mah.",
+        "mahalle_slug": "sehit-nihat-ozcan-mah",
+        "posta_kodu": "72200"
+    },
+    {
+        "mahalle_id": "72_1184_06c985f2f454ed6348420493ac4ad15c",
+        "mahalle_adi": "Karaduman Mah.",
+        "mahalle_slug": "karaduman-mah",
+        "posta_kodu": "72240"
+    },
+    {
+        "mahalle_id": "72_1184_92b392aecb754a5c76b3cb1aa6a33ea8",
+        "mahalle_adi": "Kıyanç Mah.",
+        "mahalle_slug": "kiyanc-mah",
+        "posta_kodu": "72240"
+    },
+    {
+        "mahalle_id": "72_1184_c9702f564fea31c5b06aa3fa2e4f0959",
+        "mahalle_adi": "Turgut Özal Mah.",
+        "mahalle_slug": "turgut-ozal-mah",
+        "posta_kodu": "72240"
+    },
+    {
+        "mahalle_id": "72_1184_5138122719d4e7f07e311faa687273b6",
+        "mahalle_adi": "Ağılcık / Örmegöze Köyü",
+        "mahalle_slug": "agilcik-ormegoze-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_6e8263041660dfb657f304caabac2245",
+        "mahalle_adi": "Aktaş / Kaşüstü Köyü",
+        "mahalle_slug": "aktas-kasustu-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_05d34830e48b333b9a02cc9434f1c045",
+        "mahalle_adi": "Alaca Köyü",
+        "mahalle_slug": "alaca-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_ae413865bb69c5dac5f74ef252347caa",
+        "mahalle_adi": "Ali Bey / Durucak Köyü",
+        "mahalle_slug": "ali-bey-durucak-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_4146f161903c03ed614eab6e37f8f7ee",
+        "mahalle_adi": "Alıçlı / İnpınar Köyü",
+        "mahalle_slug": "alicli-inpinar-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_6464966a5fc496cf74cdbaddb86ffac2",
+        "mahalle_adi": "Arılı / Kayatepe Köyü",
+        "mahalle_slug": "arili-kayatepe-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_616117e433ae00522bf6b48d75085a90",
+        "mahalle_adi": "Aşağı Kürsü / Otluca Köyü",
+        "mahalle_slug": "asagi-kursu-otluca-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_44b15da5ef02ad5738ee9b405dd2e30f",
+        "mahalle_adi": "Aşağı Ürünlü / Durucak Köyü",
+        "mahalle_slug": "asagi-urunlu-durucak-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_c51d8a8bc36bcb29f28dbf8055b60a4c",
+        "mahalle_adi": "Asmadere Köyü",
+        "mahalle_slug": "asmadere-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_133fb4d0f2d4fa42e54d20193fd8856d",
+        "mahalle_adi": "Atbağı Köyü",
+        "mahalle_slug": "atbagi-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_59e194f21c0ba278cd0d8d21041bdc8b",
+        "mahalle_adi": "Ayışığı / Esence Köyü",
+        "mahalle_slug": "ayisigi-esence-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_3bc618b15411ebf375bef8f11a858862",
+        "mahalle_adi": "Ayrancı Köyü",
+        "mahalle_slug": "ayranci-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_772635bd44c840027e38877ca339cbe1",
+        "mahalle_adi": "Bahçeli Köyü",
+        "mahalle_slug": "bahceli-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_a02d8de2dce391413525804968d3b9f8",
+        "mahalle_adi": "Başarı Köyü",
+        "mahalle_slug": "basari-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_940ce7640b6bca60d0bac8979e344ee6",
+        "mahalle_adi": "Başlamış / Ilıca Köyü",
+        "mahalle_slug": "baslamis-ilica-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_822574fa350b4eb2e473a3728d4d1fa6",
+        "mahalle_adi": "Bayramlı / Eskihamur Köyü",
+        "mahalle_slug": "bayramli-eskihamur-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_9201b2be4637bab4a45e1340de178764",
+        "mahalle_adi": "Beşpınar Köyü",
+        "mahalle_slug": "bespinar-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_fb8be6049d5a02c9ddacff5e7829264e",
+        "mahalle_adi": "Beyçayırı Köyü",
+        "mahalle_slug": "beycayiri-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_392389f51fdce8cd58bd0c2da879970a",
+        "mahalle_adi": "Bıgevra / Eskihamur Köyü",
+        "mahalle_slug": "bigevra-eskihamur-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_d524ddf920f0112d1bc09505ac47dd9c",
+        "mahalle_adi": "Bilek Köyü",
+        "mahalle_slug": "bilek-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_5e56f7f37eb704aedad7208eaff788b2",
+        "mahalle_adi": "Çakıllı Köyü",
+        "mahalle_slug": "cakilli-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_96cd997f2a2b1715a128516ead53caf7",
+        "mahalle_adi": "Çamlıtepe / Eskihamur Köyü",
+        "mahalle_slug": "camlitepe-eskihamur-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_9fd785953c0b3758369b06fd0b5197a1",
+        "mahalle_adi": "Çavuşbayırı Köyü",
+        "mahalle_slug": "cavusbayiri-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_c3b76685d3d2e97d36c4ea647402207c",
+        "mahalle_adi": "Çay Kenarı / Samanlı Köyü",
+        "mahalle_slug": "cay-kenari-samanli-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_7ad7f54d99e9478b5cbdef84d9f259d0",
+        "mahalle_adi": "Çaykenarı / Durucak Köyü",
+        "mahalle_slug": "caykenari-durucak-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_8c244e0217c4b9b37b92ca9a48763d70",
+        "mahalle_adi": "Çığırlı Köyü",
+        "mahalle_slug": "cigirli-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_d789f35c8b03d6852f68244e846b251a",
+        "mahalle_adi": "Dağyolu Köyü",
+        "mahalle_slug": "dagyolu-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_c8c6c6b31f922721bd87efac27234bfc",
+        "mahalle_adi": "Danacı / Kaşüstü Köyü",
+        "mahalle_slug": "danaci-kasustu-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_3f36ee3836cb59b033f0ff8ae84f19ba",
+        "mahalle_adi": "Danalı Köyü",
+        "mahalle_slug": "danali-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_e44c8918dff9f32c031f9a069fa79847",
+        "mahalle_adi": "Dayılar Köyü",
+        "mahalle_slug": "dayilar-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_66d58c93ed02d6d41dc874fd095aadd9",
+        "mahalle_adi": "Değirmenüstü Köyü",
+        "mahalle_slug": "degirmenustu-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_b00f1b32a52205b6be9c3e543e4267d3",
+        "mahalle_adi": "Demirdöven / Işıkveren Köyü",
+        "mahalle_slug": "demirdoven-isikveren-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_cc7ada997847dd38cdb3d31ff9a9f3ac",
+        "mahalle_adi": "Deveboynu Köyü",
+        "mahalle_slug": "deveboynu-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_209aaa6e6dbd5e7a075324071f6277cd",
+        "mahalle_adi": "Doğankavak Köyü",
+        "mahalle_slug": "dogankavak-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_6b331a34026ffca4983560e7a978edac",
+        "mahalle_adi": "Doğanpazarı Köyü",
+        "mahalle_slug": "doganpazari-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_920fd3c596d776b4cfeec5bc0a31eb06",
+        "mahalle_adi": "Doruklu / Beşpınar Köyü",
+        "mahalle_slug": "doruklu-bespinar-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_0fb41ed793b54551665aff4fd466f7c3",
+        "mahalle_adi": "Döşeme / Eskihamur Köyü",
+        "mahalle_slug": "doseme-eskihamur-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_a1aa7f2c312746490a45d3ef57c6ccea",
+        "mahalle_adi": "Durucak Köyü",
+        "mahalle_slug": "durucak-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_11afa52e2fa98383ee7842f3a51d680a",
+        "mahalle_adi": "Ekinciler / Kuşçukuru Köyü",
+        "mahalle_slug": "ekinciler-kuscukuru-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_d23d816e0c23d0b93f98e9ca098a34e3",
+        "mahalle_adi": "Esence Köyü",
+        "mahalle_slug": "esence-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_725c9d61c30a15d25aec892ac5681cf3",
+        "mahalle_adi": "Eskihamur Köyü",
+        "mahalle_slug": "eskihamur-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_91760af7c0eb9ffb0ab8b1d98e837d28",
+        "mahalle_adi": "Gedikli / Yazıhan Köyü",
+        "mahalle_slug": "gedikli-yazihan-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_ba85141f855b9b7275403dd5660297e3",
+        "mahalle_adi": "Göktaş / Doğanpazarı Köyü",
+        "mahalle_slug": "goktas-doganpazari-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_1e0e47db2edaa95108ea080ac1d9853a",
+        "mahalle_adi": "Güvercinlik Köyü",
+        "mahalle_slug": "guvercinlik-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_3651e37fe721a91d52485e811270358f",
+        "mahalle_adi": "Hanlı / Kumçay Köyü",
+        "mahalle_slug": "hanli-kumcay-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_1b3d0ec0776dd136c8e35b2ad8483685",
+        "mahalle_adi": "İkiyaka Köyü",
+        "mahalle_slug": "ikiyaka-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_178d14228ead639438807e2541d020f2",
+        "mahalle_adi": "Ilıca Köyü",
+        "mahalle_slug": "ilica-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_648c240c379208061660a29ef45c5e05",
+        "mahalle_adi": "İnpınar Köyü",
+        "mahalle_slug": "inpinar-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_6d941c2df69d0b5a764baf4ec884f0dc",
+        "mahalle_adi": "Işıkveren Köyü",
+        "mahalle_slug": "isikveren-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_ce551b9057eeb8ba7dc973555cc5e0ce",
+        "mahalle_adi": "İslam / Eskihamur Köyü",
+        "mahalle_slug": "islam-eskihamur-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_aa3a8a90457bef4f4addbb18659d1b00",
+        "mahalle_adi": "İslamköy / Durucak Köyü",
+        "mahalle_slug": "islamkoy-durucak-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_cd69b92540eb7a6dff96dd7804a7a458",
+        "mahalle_adi": "Kale / Yalınkavak Köyü",
+        "mahalle_slug": "kale-yalinkavak-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_00f4315feaf73e1b2e4ed562762c2f99",
+        "mahalle_adi": "Kapaklı / Bahçeli Köyü",
+        "mahalle_slug": "kapakli-bahceli-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_fdade198bd311eaecc45a9c255ef49b9",
+        "mahalle_adi": "Karataş / Kaşüstü Köyü",
+        "mahalle_slug": "karatas-kasustu-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_43a500318a4bacd9138e4c870ee4cf1b",
+        "mahalle_adi": "Karatepe Köyü",
+        "mahalle_slug": "karatepe-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_16b3fc3cd34121588e1ba8f2aaed2e63",
+        "mahalle_adi": "Kaşüstü Köyü",
+        "mahalle_slug": "kasustu-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_ee5ef57de34aa7f23de3e2bf7b66bea7",
+        "mahalle_adi": "Kayatepe Köyü",
+        "mahalle_slug": "kayatepe-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_a83082f3b2d429b2f13cabed9afd87e4",
+        "mahalle_adi": "Kesiktaş / Alaca Köyü",
+        "mahalle_slug": "kesiktas-alaca-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_d4b0b4f0494d7854e58e9556bd09d2bd",
+        "mahalle_adi": "Kezik / Eskihamur Köyü",
+        "mahalle_slug": "kezik-eskihamur-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_9a15799e914f45b98fe53d36ff0415db",
+        "mahalle_adi": "Kışlacık / Oğuz Köyü",
+        "mahalle_slug": "kislacik-oguz-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_2f6189b288fcb15336e459127a929487",
+        "mahalle_adi": "Kökebi / Eskihamur Köyü",
+        "mahalle_slug": "kokebi-eskihamur-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_c85f5a7b8549e1a6a6fe67001e190bcc",
+        "mahalle_adi": "Kumçay Köyü",
+        "mahalle_slug": "kumcay-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_f4cfea4916a5b827b548d5b94ae0b7f8",
+        "mahalle_adi": "Kumgeçit Köyü",
+        "mahalle_slug": "kumgecit-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_098a9e51714e7a3e373f9b7dfb763a8e",
+        "mahalle_adi": "Kumrulu / Kütüklü Köyü",
+        "mahalle_slug": "kumrulu-kutuklu-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_c48465cb51b25509ca3b9152b18f9799",
+        "mahalle_adi": "Kurukavak Köyü",
+        "mahalle_slug": "kurukavak-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_2731a2798595a0f7d88f14732f74e0b6",
+        "mahalle_adi": "Kuşçukuru Köyü",
+        "mahalle_slug": "kuscukuru-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_5f35e1664b78b9c4530ddd4ff6e51b40",
+        "mahalle_adi": "Kütüklü Köyü",
+        "mahalle_slug": "kutuklu-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_5763d37ab08774b104b7a5c78cc3b8af",
+        "mahalle_adi": "Meydancık / Kumgeçit Köyü",
+        "mahalle_slug": "meydancik-kumgecit-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_a813ba06c21287b4e76c76f58aab8422",
+        "mahalle_adi": "Mezelkan / Kuşçukuru Köyü",
+        "mahalle_slug": "mezelkan-kuscukuru-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_04ada5e03ee45243d2a5a52516f93e47",
+        "mahalle_adi": "Nejan / Eskihamur Köyü",
+        "mahalle_slug": "nejan-eskihamur-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_2a3e18c98cfca647353e870f6ba8831f",
+        "mahalle_adi": "Nurettin / Bilek Köyü",
+        "mahalle_slug": "nurettin-bilek-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_a664e214db86e4039d909946d6fb094c",
+        "mahalle_adi": "Oğuz Köyü",
+        "mahalle_slug": "oguz-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_855d2342ea5458520c5d15652084c2b4",
+        "mahalle_adi": "Onbaşı / Oğuz Köyü",
+        "mahalle_slug": "onbasi-oguz-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_38d35d42ce21528389235115ae912ef9",
+        "mahalle_adi": "Organize Sanayi Bölgesi / Danalı Köyü",
+        "mahalle_slug": "organize-sanayi-bolgesi-danali-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_68bbe4c9f71a9c85675bd52cd177f9a6",
+        "mahalle_adi": "Organize Sanayi Bölgesi / Örmegöze Köyü",
+        "mahalle_slug": "organize-sanayi-bolgesi-ormegoze-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_c59158300ffa799ba70eb938f88d5da3",
+        "mahalle_adi": "Örmegöze Köyü",
+        "mahalle_slug": "ormegoze-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_5dfff4e4ba3c77f2e21477ba8f61a462",
+        "mahalle_adi": "Ortaalan / Kurukavak Köyü",
+        "mahalle_slug": "ortaalan-kurukavak-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_53e214608a8ad351e99496b059a61f1f",
+        "mahalle_adi": "Otluca Köyü",
+        "mahalle_slug": "otluca-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_347af7d99c626ae61cdf9db12c3930dc",
+        "mahalle_adi": "Pirinçlik / Ilıca Köyü",
+        "mahalle_slug": "pirinclik-ilica-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_949601df2b0309a92e225046ed8088b2",
+        "mahalle_adi": "Pompalı / Işıkveren Köyü",
+        "mahalle_slug": "pompali-isikveren-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_80d96e79de1ca3c6d687fa9f6d1f84de",
+        "mahalle_adi": "Remikan / Bilek Köyü",
+        "mahalle_slug": "remikan-bilek-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_743bb0f8a99c65b5ffb8fbcd4ff436ce",
+        "mahalle_adi": "Samanlı Köyü",
+        "mahalle_slug": "samanli-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_5e100c7f19768b8fe1260ff45990d595",
+        "mahalle_adi": "Sapanlı / Yalınca Köyü",
+        "mahalle_slug": "sapanli-yalinca-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_9d20dd309c6b440a899e8695da6adfd2",
+        "mahalle_adi": "Sütlüce / Beşpınar Köyü",
+        "mahalle_slug": "sutluce-bespinar-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_eefdf318622bdd700a1e64f42f843fce",
+        "mahalle_adi": "Tekağaç Köyü",
+        "mahalle_slug": "tekagac-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_499cae57a1f10b784581c295eefcb1f5",
+        "mahalle_adi": "Tepecik Köyü",
+        "mahalle_slug": "tepecik-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_15cc83f96a95d5de8a9a9e87f602cddb",
+        "mahalle_adi": "Üçkuyular Köyü",
+        "mahalle_slug": "uckuyular-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_04e955637d1335ec132e371b44a588f0",
+        "mahalle_adi": "Uğurca Köyü",
+        "mahalle_slug": "ugurca-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_a5a8ddb7974acbd83095807e0bad858c",
+        "mahalle_adi": "Yağlıca / Çakıllı Köyü",
+        "mahalle_slug": "yaglica-cakilli-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_1a956e0e6e49ec0137fc3471d50011d9",
+        "mahalle_adi": "Yakacık Köyü",
+        "mahalle_slug": "yakacik-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_c75bf29ac61eba038d7ed111e15a21fe",
+        "mahalle_adi": "Yalınca Köyü",
+        "mahalle_slug": "yalinca-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_eca554710a867ccc79af55163bd90257",
+        "mahalle_adi": "Yalınkavak Köyü",
+        "mahalle_slug": "yalinkavak-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_2abddf2aac42a92b3558c60e990f36f4",
+        "mahalle_adi": "Yarımtaş Köyü",
+        "mahalle_slug": "yarimtas-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_25d5778b043686c6ecc8a0a4aeadb2e8",
+        "mahalle_adi": "Yavuz / Oğuz Köyü",
+        "mahalle_slug": "yavuz-oguz-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_817d7be8977b86b35c47f24f4c770329",
+        "mahalle_adi": "Yazıhan Köyü",
+        "mahalle_slug": "yazihan-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_6d75a131334e47688546660506f317bd",
+        "mahalle_adi": "Yazyurdu / Bahçeli Köyü",
+        "mahalle_slug": "yazyurdu-bahceli-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_f49d71befebf95413fec6a5c453e0c53",
+        "mahalle_adi": "Yeni / İnpınar Köyü",
+        "mahalle_slug": "yeni-inpinar-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_1241627365bbfa01f2107d3893653486",
+        "mahalle_adi": "Yenipınar Köyü",
+        "mahalle_slug": "yenipinar-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_3eb09e03070d6c6c6e012b6d55fae16b",
+        "mahalle_adi": "Yeniyol Köyü",
+        "mahalle_slug": "yeniyol-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_746e7273926eef9d2d6293569cd1237c",
+        "mahalle_adi": "Yeşiloba Köyü",
+        "mahalle_slug": "yesiloba-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_915785dbbb404227c196970ab35adf42",
+        "mahalle_adi": "Yolboyu / Durucak Köyü",
+        "mahalle_slug": "yolboyu-durucak-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_802d71a2c63106f7059e6ae083211ab5",
+        "mahalle_adi": "Yolkonak Köyü",
+        "mahalle_slug": "yolkonak-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_6fe117490d528b57938696fc8a809a41",
+        "mahalle_adi": "Yontukyazı Köyü",
+        "mahalle_slug": "yontukyazi-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_0723f9579b50c0bd1f98b4c955cd424e",
+        "mahalle_adi": "Yukarı Bayramlı / Eskihamur Köyü",
+        "mahalle_slug": "yukari-bayramli-eskihamur-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_d35a91e061fe353047e7cace15c4a15d",
+        "mahalle_adi": "Yukarı Kürsü / Otluca Köyü",
+        "mahalle_slug": "yukari-kursu-otluca-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_479c7cb78baa17f7f7d36b3cb2f3186c",
+        "mahalle_adi": "Yukarı Ürünlü / Durucak Köyü",
+        "mahalle_slug": "yukari-urunlu-durucak-koyu",
+        "posta_kodu": "72202"
+    },
+    {
+        "mahalle_id": "72_1184_db0a296476c2a83860ea2fcd9b9c228c",
+        "mahalle_adi": "Yumrukaya / İkiyaka Köyü",
+        "mahalle_slug": "yumrukaya-ikiyaka-koyu",
+        "posta_kodu": "72202"
+    }
+]

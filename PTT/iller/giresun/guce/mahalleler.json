@@ -1,0 +1,458 @@
+[
+    {
+        "mahalle_id": "28_1930_c459d8540f60bcf590fb9f1be484eece",
+        "mahalle_adi": "Güce Mah.",
+        "mahalle_slug": "guce-mah",
+        "posta_kodu": "28520"
+    },
+    {
+        "mahalle_id": "28_1930_327e39ae9f92fca3d5378d6389517719",
+        "mahalle_adi": "Abdugil / Kuluncak Köyü",
+        "mahalle_slug": "abdugil-kuluncak-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_1252615613653a1b23cf17ee40fc22cd",
+        "mahalle_adi": "Absak / Gürağaç Köyü",
+        "mahalle_slug": "absak-guragac-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_3630733175169547df7e12a95aa0febc",
+        "mahalle_adi": "Ahmatlı / Boncukçukur Köyü",
+        "mahalle_slug": "ahmatli-boncukcukur-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_ea32ace4d7bf2e75710481b01fd49617",
+        "mahalle_adi": "Akbaş / Tekkeköy Köyü",
+        "mahalle_slug": "akbas-tekkekoy-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_9de83362e4b29e10ef1a7da22973d81e",
+        "mahalle_adi": "Akkakonağı / Sarıyar Köyü",
+        "mahalle_slug": "akkakonagi-sariyar-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_aeafb7933f22ad2b3b600e10e29d0b28",
+        "mahalle_adi": "Alanağzı / Boncukçukur Köyü",
+        "mahalle_slug": "alanagzi-boncukcukur-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_7781dcf3b58ba6eb0ceef42831496ebe",
+        "mahalle_adi": "Aloğlu / İlit Köyü",
+        "mahalle_slug": "aloglu-ilit-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_a86f93bb45ad7d9ab7b2c244f746acd8",
+        "mahalle_adi": "Aşağı / Akpınar Köyü",
+        "mahalle_slug": "asagi-akpinar-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_176f93a40212b068287262a7957c3d52",
+        "mahalle_adi": "Aşağı / Dayıcık Köyü",
+        "mahalle_slug": "asagi-dayicik-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_a48a85d777d9386747c3516e525cdd5a",
+        "mahalle_adi": "Aşağı / Düzçukur Köyü",
+        "mahalle_slug": "asagi-duzcukur-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_d62351b090e0ca7588c86b51d3c7167c",
+        "mahalle_adi": "Aşağı / Gürağaç Köyü",
+        "mahalle_slug": "asagi-guragac-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_439c5e354b4704ee9b574ade525f57a6",
+        "mahalle_adi": "Aydınlar / Fırınlı Köyü",
+        "mahalle_slug": "aydinlar-firinli-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_3dfa63ded310402abb455bdc445ac051",
+        "mahalle_adi": "Baş Çukur / Gürağaç Köyü",
+        "mahalle_slug": "bas-cukur-guragac-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_a5fd931b9160efcd3bfb1863f9f47563",
+        "mahalle_adi": "Belen / Yukarıboynuyoğun Köyü",
+        "mahalle_slug": "belen-yukariboynuyogun-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_b275aa2dfe726c46ddee4bf49fb14a0c",
+        "mahalle_adi": "Boynu Kıran / Kuluncak Köyü",
+        "mahalle_slug": "boynu-kiran-kuluncak-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_0e8afea37eca09dd8689756db01e49cb",
+        "mahalle_adi": "Bük / Boncukçukur Köyü",
+        "mahalle_slug": "buk-boncukcukur-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_7b8ba62de59a52cfa997f05d3c077c4d",
+        "mahalle_adi": "Çakalağzı / Kuluncak Köyü",
+        "mahalle_slug": "cakalagzi-kuluncak-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_c1d3338271c773eca4d7dbaa7a6e9927",
+        "mahalle_adi": "Çal / Kuluncak Köyü",
+        "mahalle_slug": "cal-kuluncak-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_be91bda8f7cb28b90b46df2e0d4ffa1e",
+        "mahalle_adi": "Çamdüzü / İlit Köyü",
+        "mahalle_slug": "camduzu-ilit-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_470091f83e287c2a2205744fb20f89b1",
+        "mahalle_adi": "Cami / İlit Köyü",
+        "mahalle_slug": "cami-ilit-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_1431745971c297cf3291c64649bb14af",
+        "mahalle_adi": "Cami Yanı / Kuluncak Köyü",
+        "mahalle_slug": "cami-yani-kuluncak-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_a43d836058691c3eaa1df6be6a17b212",
+        "mahalle_adi": "Cami Yanı / Sarıyar Köyü",
+        "mahalle_slug": "cami-yani-sariyar-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_b2c0b5435b4bf59e4837f5d29637d65e",
+        "mahalle_adi": "Cardak Çukuru / Sarıyar Köyü",
+        "mahalle_slug": "cardak-cukuru-sariyar-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_22a0413583c71e0b2a2a6750a99dde1f",
+        "mahalle_adi": "Çatak / Yukarıboynuyoğun Köyü",
+        "mahalle_slug": "catak-yukariboynuyogun-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_4de0a69dd915225067c85b77e71e82be",
+        "mahalle_adi": "Danışman / Ergenekon Köyü",
+        "mahalle_slug": "danisman-ergenekon-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_001e441ace41b580e41c684f15a992c6",
+        "mahalle_adi": "Derebük / Sarıyar Köyü",
+        "mahalle_slug": "derebuk-sariyar-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_bf796885d51196d04f8d578e0be1e0e8",
+        "mahalle_adi": "Derebükü / Boncukçukur Köyü",
+        "mahalle_slug": "derebuku-boncukcukur-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_7252abbb287f6e0e06e52035effebb14",
+        "mahalle_adi": "Düz / Gürağaç Köyü",
+        "mahalle_slug": "duz-guragac-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_f8448b26f42ce7105132cdb7cd81f71e",
+        "mahalle_adi": "Ebulu / Gürağaç Köyü",
+        "mahalle_slug": "ebulu-guragac-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_55cc7838edf379543637a6109f6dfd9e",
+        "mahalle_adi": "Eyüpgil / Kuluncak Köyü",
+        "mahalle_slug": "eyupgil-kuluncak-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_97af52df37c1a81259d97ea0724dab49",
+        "mahalle_adi": "Ezeltepe / Boncukçukur Köyü",
+        "mahalle_slug": "ezeltepe-boncukcukur-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_72ad34ebaa61d40efbb5338b96ba678e",
+        "mahalle_adi": "Fevzi Çakmak / İlit Köyü",
+        "mahalle_slug": "fevzi-cakmak-ilit-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_00a130291d0d527edb68939d7a0afda0",
+        "mahalle_adi": "Fındıklı / Ergenekon Köyü",
+        "mahalle_slug": "findikli-ergenekon-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_3d49826c2803b128d36e800223aa083b",
+        "mahalle_adi": "Fındıklı / Merkez Köyü",
+        "mahalle_slug": "findikli-merkez-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_8f2e0b6053634c4d996bf3a198a44937",
+        "mahalle_adi": "Gargan Tazlağı / Sarıyar Köyü",
+        "mahalle_slug": "gargan-tazlagi-sariyar-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_d559372a2c71558546012fc2d26d3a0b",
+        "mahalle_adi": "Gıran / Düzçukur Köyü",
+        "mahalle_slug": "giran-duzcukur-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_0e61b81ea43d4a7774b5c0a3666d4a63",
+        "mahalle_adi": "Giyimli / Merkez Köyü",
+        "mahalle_slug": "giyimli-merkez-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_96fe09dd8c71ee26d133d2517bf199a0",
+        "mahalle_adi": "Güney / Sarıyar Köyü",
+        "mahalle_slug": "guney-sariyar-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_538b8079f18b3e4c07f84be225bc3f98",
+        "mahalle_adi": "Güni / Düzçukur Köyü",
+        "mahalle_slug": "guni-duzcukur-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_2a8500a16255adacff8293d8dc0c03f1",
+        "mahalle_adi": "Hasanşıh / Yukarıboynuyoğun Köyü",
+        "mahalle_slug": "hasansih-yukariboynuyogun-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_d5517ff71f683653473af70eb181b3fa",
+        "mahalle_adi": "Hene / Akpınar Köyü",
+        "mahalle_slug": "hene-akpinar-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_02ae05064d60aa971d6b8b337369edca",
+        "mahalle_adi": "İrizoğlu / Gürağaç Köyü",
+        "mahalle_slug": "irizoglu-guragac-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_0b28556be16dcd44f27d838f3e06b78d",
+        "mahalle_adi": "Kabaalan / Tekkeköy Köyü",
+        "mahalle_slug": "kabaalan-tekkekoy-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_0cb5739ac77abfd5871f995b505229db",
+        "mahalle_adi": "Karadere / Kuluncak Köyü",
+        "mahalle_slug": "karadere-kuluncak-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_cb4de010457b556f9b30ad7a6c630209",
+        "mahalle_adi": "Kavacık / Kuluncak Köyü",
+        "mahalle_slug": "kavacik-kuluncak-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_4d35d902a1296e294517b851950b42b0",
+        "mahalle_adi": "Kemal Kışla / Akpınar Köyü",
+        "mahalle_slug": "kemal-kisla-akpinar-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_4b30d6eeb0f8c4bbe343ca8a49f22533",
+        "mahalle_adi": "Kemaliye / Merkez Köyü",
+        "mahalle_slug": "kemaliye-merkez-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_a92e3165dba09221665743237444e491",
+        "mahalle_adi": "Kıran / Gürağaç Köyü",
+        "mahalle_slug": "kiran-guragac-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_02fa982e1afb378ae33b321dd4ff055a",
+        "mahalle_adi": "Kıran / İlit Köyü",
+        "mahalle_slug": "kiran-ilit-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_060ed48e1376709df7eda4f6da5e1903",
+        "mahalle_adi": "Kırık / Düzçukur Köyü",
+        "mahalle_slug": "kirik-duzcukur-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_2acd2bfd07cd7a492c743fef090ef466",
+        "mahalle_adi": "Kök Diken / Akpınar Köyü",
+        "mahalle_slug": "kok-diken-akpinar-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_5b3a1e0a783c3a7272f828995d667123",
+        "mahalle_adi": "Kovancak / Yukarıboynuyoğun Köyü",
+        "mahalle_slug": "kovancak-yukariboynuyogun-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_e096cc6438fd3bbf53264c818b9e3c2e",
+        "mahalle_adi": "Köyeteği / Boncukçukur Köyü",
+        "mahalle_slug": "koyetegi-boncukcukur-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_bd97953836e8df781637ec7b9703df15",
+        "mahalle_adi": "Küçükköy / Tekkeköy Köyü",
+        "mahalle_slug": "kucukkoy-tekkekoy-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_a53e423c96cfedbfc1580e86bdda51cf",
+        "mahalle_adi": "Mazıdüzü / İlit Köyü",
+        "mahalle_slug": "maziduzu-ilit-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_c97367f36af894fa9ba9489cc3272f18",
+        "mahalle_adi": "Merkez / Yukarıboynuyoğun Köyü",
+        "mahalle_slug": "merkez-yukariboynuyogun-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_2f79cc6812f17c3fd6373ea6b315fcec",
+        "mahalle_adi": "Ocak Tamı (mezra) / Tekkeköy Köyü",
+        "mahalle_slug": "ocak-tami-mezra-tekkekoy-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_653c377e1980f7d51fb120c474d83221",
+        "mahalle_adi": "Ocak Tamı / Tekkeköy Köyü",
+        "mahalle_slug": "ocak-tami-tekkekoy-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_9ac621adb7310d132097bf2bbb1e3398",
+        "mahalle_adi": "Okul Yanı / Kuluncak Köyü",
+        "mahalle_slug": "okul-yani-kuluncak-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_79ce7b4e0aeee51c1edcaa1823d75269",
+        "mahalle_adi": "Örnek Köyü",
+        "mahalle_slug": "ornek-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_ebeb11f1b737faf133f1f3bd39915767",
+        "mahalle_adi": "Orta / Boncukçukur Köyü",
+        "mahalle_slug": "orta-boncukcukur-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_ad17f93a6c3d291f09e653d941077357",
+        "mahalle_adi": "Orta / Düzçukur Köyü",
+        "mahalle_slug": "orta-duzcukur-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_77e4c778817e33c912c0c483965a6573",
+        "mahalle_adi": "Orta / Kuluncak Köyü",
+        "mahalle_slug": "orta-kuluncak-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_b2719fbd592496b253afaa9ec0d84e5b",
+        "mahalle_adi": "Şehit Muhammer Dur / Gürağaç Köyü",
+        "mahalle_slug": "sehit-muhammer-dur-guragac-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_a6b72af31b1f52d8b62ee874ba7bf934",
+        "mahalle_adi": "Soğukpınar / Merkez Köyü",
+        "mahalle_slug": "sogukpinar-merkez-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_14fddaf9e4a471720709d74c91a707fb",
+        "mahalle_adi": "Tevekli / Merkez Köyü",
+        "mahalle_slug": "tevekli-merkez-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_4c16c2c1284b76a0615b0bc816a4e93a",
+        "mahalle_adi": "Tuzlakbaşı / Fırınlı Köyü",
+        "mahalle_slug": "tuzlakbasi-firinli-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_66307130c60f489a4d5b964cef7a71c8",
+        "mahalle_adi": "Üst / Akpınar Köyü",
+        "mahalle_slug": "ust-akpinar-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_6c862bf48f8e198da82bdba11675c18b",
+        "mahalle_adi": "Veledinağzı / Boncukçukur Köyü",
+        "mahalle_slug": "veledinagzi-boncukcukur-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_05c21682fd4eee112a29c57f15845239",
+        "mahalle_adi": "Yaylı Gıran / Yukarıboynuyoğun Köyü",
+        "mahalle_slug": "yayli-giran-yukariboynuyogun-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_94dc5f61af4fc769820030a2a0171d3b",
+        "mahalle_adi": "Yazlık / Ergenekon Köyü",
+        "mahalle_slug": "yazlik-ergenekon-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_93fac0aa7e104c6885ea3daae983f448",
+        "mahalle_adi": "Yazlık / Tekkeköy Köyü",
+        "mahalle_slug": "yazlik-tekkekoy-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_6af226afb008bcdc3dd39813ae4d0d1a",
+        "mahalle_adi": "Yeni / Sarıyar Köyü",
+        "mahalle_slug": "yeni-sariyar-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_2b51df0566dcd55898d7bda66f72d500",
+        "mahalle_adi": "Yukarı / Dayıcık Köyü",
+        "mahalle_slug": "yukari-dayicik-koyu",
+        "posta_kodu": "28522"
+    },
+    {
+        "mahalle_id": "28_1930_759a16a77f6a5c8b8522ec525d267667",
+        "mahalle_adi": "Yukarı / Gürağaç Köyü",
+        "mahalle_slug": "yukari-guragac-koyu",
+        "posta_kodu": "28522"
+    }
+]

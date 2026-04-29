@@ -1,0 +1,197 @@
+[
+    {
+        "ilce_id": "1103",
+        "ilce_adi": "Adalar",
+        "ilce_slug": "adalar"
+    },
+    {
+        "ilce_id": "1166",
+        "ilce_adi": "Bakırköy",
+        "ilce_slug": "bakirkoy"
+    },
+    {
+        "ilce_id": "1183",
+        "ilce_adi": "Beşiktaş",
+        "ilce_slug": "besiktas"
+    },
+    {
+        "ilce_id": "1185",
+        "ilce_adi": "Beykoz",
+        "ilce_slug": "beykoz"
+    },
+    {
+        "ilce_id": "1186",
+        "ilce_adi": "Beyoğlu",
+        "ilce_slug": "beyoglu"
+    },
+    {
+        "ilce_id": "1237",
+        "ilce_adi": "Çatalca",
+        "ilce_slug": "catalca"
+    },
+    {
+        "ilce_id": "1325",
+        "ilce_adi": "Eyüpsultan",
+        "ilce_slug": "eyupsultan"
+    },
+    {
+        "ilce_id": "1327",
+        "ilce_adi": "Fatih",
+        "ilce_slug": "fatih"
+    },
+    {
+        "ilce_id": "1336",
+        "ilce_adi": "Gaziosmanpaşa",
+        "ilce_slug": "gaziosmanpasa"
+    },
+    {
+        "ilce_id": "1421",
+        "ilce_adi": "Kadıköy",
+        "ilce_slug": "kadikoy"
+    },
+    {
+        "ilce_id": "1449",
+        "ilce_adi": "Kartal",
+        "ilce_slug": "kartal"
+    },
+    {
+        "ilce_id": "1604",
+        "ilce_adi": "Sarıyer",
+        "ilce_slug": "sariyer"
+    },
+    {
+        "ilce_id": "1622",
+        "ilce_adi": "Silivri",
+        "ilce_slug": "silivri"
+    },
+    {
+        "ilce_id": "1659",
+        "ilce_adi": "Şile",
+        "ilce_slug": "sile"
+    },
+    {
+        "ilce_id": "1663",
+        "ilce_adi": "Şişli",
+        "ilce_slug": "sisli"
+    },
+    {
+        "ilce_id": "1708",
+        "ilce_adi": "Üsküdar",
+        "ilce_slug": "uskudar"
+    },
+    {
+        "ilce_id": "1739",
+        "ilce_adi": "Zeytinburnu",
+        "ilce_slug": "zeytinburnu"
+    },
+    {
+        "ilce_id": "1782",
+        "ilce_adi": "Büyükçekmece",
+        "ilce_slug": "buyukcekmece"
+    },
+    {
+        "ilce_id": "1810",
+        "ilce_adi": "Kağıthane",
+        "ilce_slug": "kagithane"
+    },
+    {
+        "ilce_id": "1823",
+        "ilce_adi": "Küçükçekmece",
+        "ilce_slug": "kucukcekmece"
+    },
+    {
+        "ilce_id": "1835",
+        "ilce_adi": "Pendik",
+        "ilce_slug": "pendik"
+    },
+    {
+        "ilce_id": "1852",
+        "ilce_adi": "Ümraniye",
+        "ilce_slug": "umraniye"
+    },
+    {
+        "ilce_id": "1886",
+        "ilce_adi": "Bayrampaşa",
+        "ilce_slug": "bayrampasa"
+    },
+    {
+        "ilce_id": "2003",
+        "ilce_adi": "Avcılar",
+        "ilce_slug": "avcilar"
+    },
+    {
+        "ilce_id": "2004",
+        "ilce_adi": "Bağcılar",
+        "ilce_slug": "bagcilar"
+    },
+    {
+        "ilce_id": "2005",
+        "ilce_adi": "Bahçelievler",
+        "ilce_slug": "bahcelievler"
+    },
+    {
+        "ilce_id": "2010",
+        "ilce_adi": "Güngören",
+        "ilce_slug": "gungoren"
+    },
+    {
+        "ilce_id": "2012",
+        "ilce_adi": "Maltepe",
+        "ilce_slug": "maltepe"
+    },
+    {
+        "ilce_id": "2014",
+        "ilce_adi": "Sultanbeyli",
+        "ilce_slug": "sultanbeyli"
+    },
+    {
+        "ilce_id": "2015",
+        "ilce_adi": "Tuzla",
+        "ilce_slug": "tuzla"
+    },
+    {
+        "ilce_id": "2016",
+        "ilce_adi": "Esenler",
+        "ilce_slug": "esenler"
+    },
+    {
+        "ilce_id": "2048",
+        "ilce_adi": "Arnavutköy",
+        "ilce_slug": "arnavutkoy"
+    },
+    {
+        "ilce_id": "2049",
+        "ilce_adi": "Ataşehir",
+        "ilce_slug": "atasehir"
+    },
+    {
+        "ilce_id": "2050",
+        "ilce_adi": "Başakşehir",
+        "ilce_slug": "basaksehir"
+    },
+    {
+        "ilce_id": "2051",
+        "ilce_adi": "Beylikdüzü",
+        "ilce_slug": "beylikduzu"
+    },
+    {
+        "ilce_id": "2052",
+        "ilce_adi": "Çekmeköy",
+        "ilce_slug": "cekmekoy"
+    },
+    {
+        "ilce_id": "2053",
+        "ilce_adi": "Esenyurt",
+        "ilce_slug": "esenyurt"
+    },
+    {
+        "ilce_id": "2054",
+        "ilce_adi": "Sancaktepe",
+        "ilce_slug": "sancaktepe"
+    },
+    {
+        "ilce_id": "2055",
+        "ilce_adi": "Sultangazi",
+        "ilce_slug": "sultangazi"
+    }
+]

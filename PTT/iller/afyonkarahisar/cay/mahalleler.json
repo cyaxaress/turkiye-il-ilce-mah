@@ -1,0 +1,386 @@
+[
+    {
+        "mahalle_id": "3_1239_af417f2eda59f1f1d5cd0bcbbd60f64b",
+        "mahalle_adi": "Aktaş Mah.",
+        "mahalle_slug": "aktas-mah",
+        "posta_kodu": "03700"
+    },
+    {
+        "mahalle_id": "3_1239_97999195b0125737bdd2ac769ec966fd",
+        "mahalle_adi": "Ali İhsan Paşa Mah.",
+        "mahalle_slug": "ali-ihsan-pasa-mah",
+        "posta_kodu": "03700"
+    },
+    {
+        "mahalle_id": "3_1239_933da4ed34a8ab4655b1cf79a8b33532",
+        "mahalle_adi": "Ali Kaleli Mah.",
+        "mahalle_slug": "ali-kaleli-mah",
+        "posta_kodu": "03700"
+    },
+    {
+        "mahalle_id": "3_1239_2c7da666e5837a3f5da9706f24b40759",
+        "mahalle_adi": "Bahçelievler Mah.",
+        "mahalle_slug": "bahcelievler-mah",
+        "posta_kodu": "03700"
+    },
+    {
+        "mahalle_id": "3_1239_8f7d431ffcc2cfb058c1e06ed9dbdc84",
+        "mahalle_adi": "Cedit Mah.",
+        "mahalle_slug": "cedit-mah",
+        "posta_kodu": "03700"
+    },
+    {
+        "mahalle_id": "3_1239_bd173e8d98e7d8479c87da114ebb34b9",
+        "mahalle_adi": "Demirağaç Mah.",
+        "mahalle_slug": "demiragac-mah",
+        "posta_kodu": "03700"
+    },
+    {
+        "mahalle_id": "3_1239_af1d34f65a824e8555a1c07b17140551",
+        "mahalle_adi": "Dumlupınar Mah.",
+        "mahalle_slug": "dumlupinar-mah",
+        "posta_kodu": "03700"
+    },
+    {
+        "mahalle_id": "3_1239_e5b1ecc4652538c55b454a02be830282",
+        "mahalle_adi": "Elbiz Mah.",
+        "mahalle_slug": "elbiz-mah",
+        "posta_kodu": "03700"
+    },
+    {
+        "mahalle_id": "3_1239_e35a27cfdc6bceeecc19e005d803cec8",
+        "mahalle_adi": "İstasyon Mah.",
+        "mahalle_slug": "istasyon-mah",
+        "posta_kodu": "03700"
+    },
+    {
+        "mahalle_id": "3_1239_d179551b5c6c7b2e33081d9edf8d286e",
+        "mahalle_adi": "Köprübaşı Mah.",
+        "mahalle_slug": "koprubasi-mah",
+        "posta_kodu": "03700"
+    },
+    {
+        "mahalle_id": "3_1239_45b62e39be11a0dabea9f2b108509941",
+        "mahalle_adi": "Orta Mah.",
+        "mahalle_slug": "orta-mah",
+        "posta_kodu": "03700"
+    },
+    {
+        "mahalle_id": "3_1239_5bb723eed63f522e7ab089c5a9126490",
+        "mahalle_adi": "Şirinevler Mah.",
+        "mahalle_slug": "sirinevler-mah",
+        "posta_kodu": "03700"
+    },
+    {
+        "mahalle_id": "3_1239_27676a556b2e5e427834544abeb1ae13",
+        "mahalle_adi": "Tekke Mah.",
+        "mahalle_slug": "tekke-mah",
+        "posta_kodu": "03700"
+    },
+    {
+        "mahalle_id": "3_1239_7116376e9ab9b2ba9a68cab1161fe463",
+        "mahalle_adi": "Vakıf Mah.",
+        "mahalle_slug": "vakif-mah",
+        "posta_kodu": "03700"
+    },
+    {
+        "mahalle_id": "3_1239_f59e4cee9c390a4f57e5ec578e69e162",
+        "mahalle_adi": "Yaka Mah.",
+        "mahalle_slug": "yaka-mah",
+        "posta_kodu": "03700"
+    },
+    {
+        "mahalle_id": "3_1239_e75cd36602240f667af0d6272f530e0f",
+        "mahalle_adi": "Yeşilevler Mah.",
+        "mahalle_slug": "yesilevler-mah",
+        "posta_kodu": "03700"
+    },
+    {
+        "mahalle_id": "3_1239_23174fb57f82a271fdc804d8bbd9d1d5",
+        "mahalle_adi": "Aşağı Mah.",
+        "mahalle_slug": "asagi-mah",
+        "posta_kodu": "03720"
+    },
+    {
+        "mahalle_id": "3_1239_4084530aac7a58fabf3f51988cbd6343",
+        "mahalle_adi": "Bağlar Mah.",
+        "mahalle_slug": "baglar-mah",
+        "posta_kodu": "03720"
+    },
+    {
+        "mahalle_id": "3_1239_b296750b604194ad30c31c15902fd70a",
+        "mahalle_adi": "Seka Mah.",
+        "mahalle_slug": "seka-mah",
+        "posta_kodu": "03720"
+    },
+    {
+        "mahalle_id": "3_1239_f528986566c793caa13c50be57f82c65",
+        "mahalle_adi": "Yukarı Mah.",
+        "mahalle_slug": "yukari-mah",
+        "posta_kodu": "03720"
+    },
+    {
+        "mahalle_id": "3_1239_c2b96f4c96f3bb903b02efd94d8be0f5",
+        "mahalle_adi": "75. Yıl / Karamık Köyü",
+        "mahalle_slug": "75-yil-karamik-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_95cecfc535be0a84b43df0f305bf181e",
+        "mahalle_adi": "Akhürrem / Akkonak Köyü",
+        "mahalle_slug": "akhurrem-akkonak-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_3a9c1d399e120475b32cea6e76a1157d",
+        "mahalle_adi": "Alpaslan / İnli Köyü",
+        "mahalle_slug": "alpaslan-inli-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_7b8370f9f1c6ad1a27c245fdda2abccb",
+        "mahalle_adi": "Armutlu Köyü",
+        "mahalle_slug": "armutlu-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_c3ec3419329b5102a833f61652636a6d",
+        "mahalle_adi": "Aşağı / Koçbeyli Köyü",
+        "mahalle_slug": "asagi-kocbeyli-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_bc671f6ef934318cdfdd0f8b978a93be",
+        "mahalle_adi": "Aşağı / Merkez Köyü",
+        "mahalle_slug": "asagi-merkez-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_5d7a587187741c20605e5a860f230c41",
+        "mahalle_adi": "Aydoğmuş Köyü",
+        "mahalle_slug": "aydogmus-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_2ca0d3a6ed3146c7c386027237228317",
+        "mahalle_adi": "Baltacı / Akkonak Köyü",
+        "mahalle_slug": "baltaci-akkonak-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_ee50734c2452cb4c9f018c6fccffc55a",
+        "mahalle_adi": "Bulanık Köyü",
+        "mahalle_slug": "bulanik-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_c5b13a327d9a4c01c599e1e3464d69e7",
+        "mahalle_adi": "Çayırpınar Köyü",
+        "mahalle_slug": "cayirpinar-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_f22c711e63e5904141dda225a5b674a6",
+        "mahalle_adi": "Çayıryazı Köyü",
+        "mahalle_slug": "cayiryazi-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_33e5462c50ba64a2e6206f8eea1b2486",
+        "mahalle_adi": "Cumhuriyet / Akkonak Köyü",
+        "mahalle_slug": "cumhuriyet-akkonak-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_a2a79e521f09e64df6ef78adefff980c",
+        "mahalle_adi": "Cumhuriyet / İnli Köyü",
+        "mahalle_slug": "cumhuriyet-inli-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_d5b00b0631b3fdecf2d41a5833769239",
+        "mahalle_adi": "Cumhuriyet / Karamık Köyü",
+        "mahalle_slug": "cumhuriyet-karamik-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_95940aa59bd3e5dbe18fd7c556546206",
+        "mahalle_adi": "Cumhuriyet Köyü",
+        "mahalle_slug": "cumhuriyet-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_82a74bc95845cdef01aaa557a0bc4d8c",
+        "mahalle_adi": "Devederesi Köyü",
+        "mahalle_slug": "devederesi-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_150a711cd563812b478f72b80c338878",
+        "mahalle_adi": "Evren / İnli Köyü",
+        "mahalle_slug": "evren-inli-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_68f3035a55402e1c14adfd77fe7770d0",
+        "mahalle_adi": "Göcen Köyü",
+        "mahalle_slug": "gocen-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_38a189f1709349cc2402c37af9e496eb",
+        "mahalle_adi": "Göçmezler / Koçbeyli Köyü",
+        "mahalle_slug": "gocmezler-kocbeyli-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_54ca87d88ee5ea83f40d2aeae39cb1b5",
+        "mahalle_adi": "Gülbaharlı / Koçbeyli Köyü",
+        "mahalle_slug": "gulbaharli-kocbeyli-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_995075592102a01b6fa3d5583d4c0e95",
+        "mahalle_adi": "Gündoğdu / Deresinek Köyü",
+        "mahalle_slug": "gundogdu-deresinek-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_eb99ad655d525ddb449d48a07f50391a",
+        "mahalle_adi": "Hürriyet / Akkonak Köyü",
+        "mahalle_slug": "hurriyet-akkonak-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_d68dfdfd27ca2440aa3c38bb82af010f",
+        "mahalle_adi": "Kadıköy Köyü",
+        "mahalle_slug": "kadikoy-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_be4a0383d191362a2c93cbf9a9817335",
+        "mahalle_adi": "Kahraman / Deresinek Köyü",
+        "mahalle_slug": "kahraman-deresinek-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_e612b586ba2385229af618ff50270930",
+        "mahalle_adi": "Kavaklı / İnli Köyü",
+        "mahalle_slug": "kavakli-inli-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_52f91785c022537f26703681f266e884",
+        "mahalle_adi": "Kılıçyaka Köyü",
+        "mahalle_slug": "kilicyaka-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_ecf36d21887c5ba3cf333fea33a69b7d",
+        "mahalle_adi": "Kocatepe / İnli Köyü",
+        "mahalle_slug": "kocatepe-inli-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_13580c2a03f71608848196f6e07be50d",
+        "mahalle_adi": "Maltepe Köyü",
+        "mahalle_slug": "maltepe-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_503e02f8bb72717ed7e53625ae5c8275",
+        "mahalle_adi": "Milli Egemenlik / Akkonak Köyü",
+        "mahalle_slug": "milli-egemenlik-akkonak-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_661ecdcc1ee4f79b81207eb4e831bc07",
+        "mahalle_adi": "Orhaniye Köyü",
+        "mahalle_slug": "orhaniye-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_9dadbd15d3d9eab0b4e29dbc6f7a2706",
+        "mahalle_adi": "Orta / Eber Köyü",
+        "mahalle_slug": "orta-eber-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_832c97289cdc7fb101181a17de342d30",
+        "mahalle_adi": "Pınarkaya Köyü",
+        "mahalle_slug": "pinarkaya-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_5ed9ad4cb1bb123b95fa306de2243ed8",
+        "mahalle_adi": "Tekke / Eber Köyü",
+        "mahalle_slug": "tekke-eber-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_a86f9d8f02b1eea7531d855a615ff428",
+        "mahalle_adi": "Yayla / İnli Köyü",
+        "mahalle_slug": "yayla-inli-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_df00e2a687b9e7e90da36a60b6b92a44",
+        "mahalle_adi": "Yeni / Eber Köyü",
+        "mahalle_slug": "yeni-eber-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_c95aa1913ed59fea471ca0e13bbd9d92",
+        "mahalle_adi": "Yeni / Koçbeyli Köyü",
+        "mahalle_slug": "yeni-kocbeyli-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_15366d9c56cf7f99782c6f20d4d2de6c",
+        "mahalle_adi": "Yeşilyurt Köyü",
+        "mahalle_slug": "yesilyurt-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_c82137e24a5ebed55dad038d2bf99c6f",
+        "mahalle_adi": "Yukarı / Eber Köyü",
+        "mahalle_slug": "yukari-eber-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_1ad76817c0aaae8e5d6eca98aa5a183e",
+        "mahalle_adi": "Zafer / Deresinek Köyü",
+        "mahalle_slug": "zafer-deresinek-koyu",
+        "posta_kodu": "03702"
+    },
+    {
+        "mahalle_id": "3_1239_b84a7569faa262e3f46f56a833cbef9a",
+        "mahalle_adi": "Afyon Mah.",
+        "mahalle_slug": "afyon-mah",
+        "posta_kodu": "03706"
+    },
+    {
+        "mahalle_id": "3_1239_acb6ea384fd2c7ff1de0b9bd2a5d5f39",
+        "mahalle_adi": "Beşevler Mah.",
+        "mahalle_slug": "besevler-mah",
+        "posta_kodu": "03706"
+    },
+    {
+        "mahalle_id": "3_1239_36206032a19d5160d28a10a22b966f62",
+        "mahalle_adi": "Karabulut Mah.",
+        "mahalle_slug": "karabulut-mah",
+        "posta_kodu": "03706"
+    },
+    {
+        "mahalle_id": "3_1239_e05b6dc5d9df9fe37c10fb9918c6fe44",
+        "mahalle_adi": "Orta Mah.",
+        "mahalle_slug": "orta-mah",
+        "posta_kodu": "03706"
+    },
+    {
+        "mahalle_id": "3_1239_b0a938aaaf66a46c238a821386623705",
+        "mahalle_adi": "Yukarı Mah.",
+        "mahalle_slug": "yukari-mah",
+        "posta_kodu": "03706"
+    }
+]
