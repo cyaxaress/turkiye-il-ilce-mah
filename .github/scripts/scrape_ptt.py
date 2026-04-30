@@ -229,7 +229,28 @@ class PTTAddressApiScraper:
             f"Tamamlandı: {self.total_states} il, "
             f"{self.total_provinces} ilçe, {self.total_neighborhoods} mahalle işlendi."
         )
+        self._print_summary_table(
+            self.total_states, self.total_provinces, self.total_neighborhoods
+        )
         return address_data
+
+    @staticmethod
+    def _print_summary_table(il_count: int, ilce_count: int, mah_count: int) -> None:
+        """Özet sayıları küçük bir tabloda gösterir."""
+        rows = [
+            ("İl", il_count),
+            ("İlçe", ilce_count),
+            ("Mahalle", mah_count),
+        ]
+        n_w = max(len(str(n)) for _, n in rows)
+        label_w = max(len(l) for l, _ in rows)
+        sep = "+" + "-" * (label_w + 2) + "+" + "-" * (n_w + 2) + "+"
+        print(sep)
+        print(f"| {'Kategori':<{label_w}} | {'Adet':>{n_w}} |")
+        print(sep)
+        for label, n in rows:
+            print(f"| {label:<{label_w}} | {n:>{n_w}} |")
+        print(sep)
 
     def save_to_file(self, data: List[Dict[str, Any]], filename: str) -> None:
         ptt_dir = "PTT"
@@ -238,7 +259,14 @@ class PTTAddressApiScraper:
         with open(filepath, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
 
-    def update_readme(self, readme_path: str = "README.md") -> None:
+    def update_readme(
+        self,
+        readme_path: str = "README.md",
+        *,
+        il_count: Optional[int] = None,
+        ilce_count: Optional[int] = None,
+        mah_count: Optional[int] = None,
+    ) -> None:
         if not os.path.exists(readme_path):
             print(f"README dosyası bulunamadı: {readme_path}")
             return
@@ -276,10 +304,39 @@ class PTTAddressApiScraper:
             flags=re.MULTILINE,
         )
 
+        stats_note = ""
+        if il_count is not None and ilce_count is not None and mah_count is not None:
+            stats_block = (
+                "<!-- PTT_STATS_TABLE_START -->\n"
+                "| Kategori | Adet |\n"
+                "| -------- | ---: |\n"
+                f"| İl       | {il_count} |\n"
+                f"| İlçe     | {ilce_count} |\n"
+                f"| Mahalle  | {mah_count} |\n"
+                "<!-- PTT_STATS_TABLE_END -->"
+            )
+            stats_pattern = re.compile(
+                r"<!-- PTT_STATS_TABLE_START -->.*?<!-- PTT_STATS_TABLE_END -->",
+                re.DOTALL,
+            )
+            if stats_pattern.search(readme_content):
+                readme_content = stats_pattern.sub(stats_block, readme_content, count=1)
+                stats_note = (
+                    f"; veri özeti: {il_count} il, {ilce_count} ilçe, "
+                    f"{mah_count} mahalle"
+                )
+            else:
+                print(
+                    "README: PTT_STATS_TABLE işaretçileri bulunamadı; "
+                    "özet tablosu atlandı."
+                )
+
         with open(readme_path, "w", encoding="utf-8") as f:
             f.write(readme_content)
 
-        print(f"README güncellendi: Son güncelleme tarihi eklendi ({formatted_date})")
+        print(
+            f"README güncellendi: son güncelleme {formatted_date}{stats_note}"
+        )
 
 
 def main() -> None:
@@ -300,7 +357,11 @@ def main() -> None:
         filename = "ptt_il_ilce_mahalle.json"
         scraper.save_to_file(address_data, filename)
         print(f"\nVeriler PTT/{filename} dosyasına kaydedildi.")
-        scraper.update_readme()
+        scraper.update_readme(
+            il_count=scraper.total_states,
+            ilce_count=scraper.total_provinces,
+            mah_count=scraper.total_neighborhoods,
+        )
     except Exception as e:
         print(f"Hata: {e}")
         raise
