@@ -236,20 +236,27 @@ class PTTAddressApiScraper:
 
     @staticmethod
     def _print_summary_table(il_count: int, ilce_count: int, mah_count: int) -> None:
-        """Özet sayıları küçük bir tabloda gösterir."""
-        rows = [
-            ("İl", il_count),
-            ("İlçe", ilce_count),
-            ("Mahalle", mah_count),
-        ]
-        n_w = max(len(str(n)) for _, n in rows)
-        label_w = max(len(l) for l, _ in rows)
-        sep = "+" + "-" * (label_w + 2) + "+" + "-" * (n_w + 2) + "+"
+        """Özet sayıları yatay tabloda gösterir (1. satır kategori, 2. satır adet)."""
+        headers = ("İl", "İlçe", "Mahalle")
+        counts = (il_count, ilce_count, mah_count)
+        col_w = tuple(
+            max(len(h), len(str(n))) for h, n in zip(headers, counts)
+        )
+        inner = "+".join("-" * (w + 2) for w in col_w)
+        sep = "+" + inner + "+"
+
+        def row_line(cells: tuple[Any, ...], widths: tuple[int, ...], numbers: bool) -> str:
+            parts: List[str] = []
+            for cell, w in zip(cells, widths):
+                s = str(cell)
+                pad = f"{s:>{w}}" if numbers else f"{s:<{w}}"
+                parts.append(f" {pad} ")
+            return "|" + "|".join(parts) + "|"
+
         print(sep)
-        print(f"| {'Kategori':<{label_w}} | {'Adet':>{n_w}} |")
+        print(row_line(headers, col_w, numbers=False))
         print(sep)
-        for label, n in rows:
-            print(f"| {label:<{label_w}} | {n:>{n_w}} |")
+        print(row_line(counts, col_w, numbers=True))
         print(sep)
 
     def save_to_file(self, data: List[Dict[str, Any]], filename: str) -> None:
@@ -308,11 +315,9 @@ class PTTAddressApiScraper:
         if il_count is not None and ilce_count is not None and mah_count is not None:
             stats_block = (
                 "<!-- PTT_STATS_TABLE_START -->\n"
-                "| Kategori | Adet |\n"
-                "| -------- | ---: |\n"
-                f"| İl       | {il_count} |\n"
-                f"| İlçe     | {ilce_count} |\n"
-                f"| Mahalle  | {mah_count} |\n"
+                "| İl | İlçe | Mahalle |\n"
+                "| ---: | ---: | ---: |\n"
+                f"| {il_count} | {ilce_count} | {mah_count} |\n"
                 "<!-- PTT_STATS_TABLE_END -->"
             )
             stats_pattern = re.compile(

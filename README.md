@@ -11,13 +11,9 @@ Türkiye genelinde **il**, **ilçe** ve **mahalle** (posta kodu dahiye) hiyerar�
 Son tam çekimdeki kayıt sayıları:
 
 <!-- PTT_STATS_TABLE_START -->
-
-| Kategori |  Adet |
-| -------- | ----: |
-| İl       |    81 |
-| İlçe     |   973 |
-| Mahalle  | 72985 |
-
+| İl | İlçe | Mahalle |
+| ---: | ---: | ---: |
+| 81 | 973 | 72985 |
 <!-- PTT_STATS_TABLE_END -->
 
 ## İçindekiler
