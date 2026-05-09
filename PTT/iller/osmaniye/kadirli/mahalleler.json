@@ -186,8 +186,8 @@
         "posta_kodu": "80752"
     },
     {
-        "mahalle_id": "80_1423_13e7ea093629976df3adb8cffb7491bc",
-        "mahalle_adi": "Alabeyli / Çiğcik Köyü",
+        "mahalle_id": "80_1423_feccac2fc1a76c23389cc7d4bb244c38",
+        "mahalle_adi": "Alabeyli / Cığcık Köyü",
         "mahalle_slug": "alabeyli-cigcik-koyu",
         "posta_kodu": "80752"
     },
@@ -246,9 +246,9 @@
         "posta_kodu": "80752"
     },
     {
-        "mahalle_id": "80_1423_5197816c3b5d1ce7308b581f763138de",
-        "mahalle_adi": "Aşağıçayanlı Köyü",
-        "mahalle_slug": "asagicayanli-koyu",
+        "mahalle_id": "80_1423_3bc91395ef6aee30a4cf7ec166958600",
+        "mahalle_adi": "Aşağıçiyanlı Köyü",
+        "mahalle_slug": "asagiciyanli-koyu",
         "posta_kodu": "80752"
     },
     {
@@ -288,9 +288,9 @@
         "posta_kodu": "80752"
     },
     {
-        "mahalle_id": "80_1423_19bae644c72e34965f036aa9562d03b0",
-        "mahalle_adi": "Bozerler / Yukarıçayanlı Köyü",
-        "mahalle_slug": "bozerler-yukaricayanli-koyu",
+        "mahalle_id": "80_1423_0ecbf0fe5dcf935f013ca447c4e31b70",
+        "mahalle_adi": "Bozerler / Yukarıçiyanlı Köyü",
+        "mahalle_slug": "bozerler-yukariciyanli-koyu",
         "posta_kodu": "80752"
     },
     {
@@ -360,9 +360,9 @@
         "posta_kodu": "80752"
     },
     {
-        "mahalle_id": "80_1423_e9ecc2239566f068cd2e8f1b28608db3",
-        "mahalle_adi": "Çinçikler Solaklar / Yukarıçayanlı Köyü",
-        "mahalle_slug": "cincikler-solaklar-yukaricayanli-koyu",
+        "mahalle_id": "80_1423_03aec9fbd3646be6096a33a5a45190cf",
+        "mahalle_adi": "Çinçikler Solaklar / Yukarıçiyanlı Köyü",
+        "mahalle_slug": "cincikler-solaklar-yukariciyanli-koyu",
         "posta_kodu": "80752"
     },
     {
@@ -444,21 +444,15 @@
         "posta_kodu": "80752"
     },
     {
-        "mahalle_id": "80_1423_c95492c50659698bc289f71d006ad92f",
-        "mahalle_adi": "Döğüş Gediği / Yukarıçayanlı Köyü",
-        "mahalle_slug": "dogus-gedigi-yukaricayanli-koyu",
+        "mahalle_id": "80_1423_3097ea77d843aa67107e54d8719a174c",
+        "mahalle_adi": "Döğüş Gediği / Yukarıçiyanlı Köyü",
+        "mahalle_slug": "dogus-gedigi-yukariciyanli-koyu",
         "posta_kodu": "80752"
     },
     {
         "mahalle_id": "80_1423_7d15c6e093f5d01fdb82d2071b95ab47",
         "mahalle_adi": "Durmuşsofular Köyü",
         "mahalle_slug": "durmussofular-koyu",
-        "posta_kodu": "80752"
-    },
-    {
-        "mahalle_id": "80_1423_9a6e899394c9a85fc71bbf4ba01fba86",
-        "mahalle_adi": "Elbistanlı Köyü",
-        "mahalle_slug": "elbistanli-koyu",
         "posta_kodu": "80752"
     },
     {
@@ -480,8 +474,8 @@
         "posta_kodu": "80752"
     },
     {
-        "mahalle_id": "80_1423_43f2e092280e3c62ba812af1272df971",
-        "mahalle_adi": "Ganiağalar / Çiğcik Köyü",
+        "mahalle_id": "80_1423_160dfc88c87faef6d57ff4ec2dd9f9dc",
+        "mahalle_adi": "Ganiağalar / Cığcık Köyü",
         "mahalle_slug": "ganiagalar-cigcik-koyu",
         "posta_kodu": "80752"
     },
@@ -570,9 +564,9 @@
         "posta_kodu": "80752"
     },
     {
-        "mahalle_id": "80_1423_659ef5001e0688d8dafce732b1191769",
-        "mahalle_adi": "Harkaştığı Köyü",
-        "mahalle_slug": "harkastigi-koyu",
+        "mahalle_id": "80_1423_466cc2934236032beefdc9d35630ef88",
+        "mahalle_adi": "Harkaçtığı Köyü",
+        "mahalle_slug": "harkactigi-koyu",
         "posta_kodu": "80752"
     },
     {
@@ -582,15 +576,21 @@
         "posta_kodu": "80752"
     },
     {
-        "mahalle_id": "80_1423_9bf214eb4bd9378f758ba76c91b8af70",
-        "mahalle_adi": "Hayvalı / Yukarıçayanlı Köyü",
-        "mahalle_slug": "hayvali-yukaricayanli-koyu",
+        "mahalle_id": "80_1423_c1c91cf43657fe32436ecbd60278cefa",
+        "mahalle_adi": "Hayvalı / Yukarıçiyanlı Köyü",
+        "mahalle_slug": "hayvali-yukariciyanli-koyu",
         "posta_kodu": "80752"
     },
     {
         "mahalle_id": "80_1423_f60aa6f395aa90f4297f78d20ce06135",
         "mahalle_adi": "Hocalar / Kiremitli Köyü",
         "mahalle_slug": "hocalar-kiremitli-koyu",
+        "posta_kodu": "80752"
+    },
+    {
+        "mahalle_id": "80_1423_90215836ef485d8a91ca9ef4d7d6ea45",
+        "mahalle_adi": "İlbistanlı Köyü",
+        "mahalle_slug": "ilbistanli-koyu",
         "posta_kodu": "80752"
     },
     {
@@ -618,9 +618,9 @@
         "posta_kodu": "80752"
     },
     {
-        "mahalle_id": "80_1423_6cb8221aca60bd8d1b49c107c2405c81",
-        "mahalle_adi": "İspirler / Yukarıçayanlı Köyü",
-        "mahalle_slug": "ispirler-yukaricayanli-koyu",
+        "mahalle_id": "80_1423_db1dcbc742a4262dcc1e9aa5232dc22a",
+        "mahalle_adi": "İspirler / Yukarıçiyanlı Köyü",
+        "mahalle_slug": "ispirler-yukariciyanli-koyu",
         "posta_kodu": "80752"
     },
     {
@@ -702,9 +702,9 @@
         "posta_kodu": "80752"
     },
     {
-        "mahalle_id": "80_1423_ee2cbe4873b74ae8b4793ffc66ca1c37",
-        "mahalle_adi": "Karatopaklı / Yukarıçayanlı Köyü",
-        "mahalle_slug": "karatopakli-yukaricayanli-koyu",
+        "mahalle_id": "80_1423_23288f03f57c541fa9b7d2f2de30e5ae",
+        "mahalle_adi": "Karatopaklı / Yukarıçiyanlı Köyü",
+        "mahalle_slug": "karatopakli-yukariciyanli-koyu",
         "posta_kodu": "80752"
     },
     {
@@ -822,8 +822,8 @@
         "posta_kodu": "80752"
     },
     {
-        "mahalle_id": "80_1423_10244ba714853e26e3ebe2d8c7c13cba",
-        "mahalle_adi": "Merkez / Çiğcik Köyü",
+        "mahalle_id": "80_1423_f2f71824df8c76de73d6bda87e2297ec",
+        "mahalle_adi": "Merkez / Cığcık Köyü",
         "mahalle_slug": "merkez-cigcik-koyu",
         "posta_kodu": "80752"
     },
@@ -996,9 +996,9 @@
         "posta_kodu": "80752"
     },
     {
-        "mahalle_id": "80_1423_93b30787c2eaae79f1028700e43c194c",
-        "mahalle_adi": "Şahaplı Köyü",
-        "mahalle_slug": "sahapli-koyu",
+        "mahalle_id": "80_1423_a9611eb16c0a819d791eaec4d0166cb5",
+        "mahalle_adi": "Şabaplı Köyü",
+        "mahalle_slug": "sabapli-koyu",
         "posta_kodu": "80752"
     },
     {
@@ -1038,9 +1038,9 @@
         "posta_kodu": "80752"
     },
     {
-        "mahalle_id": "80_1423_5db926743c4d95029ed5cb82660af208",
-        "mahalle_adi": "Semerciler / Yukarıçayanlı Köyü",
-        "mahalle_slug": "semerciler-yukaricayanli-koyu",
+        "mahalle_id": "80_1423_058b1d1d5504272db21d10da4f30ba64",
+        "mahalle_adi": "Semerciler / Yukarıçiyanlı Köyü",
+        "mahalle_slug": "semerciler-yukariciyanli-koyu",
         "posta_kodu": "80752"
     },
     {
@@ -1116,9 +1116,9 @@
         "posta_kodu": "80752"
     },
     {
-        "mahalle_id": "80_1423_e188bd6b09ccf7440f537924ad0fcd6f",
-        "mahalle_adi": "Tekerekli / Yukarıçayanlı Köyü",
-        "mahalle_slug": "tekerekli-yukaricayanli-koyu",
+        "mahalle_id": "80_1423_9c78810f50a92e9bff0d0f31377817da",
+        "mahalle_adi": "Tekerekli / Yukarıçiyanlı Köyü",
+        "mahalle_slug": "tekerekli-yukariciyanli-koyu",
         "posta_kodu": "80752"
     },
     {
@@ -1170,9 +1170,9 @@
         "posta_kodu": "80752"
     },
     {
-        "mahalle_id": "80_1423_c670793fb1cb404b02992eb4e0036ed9",
-        "mahalle_adi": "Üdürükler / Yukarıçayanlı Köyü",
-        "mahalle_slug": "udurukler-yukaricayanli-koyu",
+        "mahalle_id": "80_1423_8af3c99cab4673517967fb0036c7c497",
+        "mahalle_adi": "Üdürükler / Yukarıçiyanlı Köyü",
+        "mahalle_slug": "udurukler-yukariciyanli-koyu",
         "posta_kodu": "80752"
     },
     {
@@ -1206,9 +1206,9 @@
         "posta_kodu": "80752"
     },
     {
-        "mahalle_id": "80_1423_e26636395ca8c1c43c3d27d5a6dc9ce2",
-        "mahalle_adi": "Yanıklar / Harkaştığı Köyü",
-        "mahalle_slug": "yaniklar-harkastigi-koyu",
+        "mahalle_id": "80_1423_e1b552d01fd937b38dfac33e94d2b052",
+        "mahalle_adi": "Yanıklar / Harkaçtığı Köyü",
+        "mahalle_slug": "yaniklar-harkactigi-koyu",
         "posta_kodu": "80752"
     },
     {
@@ -1278,9 +1278,9 @@
         "posta_kodu": "80752"
     },
     {
-        "mahalle_id": "80_1423_85643a3d26a0c5b790df86d88599767d",
-        "mahalle_adi": "Ziyanlı / Harkaştığı Köyü",
-        "mahalle_slug": "ziyanli-harkastigi-koyu",
+        "mahalle_id": "80_1423_62b2b7e8d995f1f2d8e959e5194b6863",
+        "mahalle_adi": "Ziyanlı / Harkaçtığı Köyü",
+        "mahalle_slug": "ziyanli-harkactigi-koyu",
         "posta_kodu": "80752"
     }
 ]

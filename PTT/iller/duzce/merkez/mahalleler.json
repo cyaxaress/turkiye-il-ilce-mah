@@ -492,9 +492,9 @@
         "posta_kodu": "81100"
     },
     {
-        "mahalle_id": "81_1292_666c8e2f72c6cc40fe08f24bbf56b46f",
-        "mahalle_adi": "Aşağı / Yörük Köyü",
-        "mahalle_slug": "asagi-yoruk-koyu",
+        "mahalle_id": "81_1292_c2984d1b6d7fef1ef6017f22b6d9766e",
+        "mahalle_adi": "Aşağı / Beçi Köyü",
+        "mahalle_slug": "asagi-beci-koyu",
         "posta_kodu": "81100"
     },
     {
@@ -1074,6 +1074,12 @@
         "posta_kodu": "81100"
     },
     {
+        "mahalle_id": "81_1292_85a3ced2c0db0e20c861e215a7fc773a",
+        "mahalle_adi": "Merkez / Beçi Köyü",
+        "mahalle_slug": "merkez-beci-koyu",
+        "posta_kodu": "81100"
+    },
+    {
         "mahalle_id": "81_1292_1185b56298913f0ac12c6d7286978931",
         "mahalle_adi": "Merkez / Çınardüzü Köyü",
         "mahalle_slug": "merkez-cinarduzu-koyu",
@@ -1203,12 +1209,6 @@
         "mahalle_id": "81_1292_38d59e24de5872c585edce2aba6cc63e",
         "mahalle_adi": "Merkez / Yeni Taşköprü Köyü",
         "mahalle_slug": "merkez-yeni-taskopru-koyu",
-        "posta_kodu": "81100"
-    },
-    {
-        "mahalle_id": "81_1292_9b4c5a115c46947b4972d4fc0525293a",
-        "mahalle_adi": "Merkez / Yörük Köyü",
-        "mahalle_slug": "merkez-yoruk-koyu",
         "posta_kodu": "81100"
     },
     {
@@ -1500,15 +1500,15 @@
         "posta_kodu": "81100"
     },
     {
-        "mahalle_id": "81_1292_829901f6e4103073e5184aae849d2501",
-        "mahalle_adi": "Yukarı / Günbaşı Köyü",
-        "mahalle_slug": "yukari-gunbasi-koyu",
+        "mahalle_id": "81_1292_c8beb5a79676910969f9f181d9ccb32c",
+        "mahalle_adi": "Yukarı / Beçi Köyü",
+        "mahalle_slug": "yukari-beci-koyu",
         "posta_kodu": "81100"
     },
     {
-        "mahalle_id": "81_1292_07b63027f1b05523e2c8dc70424555e4",
-        "mahalle_adi": "Yukarı / Yörük Köyü",
-        "mahalle_slug": "yukari-yoruk-koyu",
+        "mahalle_id": "81_1292_829901f6e4103073e5184aae849d2501",
+        "mahalle_adi": "Yukarı / Günbaşı Köyü",
+        "mahalle_slug": "yukari-gunbasi-koyu",
         "posta_kodu": "81100"
     },
     {

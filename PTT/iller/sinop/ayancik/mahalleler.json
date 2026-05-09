@@ -582,12 +582,6 @@
         "posta_kodu": "57402"
     },
     {
-        "mahalle_id": "57_1156_9c619bfe992e82c3600768be2afdd019",
-        "mahalle_adi": "Gülpınar Köyü",
-        "mahalle_slug": "gulpinar-koyu",
-        "posta_kodu": "57402"
-    },
-    {
         "mahalle_id": "57_1156_187810f3dd3d12bb74259938728dd367",
         "mahalle_adi": "Güney / Belpınar Köyü",
         "mahalle_slug": "guney-belpinar-koyu",
@@ -603,6 +597,12 @@
         "mahalle_id": "57_1156_31193f53ed832ef45acebc8161778358",
         "mahalle_adi": "Güneyci / Uzunçam Köyü",
         "mahalle_slug": "guneyci-uzuncam-koyu",
+        "posta_kodu": "57402"
+    },
+    {
+        "mahalle_id": "57_1156_36cd684ca968e5b7429329783bf8f2c0",
+        "mahalle_adi": "Gürpınar Köyü",
+        "mahalle_slug": "gurpinar-koyu",
         "posta_kodu": "57402"
     },
     {
