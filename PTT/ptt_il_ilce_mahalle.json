@@ -123939,6 +123939,12 @@
             "posta_kodu": "19602"
           },
           {
+            "mahalle_id": "19_1124_d29deb68d9468dd38a129711ef11ba3c",
+            "mahalle_adi": "Avutmuş Köyü",
+            "mahalle_slug": "avutmus-koyu",
+            "posta_kodu": "19602"
+          },
+          {
             "mahalle_id": "19_1124_1c3b9d4b37df8bd90409179a282020a6",
             "mahalle_adi": "Bahçeli Köyü",
             "mahalle_slug": "bahceli-koyu",
@@ -124065,12 +124071,6 @@
             "posta_kodu": "19602"
           },
           {
-            "mahalle_id": "19_1124_75401efd8d6a5da50a57c928913652ad",
-            "mahalle_adi": "Çöplüavutmuş Köyü",
-            "mahalle_slug": "copluavutmus-koyu",
-            "posta_kodu": "19602"
-          },
-          {
             "mahalle_id": "19_1124_90f96ae6f76b359e033a779204a2393c",
             "mahalle_adi": "Cumhuriyet / Büyükhırka Köyü",
             "mahalle_slug": "cumhuriyet-buyukhirka-koyu",
@@ -124104,12 +124104,6 @@
             "mahalle_id": "19_1124_d56cc4c734fda98ac6b7059d1da9a58c",
             "mahalle_adi": "Dereyazıcı Köyü",
             "mahalle_slug": "dereyazici-koyu",
-            "posta_kodu": "19602"
-          },
-          {
-            "mahalle_id": "19_1124_d9916839ee838327595d6c1036201194",
-            "mahalle_adi": "Dutluca Köyü",
-            "mahalle_slug": "dutluca-koyu",
             "posta_kodu": "19602"
           },
           {
@@ -124494,6 +124488,12 @@
             "mahalle_id": "19_1124_5c8cc198ba0cd729b985c691349342b5",
             "mahalle_adi": "Tutaş Köyü",
             "mahalle_slug": "tutas-koyu",
+            "posta_kodu": "19602"
+          },
+          {
+            "mahalle_id": "19_1124_e57c8c7c8b6fa3cf40111218e7ac79a1",
+            "mahalle_adi": "Tutluca Köyü",
+            "mahalle_slug": "tutluca-koyu",
             "posta_kodu": "19602"
           },
           {
