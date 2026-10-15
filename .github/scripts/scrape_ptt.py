@@ -61,7 +61,8 @@ class PTTAddressApiScraper:
             {
                 "Accept": "application/json",
                 "Content-Type": "application/json",
-                "Expect": "",
+                "Origin": "https://www.ptt.gov.tr",
+                "Referer": "https://www.ptt.gov.tr/posta-kodu",
                 "Connection": "keep-alive",
                 "User-Agent": (
                     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -100,7 +101,14 @@ class PTTAddressApiScraper:
         return s if s else fallback
 
     def _call_api(self, action: str, **params: str) -> List[Dict[str, Any]]:
-        """cURL/SSL kopmalarına karşı HTTP/1.1 + üstel geri deneme (PHP ile aynı mantık)."""
+        """PTT API çağrısı (PHP komutu ile aynı mantık).
+
+        - WAF, Origin/Referer başlıkları olmadan 403 döner; cookie gerekmez.
+        - Boş değerli "Expect" başlığı gönderilmemelidir: IIS bağlantıyı koparır.
+        - API ~30 istek/pencere ile sınırlıdır; 429'da Retry-After beklenip tekrar denenir.
+        - Diğer 4xx cevapları deterministik olduğu için yeniden denenmez.
+        - Geçici ağ hatalarında üstel geri deneme uygulanır.
+        """
         max_attempts = 6
         url = f"{self.BASE_URL}{self.API_PATH}"
         body: Dict[str, Any] = {"action": action, **params}
@@ -114,6 +122,35 @@ class PTTAddressApiScraper:
                     timeout=(15, 60),
                     verify=False,
                 )
+
+                if r.status_code == 429:
+                    last_exc = requests.HTTPError(
+                        f"PTT API istek sınırı aşıldı ({action}, HTTP 429)", response=r
+                    )
+                    if attempt >= max_attempts:
+                        break
+                    retry_after = self._parse_retry_after(r.headers.get("Retry-After"))
+                    if retry_after > 0:
+                        delay_ms = min(30_000, retry_after * 1000 + random.randint(100, 400))
+                    else:
+                        delay_ms = min(
+                            30_000,
+                            int(1_000 * (2 ** (attempt - 1))) + random.randint(0, 500),
+                        )
+                    if self.verbose:
+                        print(
+                            f"PTT API istek sınırı aşıldı ({action}), {delay_ms} ms sonra "
+                            f"tekrar deneniyor ({attempt}/{max_attempts})"
+                        )
+                    time.sleep(delay_ms / 1000.0)
+                    continue
+
+                if 400 <= r.status_code < 500:
+                    raise RuntimeError(
+                        f"PTT API isteği reddedildi ({action}, HTTP {r.status_code}). "
+                        "Origin/Referer başlıklarını kontrol edin."
+                    )
+
                 r.raise_for_status()
                 payload = r.json()
                 if isinstance(payload, dict) and "error" in payload:
@@ -138,6 +175,16 @@ class PTTAddressApiScraper:
                 time.sleep(delay_ms / 1000.0)
 
         raise last_exc or RuntimeError(f"PTT API çağrısı başarısız: {action}")
+
+    @staticmethod
+    def _parse_retry_after(value: Optional[str]) -> int:
+        """Retry-After başlığını saniye olarak döner; yoksa / geçersizse 0."""
+        if not value:
+            return 0
+        try:
+            return max(0, int(value.strip()))
+        except ValueError:
+            return 0
 
     def fetch_iller(self) -> List[Dict[str, Any]]:
         data = self._call_api("iller")
@@ -218,6 +265,7 @@ class PTTAddressApiScraper:
                         "mahalleler": mahalleler,
                     }
                 )
+                time.sleep(0.25)
 
             address_data.append(current_province)
 
