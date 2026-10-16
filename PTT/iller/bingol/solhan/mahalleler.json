@@ -42,12 +42,6 @@
         "posta_kodu": "12702"
     },
     {
-        "mahalle_id": "12_1633_8c618cccb91f76178542ad34608ac837",
-        "mahalle_adi": "Aktasor / Kaleköy Köyü",
-        "mahalle_slug": "aktasor-kalekoy-koyu",
-        "posta_kodu": "12702"
-    },
-    {
         "mahalle_id": "12_1633_2dccca8883075f454169c9dec2ed1bfd",
         "mahalle_adi": "Akyürek / Sükyan Köyü",
         "mahalle_slug": "akyurek-sukyan-koyu",
@@ -84,9 +78,21 @@
         "posta_kodu": "12702"
     },
     {
+        "mahalle_id": "12_1633_a14814ca939ed084fdc4694712e8820a",
+        "mahalle_adi": "Altoprak / Yenibaşak Köyü",
+        "mahalle_slug": "altoprak-yenibasak-koyu",
+        "posta_kodu": "12702"
+    },
+    {
         "mahalle_id": "12_1633_5a379136676fd3b50bc21c5965b49ba8",
         "mahalle_adi": "Ardik / Gençtavus Köyü",
         "mahalle_slug": "ardik-genctavus-koyu",
+        "posta_kodu": "12702"
+    },
+    {
+        "mahalle_id": "12_1633_e2662145e5f06c69614d18bbcca37ff0",
+        "mahalle_adi": "Arkalı / Kaleköy Köyü",
+        "mahalle_slug": "arkali-kalekoy-koyu",
         "posta_kodu": "12702"
     },
     {
@@ -102,15 +108,9 @@
         "posta_kodu": "12702"
     },
     {
-        "mahalle_id": "12_1633_612f6a935aadabdb078d52ffce5a8ed3",
-        "mahalle_adi": "Aşağı Otluca / Kırık Köyü",
-        "mahalle_slug": "asagi-otluca-kirik-koyu",
-        "posta_kodu": "12702"
-    },
-    {
-        "mahalle_id": "12_1633_36fd802c8f49788a3abca9806119eb19",
-        "mahalle_adi": "Aşağı Yayıklı / Mutluca Köyü",
-        "mahalle_slug": "asagi-yayikli-mutluca-koyu",
+        "mahalle_id": "12_1633_a78c009d778780f7ea17e7dc954021d8",
+        "mahalle_adi": "Aşağı Köprübaşı / Yenidal Köyü",
+        "mahalle_slug": "asagi-koprubasi-yenidal-koyu",
         "posta_kodu": "12702"
     },
     {
@@ -138,12 +138,6 @@
         "posta_kodu": "12702"
     },
     {
-        "mahalle_id": "12_1633_bc0df9252646d108c151a80fd6a4b807",
-        "mahalle_adi": "Bağızlar / Asmakaya Köyü",
-        "mahalle_slug": "bagizlar-asmakaya-koyu",
-        "posta_kodu": "12702"
-    },
-    {
         "mahalle_id": "12_1633_7e41d2fcc2b13850cea86ea58d275428",
         "mahalle_adi": "Ballı / Arslanbeyli Köyü",
         "mahalle_slug": "balli-arslanbeyli-koyu",
@@ -153,12 +147,6 @@
         "mahalle_id": "12_1633_a244fbfff0a86992856f342a69ec3388",
         "mahalle_adi": "Barakalar / Yiğitharmanı Köyü",
         "mahalle_slug": "barakalar-yigitharmani-koyu",
-        "posta_kodu": "12702"
-    },
-    {
-        "mahalle_id": "12_1633_31813516215c19139463bae0631d6147",
-        "mahalle_adi": "Barbara / Yenibaşak Köyü",
-        "mahalle_slug": "barbara-yenibasak-koyu",
         "posta_kodu": "12702"
     },
     {
@@ -204,6 +192,12 @@
         "posta_kodu": "12702"
     },
     {
+        "mahalle_id": "12_1633_65f430cb77772b1f426ea29e6d281bf2",
+        "mahalle_adi": "Boylu / Oymapınar Köyü",
+        "mahalle_slug": "boylu-oymapinar-koyu",
+        "posta_kodu": "12702"
+    },
+    {
         "mahalle_id": "12_1633_4bba2507090ad25af0a7c92574feaf0a",
         "mahalle_adi": "Bozkanat Köyü",
         "mahalle_slug": "bozkanat-koyu",
@@ -228,9 +222,15 @@
         "posta_kodu": "12702"
     },
     {
-        "mahalle_id": "12_1633_5d7439b64a84b64c31bcf3b4973efcce",
-        "mahalle_adi": "Cemalan / Hazarşah Köyü",
-        "mahalle_slug": "cemalan-hazarsah-koyu",
+        "mahalle_id": "12_1633_96db789bd5f71fb4df01bf1928cc600a",
+        "mahalle_adi": "Çayırlı / Asmakaya Köyü",
+        "mahalle_slug": "cayirli-asmakaya-koyu",
+        "posta_kodu": "12702"
+    },
+    {
+        "mahalle_id": "12_1633_58cb3e7a847c62a459d52ec2370be40d",
+        "mahalle_adi": "Cemalan / Yenidal Köyü",
+        "mahalle_slug": "cemalan-yenidal-koyu",
         "posta_kodu": "12702"
     },
     {
@@ -297,12 +297,6 @@
         "mahalle_id": "12_1633_1c228becfe274e99cd726c92f2fa9b40",
         "mahalle_adi": "Derindere / Demirkapı Köyü",
         "mahalle_slug": "derindere-demirkapi-koyu",
-        "posta_kodu": "12702"
-    },
-    {
-        "mahalle_id": "12_1633_694c36d3032bfe243251b5050d72552f",
-        "mahalle_adi": "Dersor / Asmakaya Köyü",
-        "mahalle_slug": "dersor-asmakaya-koyu",
         "posta_kodu": "12702"
     },
     {
@@ -480,12 +474,6 @@
         "posta_kodu": "12702"
     },
     {
-        "mahalle_id": "12_1633_48fb8bddb6d00783b4936607c45a18db",
-        "mahalle_adi": "Gömdevdo / Elmasırtı Köyü",
-        "mahalle_slug": "gomdevdo-elmasirti-koyu",
-        "posta_kodu": "12702"
-    },
-    {
         "mahalle_id": "12_1633_1706b7c0996e13e3e54cb856f4437bed",
         "mahalle_adi": "Gört / Bozkanat Köyü",
         "mahalle_slug": "gort-bozkanat-koyu",
@@ -540,6 +528,12 @@
         "posta_kodu": "12702"
     },
     {
+        "mahalle_id": "12_1633_d6b93fc00b12b29f0a61fc4df7b4b058",
+        "mahalle_adi": "Halkapınar / Muratköy Köyü",
+        "mahalle_slug": "halkapinar-muratkoy-koyu",
+        "posta_kodu": "12702"
+    },
+    {
         "mahalle_id": "12_1633_2194c5698b84136b48b0c34675c882f2",
         "mahalle_adi": "Harabedüzü / Bozkanat Köyü",
         "mahalle_slug": "harabeduzu-bozkanat-koyu",
@@ -588,12 +582,6 @@
         "posta_kodu": "12702"
     },
     {
-        "mahalle_id": "12_1633_d078715df1feffe1ddc96f45c8ec3636",
-        "mahalle_adi": "Hosir / Oymapınar Köyü",
-        "mahalle_slug": "hosir-oymapinar-koyu",
-        "posta_kodu": "12702"
-    },
-    {
         "mahalle_id": "12_1633_2ecce067fc86edf1e94eadfb209b015a",
         "mahalle_adi": "Hun / Oymapınar Köyü",
         "mahalle_slug": "hun-oymapinar-koyu",
@@ -618,21 +606,27 @@
         "posta_kodu": "12702"
     },
     {
-        "mahalle_id": "12_1633_66b2a515f7fcba14bb082111f71a1f9d",
-        "mahalle_adi": "Kandoz / Muratköy Köyü",
-        "mahalle_slug": "kandoz-muratkoy-koyu",
-        "posta_kodu": "12702"
-    },
-    {
         "mahalle_id": "12_1633_7f697904f99573c1a01bda0da0666f15",
         "mahalle_adi": "Kapaklı / Arslanbeyli Köyü",
         "mahalle_slug": "kapakli-arslanbeyli-koyu",
         "posta_kodu": "12702"
     },
     {
+        "mahalle_id": "12_1633_81c1422fbbee61324577114405012d73",
+        "mahalle_adi": "Kapılı / Asmakaya Köyü",
+        "mahalle_slug": "kapili-asmakaya-koyu",
+        "posta_kodu": "12702"
+    },
+    {
         "mahalle_id": "12_1633_a9211a56f7800eb259c23015b3b34614",
         "mahalle_adi": "Karatay / Asmakaya Köyü",
         "mahalle_slug": "karatay-asmakaya-koyu",
+        "posta_kodu": "12702"
+    },
+    {
+        "mahalle_id": "12_1633_0d6ae9a1613fe8a325ff782cf20ed101",
+        "mahalle_adi": "Kardeşler / Dilektepe Köyü",
+        "mahalle_slug": "kardesler-dilektepe-koyu",
         "posta_kodu": "12702"
     },
     {
@@ -690,6 +684,12 @@
         "posta_kodu": "12702"
     },
     {
+        "mahalle_id": "12_1633_4423ee823911239d41383b39437f39b1",
+        "mahalle_adi": "Kıralan / Asmakaya Köyü",
+        "mahalle_slug": "kiralan-asmakaya-koyu",
+        "posta_kodu": "12702"
+    },
+    {
         "mahalle_id": "12_1633_43d75c98eb9ebf2abab553508f28b353",
         "mahalle_adi": "Kırık Köyü",
         "mahalle_slug": "kirik-koyu",
@@ -726,6 +726,12 @@
         "posta_kodu": "12702"
     },
     {
+        "mahalle_id": "12_1633_a73a339bbd1ac45cf1cc5379e57c48c4",
+        "mahalle_adi": "Kullu / Elmasırtı Köyü",
+        "mahalle_slug": "kullu-elmasirti-koyu",
+        "posta_kodu": "12702"
+    },
+    {
         "mahalle_id": "12_1633_3fae386616a3737f1094a1c911dab8c8",
         "mahalle_adi": "Küllüce / Gençtavus Köyü",
         "mahalle_slug": "kulluce-genctavus-koyu",
@@ -744,21 +750,9 @@
         "posta_kodu": "12702"
     },
     {
-        "mahalle_id": "12_1633_c0c13988f0b44aaea3709108951c18fa",
-        "mahalle_adi": "Liç / Dilektepe Köyü",
-        "mahalle_slug": "lic-dilektepe-koyu",
-        "posta_kodu": "12702"
-    },
-    {
         "mahalle_id": "12_1633_e01558ad3ee39c00a18b40c97bbe8ea7",
         "mahalle_adi": "Liç / Elmasırtı Köyü",
         "mahalle_slug": "lic-elmasirti-koyu",
-        "posta_kodu": "12702"
-    },
-    {
-        "mahalle_id": "12_1633_88eb3a4c75af85b89ae9e1d89f3517dd",
-        "mahalle_adi": "Mergan / Asmakaya Köyü",
-        "mahalle_slug": "mergan-asmakaya-koyu",
         "posta_kodu": "12702"
     },
     {
@@ -780,6 +774,12 @@
         "posta_kodu": "12702"
     },
     {
+        "mahalle_id": "12_1633_46544216bdd9cb08b30215c2603145ee",
+        "mahalle_adi": "Mordere / Oymapınar Köyü",
+        "mahalle_slug": "mordere-oymapinar-koyu",
+        "posta_kodu": "12702"
+    },
+    {
         "mahalle_id": "12_1633_7656be0b9227dbdf3cba20d4a31c53c2",
         "mahalle_adi": "Muratköy Köyü",
         "mahalle_slug": "muratkoy-koyu",
@@ -795,18 +795,6 @@
         "mahalle_id": "12_1633_33ae152a4f611064f2b071034597ec9b",
         "mahalle_adi": "Mutluca Köyü",
         "mahalle_slug": "mutluca-koyu",
-        "posta_kodu": "12702"
-    },
-    {
-        "mahalle_id": "12_1633_8ba9bb24116ff82ad07f90477a4df985",
-        "mahalle_adi": "Nasıran / Kaleköy Köyü",
-        "mahalle_slug": "nasiran-kalekoy-koyu",
-        "posta_kodu": "12702"
-    },
-    {
-        "mahalle_id": "12_1633_d8d496d3f600fff99880f664176a3c81",
-        "mahalle_adi": "Nişrik / Kaleköy Köyü",
-        "mahalle_slug": "nisrik-kalekoy-koyu",
         "posta_kodu": "12702"
     },
     {
@@ -846,6 +834,12 @@
         "posta_kodu": "12702"
     },
     {
+        "mahalle_id": "12_1633_02d07e5fe8b35f8efae07a0718c10f7e",
+        "mahalle_adi": "Otluca / Kırık Köyü",
+        "mahalle_slug": "otluca-kirik-koyu",
+        "posta_kodu": "12702"
+    },
+    {
         "mahalle_id": "12_1633_62aa8cb19aa1faa315f181c0a2f26e2b",
         "mahalle_adi": "Oymapınar Köyü",
         "mahalle_slug": "oymapinar-koyu",
@@ -855,12 +849,6 @@
         "mahalle_id": "12_1633_eb44e8b263468cef6abef1664111d4a4",
         "mahalle_adi": "Özengili / Elmasırtı Köyü",
         "mahalle_slug": "ozengili-elmasirti-koyu",
-        "posta_kodu": "12702"
-    },
-    {
-        "mahalle_id": "12_1633_02e80618699903b73a655768051a37a6",
-        "mahalle_adi": "Piskisor / Yenibaşak Köyü",
-        "mahalle_slug": "piskisor-yenibasak-koyu",
         "posta_kodu": "12702"
     },
     {
@@ -960,9 +948,9 @@
         "posta_kodu": "12702"
     },
     {
-        "mahalle_id": "12_1633_702bd1d2175aebc4089e511b99889f69",
-        "mahalle_adi": "Sinikan / Kaleköy Köyü",
-        "mahalle_slug": "sinikan-kalekoy-koyu",
+        "mahalle_id": "12_1633_689438ffba9bc64f0e8b1a16cba17895",
+        "mahalle_adi": "Sineli / Kaleköy Köyü",
+        "mahalle_slug": "sineli-kalekoy-koyu",
         "posta_kodu": "12702"
     },
     {
@@ -990,9 +978,9 @@
         "posta_kodu": "12702"
     },
     {
-        "mahalle_id": "12_1633_263451b668be7cd0de065c3cc2c1a355",
-        "mahalle_adi": "Tanzut / Oymapınar Köyü",
-        "mahalle_slug": "tanzut-oymapinar-koyu",
+        "mahalle_id": "12_1633_a2ca777feda962c5e4aac7daff995c78",
+        "mahalle_adi": "Tanık / Kaleköy Köyü",
+        "mahalle_slug": "tanik-kalekoy-koyu",
         "posta_kodu": "12702"
     },
     {
@@ -1062,6 +1050,12 @@
         "posta_kodu": "12702"
     },
     {
+        "mahalle_id": "12_1633_e6833eb5973283774c7be7775529b02d",
+        "mahalle_adi": "Yayıklı / Mutluca Köyü",
+        "mahalle_slug": "yayikli-mutluca-koyu",
+        "posta_kodu": "12702"
+    },
+    {
         "mahalle_id": "12_1633_469738578ee08f034442ba871a0651fa",
         "mahalle_adi": "Yayladüzü / Yenidal Köyü",
         "mahalle_slug": "yayladuzu-yenidal-koyu",
@@ -1095,6 +1089,12 @@
         "mahalle_id": "12_1633_0f960d5ee67796ce94649f222d2994f6",
         "mahalle_adi": "Yenyerleşim Komler / Hazarşah Köyü",
         "mahalle_slug": "yenyerlesim-komler-hazarsah-koyu",
+        "posta_kodu": "12702"
+    },
+    {
+        "mahalle_id": "12_1633_1896f50b4e4be6daf8e2bb428dd5a53a",
+        "mahalle_adi": "Yeşilkonak / Yenibaşak Köyü",
+        "mahalle_slug": "yesilkonak-yenibasak-koyu",
         "posta_kodu": "12702"
     },
     {
@@ -1143,6 +1143,12 @@
         "mahalle_id": "12_1633_0691c748a09274d9a5bf8f32ea738402",
         "mahalle_adi": "Yüksekova / Sülünkaş Köyü",
         "mahalle_slug": "yuksekova-sulunkas-koyu",
+        "posta_kodu": "12702"
+    },
+    {
+        "mahalle_id": "12_1633_2ad628c78177e300d7c54ca71559f773",
+        "mahalle_adi": "Yüksektepe / Kaleköy Köyü",
+        "mahalle_slug": "yuksektepe-kalekoy-koyu",
         "posta_kodu": "12702"
     },
     {

@@ -390,12 +390,6 @@
         "posta_kodu": "70202"
     },
     {
-        "mahalle_id": "70_1439_cc4861d81a054c7b7db5666bed439f65",
-        "mahalle_adi": "Bölükyazı Köyü",
-        "mahalle_slug": "bolukyazi-koyu",
-        "posta_kodu": "70202"
-    },
-    {
         "mahalle_id": "70_1439_61ad2ddfc4bcf93a80263240dc362a37",
         "mahalle_adi": "Bostanözü Köyü",
         "mahalle_slug": "bostanozu-koyu",
@@ -861,6 +855,12 @@
         "mahalle_id": "70_1439_09f7a406223723cc1090e96b13fb52a1",
         "mahalle_adi": "Madenşehri Köyü",
         "mahalle_slug": "madensehri-koyu",
+        "posta_kodu": "70202"
+    },
+    {
+        "mahalle_id": "70_1439_f81787269133e2bc8384ef84b4aacbf1",
+        "mahalle_adi": "Masara Köyü",
+        "mahalle_slug": "masara-koyu",
         "posta_kodu": "70202"
     },
     {

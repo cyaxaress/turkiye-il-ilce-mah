@@ -102,12 +102,6 @@
         "posta_kodu": "05902"
     },
     {
-        "mahalle_id": "5_1363_de110d14fa6ad1bff6b3b691fa9b7327",
-        "mahalle_adi": "Çamurlu Köyü",
-        "mahalle_slug": "camurlu-koyu",
-        "posta_kodu": "05902"
-    },
-    {
         "mahalle_id": "5_1363_558207f2763b328c1951c64eecf61db1",
         "mahalle_adi": "Çayan Köyü",
         "mahalle_slug": "cayan-koyu",
@@ -177,6 +171,12 @@
         "mahalle_id": "5_1363_7d0b3e60c529c4621fbc853eb0a76d38",
         "mahalle_adi": "Ilısu Köyü",
         "mahalle_slug": "ilisu-koyu",
+        "posta_kodu": "05902"
+    },
+    {
+        "mahalle_id": "5_1363_800422ee1abe1f2205a81e15293bcc29",
+        "mahalle_adi": "Karadağ Köyü",
+        "mahalle_slug": "karadag-koyu",
         "posta_kodu": "05902"
     },
     {
@@ -306,12 +306,6 @@
         "posta_kodu": "05902"
     },
     {
-        "mahalle_id": "5_1363_7ad7afdf951f07c3336358ba65464db2",
-        "mahalle_adi": "Sığırçayı Köyü",
-        "mahalle_slug": "sigircayi-koyu",
-        "posta_kodu": "05902"
-    },
-    {
         "mahalle_id": "5_1363_938d7a285d4341fb3784a3ef08b22b84",
         "mahalle_adi": "Tencerli Köyü",
         "mahalle_slug": "tencerli-koyu",
@@ -327,6 +321,12 @@
         "mahalle_id": "5_1363_20dc7c24c954fbb04d1dec3a1e28f875",
         "mahalle_adi": "Terziköy Köyü",
         "mahalle_slug": "terzikoy-koyu",
+        "posta_kodu": "05902"
+    },
+    {
+        "mahalle_id": "5_1363_d8dce67526c34cbfbc5b644fa55a73c7",
+        "mahalle_adi": "Ulupınar Köyü",
+        "mahalle_slug": "ulupinar-koyu",
         "posta_kodu": "05902"
     },
     {
