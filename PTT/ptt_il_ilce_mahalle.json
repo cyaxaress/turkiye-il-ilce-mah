@@ -25535,33 +25535,15 @@
         "ilce_slug": "ortakoy",
         "mahalleler": [
           {
-            "mahalle_id": "68_1557_aed14967de9a3af7d2b1096ff7d546ce",
-            "mahalle_adi": "Aşağı Küme Mah.",
-            "mahalle_slug": "asagi-kume-mah",
-            "posta_kodu": "68601"
-          },
-          {
             "mahalle_id": "68_1557_6d68dc831b70e5a375617c63eb12bde0",
             "mahalle_adi": "Aşağı Mah.",
             "mahalle_slug": "asagi-mah",
             "posta_kodu": "68601"
           },
           {
-            "mahalle_id": "68_1557_6725692fe379dbbff7253c295dcfd966",
-            "mahalle_adi": "Bağ Kümesi Mah.",
-            "mahalle_slug": "bag-kumesi-mah",
-            "posta_kodu": "68601"
-          },
-          {
             "mahalle_id": "68_1557_b3461410f917ba0bee5d1ac8fec5edc7",
             "mahalle_adi": "Balcı Mah.",
             "mahalle_slug": "balci-mah",
-            "posta_kodu": "68601"
-          },
-          {
-            "mahalle_id": "68_1557_4847921b275bb7f386224287fe775ab2",
-            "mahalle_adi": "Caber Kümesi Mah.",
-            "mahalle_slug": "caber-kumesi-mah",
             "posta_kodu": "68601"
           },
           {
@@ -25574,12 +25556,6 @@
             "mahalle_id": "68_1557_2f73e1bcb2368741fe1c0bcf32bedba9",
             "mahalle_adi": "Çetin Köyü",
             "mahalle_slug": "cetin-koyu",
-            "posta_kodu": "68601"
-          },
-          {
-            "mahalle_id": "68_1557_403d77ab951acda5986fe10aa68df004",
-            "mahalle_adi": "Çetinkaya Kümesi Mah.",
-            "mahalle_slug": "cetinkaya-kumesi-mah",
             "posta_kodu": "68601"
           },
           {
@@ -25607,39 +25583,15 @@
             "posta_kodu": "68601"
           },
           {
-            "mahalle_id": "68_1557_194473592320da1f504f2e2ed4303d0a",
-            "mahalle_adi": "Karşı Küme Mah.",
-            "mahalle_slug": "karsi-kume-mah",
-            "posta_kodu": "68601"
-          },
-          {
             "mahalle_id": "68_1557_a5a7ae4aaff5070c35a60fc1cf72f57a",
             "mahalle_adi": "Karşı Mah.",
             "mahalle_slug": "karsi-mah",
             "posta_kodu": "68601"
           },
           {
-            "mahalle_id": "68_1557_6d6d95f48fc4c7afdf31172fb313a300",
-            "mahalle_adi": "Koceli Kümesi Mah.",
-            "mahalle_slug": "koceli-kumesi-mah",
-            "posta_kodu": "68601"
-          },
-          {
             "mahalle_id": "68_1557_14d1ae91b036e05c737b6a99679f8317",
             "mahalle_adi": "Kümbet Köyü",
             "mahalle_slug": "kumbet-koyu",
-            "posta_kodu": "68601"
-          },
-          {
-            "mahalle_id": "68_1557_3722357a0a59c4c0781ce020722e5704",
-            "mahalle_adi": "Musalla Kümesi Mah.",
-            "mahalle_slug": "musalla-kumesi-mah",
-            "posta_kodu": "68601"
-          },
-          {
-            "mahalle_id": "68_1557_411079c51f1c6b57a2fd9fa23184eb88",
-            "mahalle_adi": "Orta Küme Mah.",
-            "mahalle_slug": "orta-kume-mah",
             "posta_kodu": "68601"
           },
           {
@@ -25664,12 +25616,6 @@
             "mahalle_id": "68_1557_3822155ffd1eb35fbd8121403ad51481",
             "mahalle_adi": "Satansarı Köyü",
             "mahalle_slug": "satansari-koyu",
-            "posta_kodu": "68601"
-          },
-          {
-            "mahalle_id": "68_1557_dfe7e31fd7f7e72fb9597f0be58ba635",
-            "mahalle_adi": "Şener Kümesi Mah.",
-            "mahalle_slug": "sener-kumesi-mah",
             "posta_kodu": "68601"
           },
           {
@@ -25703,12 +25649,6 @@
             "posta_kodu": "68402"
           },
           {
-            "mahalle_id": "68_1557_94f4e1eb9ee272010dc121a1cba158c9",
-            "mahalle_adi": "2.küme / Seksenuşağı Köyü",
-            "mahalle_slug": "2-kume-seksenusagi-koyu",
-            "posta_kodu": "68402"
-          },
-          {
             "mahalle_id": "68_1557_92d85762e0970f4775785f3bb5416667",
             "mahalle_adi": "3.küme / Akpınar Köyü",
             "mahalle_slug": "3-kume-akpinar-koyu",
@@ -25718,12 +25658,6 @@
             "mahalle_id": "68_1557_612f8b5c8909a5f066ca5ffbea6dd8c8",
             "mahalle_adi": "4.küme / Akpınar Köyü",
             "mahalle_slug": "4-kume-akpinar-koyu",
-            "posta_kodu": "68402"
-          },
-          {
-            "mahalle_id": "68_1557_2e38e48e2eb13f720b0e71407632651e",
-            "mahalle_adi": "Camızlık Yayla / Camuzluk Köyü",
-            "mahalle_slug": "camizlik-yayla-camuzluk-koyu",
             "posta_kodu": "68402"
           },
           {
@@ -25748,12 +25682,6 @@
             "mahalle_id": "68_1557_da61440203be1cc3fdd0b2a947362899",
             "mahalle_adi": "Gökkaya Köyü",
             "mahalle_slug": "gokkaya-koyu",
-            "posta_kodu": "68402"
-          },
-          {
-            "mahalle_id": "68_1557_f2571894f386460937703a99551b23e7",
-            "mahalle_adi": "Gökler / Gökler Köyü",
-            "mahalle_slug": "gokler-gokler-koyu",
             "posta_kodu": "68402"
           },
           {
@@ -25808,12 +25736,6 @@
             "mahalle_id": "68_1557_c8249a31066fd4130f2300fcf5d54eca",
             "mahalle_adi": "Karşıyaka / Harmandalı Köyü",
             "mahalle_slug": "karsiyaka-harmandali-koyu",
-            "posta_kodu": "68402"
-          },
-          {
-            "mahalle_id": "68_1557_5df98a119e7ea16edde8206a28726835",
-            "mahalle_adi": "Küme 1 / Seksenuşağı Köyü",
-            "mahalle_slug": "kume-1-seksenusagi-koyu",
             "posta_kodu": "68402"
           },
           {
@@ -26610,12 +26532,6 @@
             "mahalle_id": "68_1921_01704c39db81b7b203fa07f8fd5446db",
             "mahalle_adi": "Güneşli Köyü",
             "mahalle_slug": "gunesli-koyu",
-            "posta_kodu": "68802"
-          },
-          {
-            "mahalle_id": "68_1921_c54c2220b2bbbafb606746f06f83b0a1",
-            "mahalle_adi": "Hoca Yaylası / Büğet Köyü",
-            "mahalle_slug": "hoca-yaylasi-buget-koyu",
             "posta_kodu": "68802"
           },
           {
@@ -58581,9 +58497,9 @@
             "posta_kodu": "08590"
           },
           {
-            "mahalle_id": "8_1828_2d900ee770c4f3e57ea02bd9f1bee8d0",
-            "mahalle_adi": "Damar / Merkez Köyü",
-            "mahalle_slug": "damar-merkez-koyu",
+            "mahalle_id": "8_1828_45e5b2c8ca54b87278ee16a6ecbc4bfc",
+            "mahalle_adi": "Damar Köyü",
+            "mahalle_slug": "damar-koyu",
             "posta_kodu": "08590"
           },
           {
@@ -124823,12 +124739,6 @@
             "posta_kodu": "19010"
           },
           {
-            "mahalle_id": "19_1259_c12b526897c624554eee43f924698f1d",
-            "mahalle_adi": "Ahiilyas Mücavir / Ahiilyas Köyü",
-            "mahalle_slug": "ahiilyas-mucavir-ahiilyas-koyu",
-            "posta_kodu": "19010"
-          },
-          {
             "mahalle_id": "19_1259_03967403c172c59676bdffd2be7c8aee",
             "mahalle_adi": "Ahmediye Köyü",
             "mahalle_slug": "ahmediye-koyu",
@@ -124889,12 +124799,6 @@
             "posta_kodu": "19010"
           },
           {
-            "mahalle_id": "19_1259_77e0240a96e32afbae4af68a5d9f73fd",
-            "mahalle_adi": "Altınbaş Mücavir / Altınbaş Köyü",
-            "mahalle_slug": "altinbas-mucavir-altinbas-koyu",
-            "posta_kodu": "19010"
-          },
-          {
             "mahalle_id": "19_1259_cc346d391154eb6fd0c424c87baa0f88",
             "mahalle_adi": "Arslanköy Köyü",
             "mahalle_slug": "arslankoy-koyu",
@@ -124928,12 +124832,6 @@
             "mahalle_id": "19_1259_ca53d84ce4632463db444ef2d8259aff",
             "mahalle_adi": "Aşağı Üçdam / Seydimçakallı Köyü",
             "mahalle_slug": "asagi-ucdam-seydimcakalli-koyu",
-            "posta_kodu": "19010"
-          },
-          {
-            "mahalle_id": "19_1259_8531a27f294da0e45fd81b38b4f63dc6",
-            "mahalle_adi": "Atcalı Mücavir / Atçalı Köyü",
-            "mahalle_slug": "atcali-mucavir-atcali-koyu",
             "posta_kodu": "19010"
           },
           {
@@ -125024,12 +124922,6 @@
             "mahalle_id": "19_1259_66a88efd8887720c2e05f7a208dce8b3",
             "mahalle_adi": "Boyralı / Kılıçören Köyü",
             "mahalle_slug": "boyrali-kilicoren-koyu",
-            "posta_kodu": "19010"
-          },
-          {
-            "mahalle_id": "19_1259_6ca2c355b2c28db8c3bbf7c2a6cc33b9",
-            "mahalle_adi": "Bozbuğa Mücavir / Bozboğa Köyü",
-            "mahalle_slug": "bozbuga-mucavir-bozboga-koyu",
             "posta_kodu": "19010"
           },
           {
@@ -125159,12 +125051,6 @@
             "posta_kodu": "19010"
           },
           {
-            "mahalle_id": "19_1259_e684e98ad95ea8b7c1a1fb16f115d072",
-            "mahalle_adi": "Deliler Mücavir / Deliler Köyü",
-            "mahalle_slug": "deliler-mucavir-deliler-koyu",
-            "posta_kodu": "19010"
-          },
-          {
             "mahalle_id": "19_1259_8a6c814de27d57fc888864e688fd964f",
             "mahalle_adi": "Derebey / Eskiköy Köyü",
             "mahalle_slug": "derebey-eskikoy-koyu",
@@ -125225,21 +125111,9 @@
             "posta_kodu": "19010"
           },
           {
-            "mahalle_id": "19_1259_d11c515507752f481fae1d3a40c93a9b",
-            "mahalle_adi": "Eskice Mücavir / Eskice Köyü",
-            "mahalle_slug": "eskice-mucavir-eskice-koyu",
-            "posta_kodu": "19010"
-          },
-          {
             "mahalle_id": "19_1259_8a3f787858d9ed0db79193b9a0e297a8",
             "mahalle_adi": "Eskiekin Bağları / Eskiekin Köyü",
             "mahalle_slug": "eskiekin-baglari-eskiekin-koyu",
-            "posta_kodu": "19010"
-          },
-          {
-            "mahalle_id": "19_1259_d15a01c13c57c53b6ad25bd72221ca76",
-            "mahalle_adi": "Eskiekin Mücavir / Eskiekin Köyü",
-            "mahalle_slug": "eskiekin-mucavir-eskiekin-koyu",
             "posta_kodu": "19010"
           },
           {
@@ -125339,12 +125213,6 @@
             "posta_kodu": "19010"
           },
           {
-            "mahalle_id": "19_1259_7c73eb8381f7f4da8da0e225b23f42a2",
-            "mahalle_adi": "Güney Mücavir / Güneyköy Köyü",
-            "mahalle_slug": "guney-mucavir-guneykoy-koyu",
-            "posta_kodu": "19010"
-          },
-          {
             "mahalle_id": "19_1259_c444291790f71c9c28e6a65623c90b73",
             "mahalle_adi": "Güneyköy Köyü",
             "mahalle_slug": "guneykoy-koyu",
@@ -125390,12 +125258,6 @@
             "mahalle_id": "19_1259_1afaf26f33662f6846fd8294231df02e",
             "mahalle_adi": "Hacıpaşa Köyü",
             "mahalle_slug": "hacipasa-koyu",
-            "posta_kodu": "19010"
-          },
-          {
-            "mahalle_id": "19_1259_0020e51d9fe6f5dc3b151935c2691267",
-            "mahalle_adi": "Hacıpaşa Mücavir / Hacıpaşa Köyü",
-            "mahalle_slug": "hacipasa-mucavir-hacipasa-koyu",
             "posta_kodu": "19010"
           },
           {
@@ -125447,12 +125309,6 @@
             "posta_kodu": "19010"
           },
           {
-            "mahalle_id": "19_1259_7aeca445462eb95d19368896bda4eb0c",
-            "mahalle_adi": "Kadıkırı Mücavir / Kadıkırı Köyü",
-            "mahalle_slug": "kadikiri-mucavir-kadikiri-koyu",
-            "posta_kodu": "19010"
-          },
-          {
             "mahalle_id": "19_1259_5131c1bc6e207de6b505ce25995397e9",
             "mahalle_adi": "Kalehisar Köyü",
             "mahalle_slug": "kalehisar-koyu",
@@ -125465,21 +125321,9 @@
             "posta_kodu": "19010"
           },
           {
-            "mahalle_id": "19_1259_9a73332411c3eac7284631c9e98b1ed9",
-            "mahalle_adi": "Karaağaç Mücavir / Karaağaç Köyü",
-            "mahalle_slug": "karaagac-mucavir-karaagac-koyu",
-            "posta_kodu": "19010"
-          },
-          {
             "mahalle_id": "19_1259_55a023aebaa117a7d4d4151d22af61c3",
             "mahalle_adi": "Karabürçek Köyü",
             "mahalle_slug": "karaburcek-koyu",
-            "posta_kodu": "19010"
-          },
-          {
-            "mahalle_id": "19_1259_b30671e60a6e7a6d2c5901e57db1ce59",
-            "mahalle_adi": "Karabürçek Mücavir / Karabürçek Köyü",
-            "mahalle_slug": "karaburcek-mucavir-karaburcek-koyu",
             "posta_kodu": "19010"
           },
           {
@@ -125498,12 +125342,6 @@
             "mahalle_id": "19_1259_4361b33bbd243670a839c765a1b7ae05",
             "mahalle_adi": "Karapınar Köyü",
             "mahalle_slug": "karapinar-koyu",
-            "posta_kodu": "19010"
-          },
-          {
-            "mahalle_id": "19_1259_98166288c715d0f3c9374e8a1c79c337",
-            "mahalle_adi": "Karapınar Mücavir / Karapınar Köyü",
-            "mahalle_slug": "karapinar-mucavir-karapinar-koyu",
             "posta_kodu": "19010"
           },
           {
@@ -125546,12 +125384,6 @@
             "mahalle_id": "19_1259_8155c8cf48f2b730e0acfde0601c9d08",
             "mahalle_adi": "Kazıklıkaya Köyü",
             "mahalle_slug": "kaziklikaya-koyu",
-            "posta_kodu": "19010"
-          },
-          {
-            "mahalle_id": "19_1259_64c9d1275c7b0f5733fa5157adba6ba0",
-            "mahalle_adi": "Kazıklıkaya Mücavir / Kazıklıkaya Köyü",
-            "mahalle_slug": "kaziklikaya-mucavir-kaziklikaya-koyu",
             "posta_kodu": "19010"
           },
           {
@@ -125621,12 +125453,6 @@
             "posta_kodu": "19010"
           },
           {
-            "mahalle_id": "19_1259_ad0b37172cf0c600ac1e1da90367e66b",
-            "mahalle_adi": "Konaklı Mücavir / Konaklı Köyü",
-            "mahalle_slug": "konakli-mucavir-konakli-koyu",
-            "posta_kodu": "19010"
-          },
-          {
             "mahalle_id": "19_1259_05828f15ac4eb8e05b3c9c0d7839e6cd",
             "mahalle_adi": "Koparan Köyü",
             "mahalle_slug": "koparan-koyu",
@@ -125684,12 +125510,6 @@
             "mahalle_id": "19_1259_9ed73d89cbb934da50e6465fb23a2d3c",
             "mahalle_adi": "Kuruçay Köyü",
             "mahalle_slug": "kurucay-koyu",
-            "posta_kodu": "19010"
-          },
-          {
-            "mahalle_id": "19_1259_0b46c313ecfe4e7f5fe3764d32cc1030",
-            "mahalle_adi": "Kuşsaray Mücavir / Kuşsaray Köyü",
-            "mahalle_slug": "kussaray-mucavir-kussaray-koyu",
             "posta_kodu": "19010"
           },
           {
@@ -126251,12 +126071,6 @@
             "posta_kodu": "19010"
           },
           {
-            "mahalle_id": "19_1259_c6b2376f0bc476ae2651f6b9a6696571",
-            "mahalle_adi": "Pancarlık Mücavir / Pancarlık Köyü",
-            "mahalle_slug": "pancarlik-mucavir-pancarlik-koyu",
-            "posta_kodu": "19010"
-          },
-          {
             "mahalle_id": "19_1259_3c78a7b1f7909c58220e68f9e41cf661",
             "mahalle_adi": "Paşaköy Köyü",
             "mahalle_slug": "pasakoy-koyu",
@@ -126320,12 +126134,6 @@
             "mahalle_id": "19_1259_9dc231a183fd9c70a31f4ee35e05393f",
             "mahalle_adi": "Sarımbey Köyü",
             "mahalle_slug": "sarimbey-koyu",
-            "posta_kodu": "19010"
-          },
-          {
-            "mahalle_id": "19_1259_8d58d4ae39a805193f8b23caeb11a5c2",
-            "mahalle_adi": "Sarımbey Mücavir / Sarımbey Köyü",
-            "mahalle_slug": "sarimbey-mucavir-sarimbey-koyu",
             "posta_kodu": "19010"
           },
           {
@@ -126425,12 +126233,6 @@
             "posta_kodu": "19010"
           },
           {
-            "mahalle_id": "19_1259_7a985d61868752e1caddaf9d9b149476",
-            "mahalle_adi": "Tatar Mücavir / Tatar Köyü",
-            "mahalle_slug": "tatar-mucavir-tatar-koyu",
-            "posta_kodu": "19010"
-          },
-          {
             "mahalle_id": "19_1259_e6be075401ef2dd3208873214b3c1266",
             "mahalle_adi": "Tepe / Ömerbey Köyü",
             "mahalle_slug": "tepe-omerbey-koyu",
@@ -126446,12 +126248,6 @@
             "mahalle_id": "19_1259_aa4659686e333b1b56aa6ebadd84a266",
             "mahalle_adi": "Tolamehmet Köyü",
             "mahalle_slug": "tolamehmet-koyu",
-            "posta_kodu": "19010"
-          },
-          {
-            "mahalle_id": "19_1259_2fcfb6056dd79b428e88a1f77ddf020f",
-            "mahalle_adi": "Tolamehmet Mücavir / Tolamehmet Köyü",
-            "mahalle_slug": "tolamehmet-mucavir-tolamehmet-koyu",
             "posta_kodu": "19010"
           },
           {
@@ -126506,12 +126302,6 @@
             "mahalle_id": "19_1259_eeadb9a2a09985beb92d7129255fc3e1",
             "mahalle_adi": "Yenice Köyü",
             "mahalle_slug": "yenice-koyu",
-            "posta_kodu": "19010"
-          },
-          {
-            "mahalle_id": "19_1259_148f1892c49027f269c4d1c165b2533e",
-            "mahalle_adi": "Yenice Mücavir / Yenice Köyü",
-            "mahalle_slug": "yenice-mucavir-yenice-koyu",
             "posta_kodu": "19010"
           },
           {
@@ -129497,12 +129287,6 @@
             "mahalle_id": "19_1520_ff7cda0ad9341c8d4858f655390bec0a",
             "mahalle_adi": "Pınarbaşı Köyü",
             "mahalle_slug": "pinarbasi-koyu",
-            "posta_kodu": "19702"
-          },
-          {
-            "mahalle_id": "19_1520_bfdeec9cce3bea2426e2228d84ce6eca",
-            "mahalle_adi": "Pınarbaşı Mücavir / Pınarbaşı Köyü",
-            "mahalle_slug": "pinarbasi-mucavir-pinarbasi-koyu",
             "posta_kodu": "19702"
           },
           {
@@ -274769,21 +274553,9 @@
             "posta_kodu": "71800"
           },
           {
-            "mahalle_id": "71_1463_ae0e129ecb3282e481c320b61a4126fe",
-            "mahalle_adi": "Acıçiftliği / Ceritobası Köyü",
-            "mahalle_slug": "aciciftligi-ceritobasi-koyu",
-            "posta_kodu": "71860"
-          },
-          {
             "mahalle_id": "71_1463_0d67239d12774a865f22db33eadaac33",
             "mahalle_adi": "Armutlu Köyü",
             "mahalle_slug": "armutlu-koyu",
-            "posta_kodu": "71860"
-          },
-          {
-            "mahalle_id": "71_1463_217fb7dc03c87e13804a66c9e4037c72",
-            "mahalle_adi": "Aşağı Olunlu / Olunlu Köyü",
-            "mahalle_slug": "asagi-olunlu-olunlu-koyu",
             "posta_kodu": "71860"
           },
           {
@@ -274979,12 +274751,6 @@
             "posta_kodu": "71860"
           },
           {
-            "mahalle_id": "71_1463_56e4f48b29daa43870e552e5b758cdf0",
-            "mahalle_adi": "Hamit Mevki / Cinali Köyü",
-            "mahalle_slug": "hamit-mevki-cinali-koyu",
-            "posta_kodu": "71860"
-          },
-          {
             "mahalle_id": "71_1463_550d54865528824e96c04030f1ab17b3",
             "mahalle_adi": "Haydardede Köyü",
             "mahalle_slug": "haydardede-koyu",
@@ -275045,12 +274811,6 @@
             "posta_kodu": "71860"
           },
           {
-            "mahalle_id": "71_1463_b8143b053c50217f50a8f02630469b51",
-            "mahalle_adi": "Keskinkayalar / Çipideresi Köyü",
-            "mahalle_slug": "keskinkayalar-cipideresi-koyu",
-            "posta_kodu": "71860"
-          },
-          {
             "mahalle_id": "71_1463_e5276b75eb4c22da86cbc53ef359dd6e",
             "mahalle_adi": "Kevenli Köyü",
             "mahalle_slug": "kevenli-koyu",
@@ -275066,12 +274826,6 @@
             "mahalle_id": "71_1463_043c547cb245bfa30c63f8593c008e3d",
             "mahalle_adi": "Köşker / Büyükceceli Köyü",
             "mahalle_slug": "kosker-buyukceceli-koyu",
-            "posta_kodu": "71860"
-          },
-          {
-            "mahalle_id": "71_1463_7162af255f3cbe5ea8b1a03ae843d2e4",
-            "mahalle_adi": "Kürek / Çipideresi Köyü",
-            "mahalle_slug": "kurek-cipideresi-koyu",
             "posta_kodu": "71860"
           },
           {
@@ -275096,12 +274850,6 @@
             "mahalle_id": "71_1463_74befb0c9c32c3216b10fc31db5b0fac",
             "mahalle_adi": "Olunlu Köyü",
             "mahalle_slug": "olunlu-koyu",
-            "posta_kodu": "71860"
-          },
-          {
-            "mahalle_id": "71_1463_7e0957a1b45ea5a6c0e3f8488ad654a1",
-            "mahalle_adi": "Ömerin / Barakobası Köyü",
-            "mahalle_slug": "omerin-barakobasi-koyu",
             "posta_kodu": "71860"
           },
           {
@@ -275138,18 +274886,6 @@
             "mahalle_id": "71_1463_31993f6cca2af0e16e9dea698df4e466",
             "mahalle_adi": "Tandoğan / Ceritmüminli Köyü",
             "mahalle_slug": "tandogan-ceritmuminli-koyu",
-            "posta_kodu": "71860"
-          },
-          {
-            "mahalle_id": "71_1463_284dcf41ca2df0d5eb7cfc3d07c1de65",
-            "mahalle_adi": "Taşlık / Barakobası Köyü",
-            "mahalle_slug": "taslik-barakobasi-koyu",
-            "posta_kodu": "71860"
-          },
-          {
-            "mahalle_id": "71_1463_1d105e8900a3b9c67bc7b527d44d675f",
-            "mahalle_adi": "Topallar / Çipideresi Köyü",
-            "mahalle_slug": "topallar-cipideresi-koyu",
             "posta_kodu": "71860"
           },
           {
@@ -275611,12 +275347,6 @@
             "posta_kodu": "71902"
           },
           {
-            "mahalle_id": "71_1638_da12ee733312be61e41a55e0deb191ce",
-            "mahalle_adi": "Körkuyu / Sofularçiftliği Köyü",
-            "mahalle_slug": "korkuyu-sofularciftligi-koyu",
-            "posta_kodu": "71902"
-          },
-          {
             "mahalle_id": "71_1638_455b339642729ebb8796c6fd0f2abcc0",
             "mahalle_adi": "Koruköy Köyü",
             "mahalle_slug": "korukoy-koyu",
@@ -275768,12 +275498,6 @@
             "posta_kodu": "71460"
           },
           {
-            "mahalle_id": "71_1880_1f7cf462a904d356fbe6829c6da151ca",
-            "mahalle_adi": "Bağevleri / Çamlıca Köyü",
-            "mahalle_slug": "bagevleri-camlica-koyu",
-            "posta_kodu": "71462"
-          },
-          {
             "mahalle_id": "71_1880_8d2af930886599f33f1974dded0ba683",
             "mahalle_adi": "Bahçelievler / Karaahmetli Köyü",
             "mahalle_slug": "bahcelievler-karaahmetli-koyu",
@@ -275783,12 +275507,6 @@
             "mahalle_id": "71_1880_fac9e66416d5af0f707992661167a894",
             "mahalle_adi": "Çamlıca Köyü",
             "mahalle_slug": "camlica-koyu",
-            "posta_kodu": "71462"
-          },
-          {
-            "mahalle_id": "71_1880_81a8f2a56c9b15e48cc5d3beccf30006",
-            "mahalle_adi": "Denizli Ercanlar / Küreboğazı Köyü",
-            "mahalle_slug": "denizli-ercanlar-kurebogazi-koyu",
             "posta_kodu": "71462"
           },
           {
@@ -275813,18 +275531,6 @@
             "mahalle_id": "71_1880_aa38797f39aed5574b32018223112d1e",
             "mahalle_adi": "Sarıkayalar Köyü",
             "mahalle_slug": "sarikayalar-koyu",
-            "posta_kodu": "71462"
-          },
-          {
-            "mahalle_id": "71_1880_d248aa9f0a55ff952656a5c4464617b6",
-            "mahalle_adi": "Yayla Evleri / Küreboğazı Köyü",
-            "mahalle_slug": "yayla-evleri-kurebogazi-koyu",
-            "posta_kodu": "71462"
-          },
-          {
-            "mahalle_id": "71_1880_642c81d08b41a20352f00b9b7129ae4d",
-            "mahalle_adi": "Yaylaevi / Çamlıca Köyü",
-            "mahalle_slug": "yaylaevi-camlica-koyu",
             "posta_kodu": "71462"
           },
           {
@@ -275883,18 +275589,6 @@
             "posta_kodu": "71522"
           },
           {
-            "mahalle_id": "71_1882_cdbea055ba857d1f0b4f6c6075652132",
-            "mahalle_adi": "Ayvaderesi / Kenanobası Köyü",
-            "mahalle_slug": "ayvaderesi-kenanobasi-koyu",
-            "posta_kodu": "71522"
-          },
-          {
-            "mahalle_id": "71_1882_b7949c9ce6f9c72eda19e635ba611153",
-            "mahalle_adi": "Azgın Yaylası / Kenanobası Köyü",
-            "mahalle_slug": "azgin-yaylasi-kenanobasi-koyu",
-            "posta_kodu": "71522"
-          },
-          {
             "mahalle_id": "71_1882_3a3b8214b02d25f50c9800a019252496",
             "mahalle_adi": "Bağlarbaşı / Koçubaba Köyü",
             "mahalle_slug": "baglarbasi-kocubaba-koyu",
@@ -275943,21 +275637,9 @@
             "posta_kodu": "71522"
           },
           {
-            "mahalle_id": "71_1882_fa89f50a872c3271dbf9525d6399126c",
-            "mahalle_adi": "Eldelek / Beyobası Köyü",
-            "mahalle_slug": "eldelek-beyobasi-koyu",
-            "posta_kodu": "71522"
-          },
-          {
             "mahalle_id": "71_1882_cb24e3745a67d36748057a65ef11080d",
             "mahalle_adi": "Eldelek Köyü",
             "mahalle_slug": "eldelek-koyu",
-            "posta_kodu": "71522"
-          },
-          {
-            "mahalle_id": "71_1882_70ce1b22e130167a0e97ac47589da138",
-            "mahalle_adi": "Esentepe / Mehmetbeyobası Köyü",
-            "mahalle_slug": "esentepe-mehmetbeyobasi-koyu",
             "posta_kodu": "71522"
           },
           {
@@ -275997,12 +275679,6 @@
             "posta_kodu": "71522"
           },
           {
-            "mahalle_id": "71_1882_8e8ca3a9cef0c16ce56fdbabab5e7ab1",
-            "mahalle_adi": "Karahocalı / Kılevli Köyü",
-            "mahalle_slug": "karahocali-kilevli-koyu",
-            "posta_kodu": "71522"
-          },
-          {
             "mahalle_id": "71_1882_0c74caac78d31614ef72d50b18a3fb39",
             "mahalle_adi": "Karalı Köyü",
             "mahalle_slug": "karali-koyu",
@@ -276039,12 +275715,6 @@
             "posta_kodu": "71522"
           },
           {
-            "mahalle_id": "71_1882_8160f4a8fba43c0bafa53cda86346dd9",
-            "mahalle_adi": "Kuşburnu / Mehmetbeyobası Köyü",
-            "mahalle_slug": "kusburnu-mehmetbeyobasi-koyu",
-            "posta_kodu": "71522"
-          },
-          {
             "mahalle_id": "71_1882_ef8fc7f03bab1daa74a53bbc054227af",
             "mahalle_adi": "Mehmetbeyobası Köyü",
             "mahalle_slug": "mehmetbeyobasi-koyu",
@@ -276078,12 +275748,6 @@
             "mahalle_id": "71_1882_6775d589a76fe37da1e884350815e87a",
             "mahalle_adi": "Uzunlar Köyü",
             "mahalle_slug": "uzunlar-koyu",
-            "posta_kodu": "71522"
-          },
-          {
-            "mahalle_id": "71_1882_8a224b6d4fc9c6fffde60a022840ff95",
-            "mahalle_adi": "Yassıbağ / Kenanobası Köyü",
-            "mahalle_slug": "yassibag-kenanobasi-koyu",
             "posta_kodu": "71522"
           },
           {
@@ -276288,12 +275952,6 @@
         "ilce_slug": "yahsihan",
         "mahalleler": [
           {
-            "mahalle_id": "71_1992_0050b178897ed1909b70338afddc3efb",
-            "mahalle_adi": "Aktaşlar Yaylası / Mahmutlar Köyü",
-            "mahalle_slug": "aktaslar-yaylasi-mahmutlar-koyu",
-            "posta_kodu": "71452"
-          },
-          {
             "mahalle_id": "71_1992_e32d8dace7dad84214e9078aed5074f7",
             "mahalle_adi": "Bahçelievler / Kılıçlar Köyü",
             "mahalle_slug": "bahcelievler-kiliclar-koyu",
@@ -276324,12 +275982,6 @@
             "posta_kodu": "71452"
           },
           {
-            "mahalle_id": "71_1992_50cd6dbb1a4b79c5f333f9aba56bdfe3",
-            "mahalle_adi": "Çiftlik / Hisarköy Köyü",
-            "mahalle_slug": "ciftlik-hisarkoy-koyu",
-            "posta_kodu": "71452"
-          },
-          {
             "mahalle_id": "71_1992_d679f2a0950708f1aefb0621866fec00",
             "mahalle_adi": "Enver Paşa / Kılıçlar Köyü",
             "mahalle_slug": "enver-pasa-kiliclar-koyu",
@@ -276339,24 +275991,6 @@
             "mahalle_id": "71_1992_e480147228c13041eef9f457024ca30c",
             "mahalle_adi": "Fatih / Irmak Köyü",
             "mahalle_slug": "fatih-irmak-koyu",
-            "posta_kodu": "71452"
-          },
-          {
-            "mahalle_id": "71_1992_c5335385724aa1932c1134a351289d7a",
-            "mahalle_adi": "Gedikardı / Hisarköy Köyü",
-            "mahalle_slug": "gedikardi-hisarkoy-koyu",
-            "posta_kodu": "71452"
-          },
-          {
-            "mahalle_id": "71_1992_999ec4e1ed700874413f8a9272098e95",
-            "mahalle_adi": "Güllük Çiftliği / Keçili Köyü",
-            "mahalle_slug": "gulluk-ciftligi-kecili-koyu",
-            "posta_kodu": "71452"
-          },
-          {
-            "mahalle_id": "71_1992_cb4d406979ba53a0ee70287e015188ab",
-            "mahalle_adi": "Güzeren / Mahmutlar Köyü",
-            "mahalle_slug": "guzeren-mahmutlar-koyu",
             "posta_kodu": "71452"
           },
           {
@@ -276384,27 +276018,9 @@
             "posta_kodu": "71452"
           },
           {
-            "mahalle_id": "71_1992_7a1241f514187d97ed9f936f89707b08",
-            "mahalle_adi": "Kalecik Karadağ Mevkii / Mahmutlar Köyü",
-            "mahalle_slug": "kalecik-karadag-mevkii-mahmutlar-koyu",
-            "posta_kodu": "71452"
-          },
-          {
             "mahalle_id": "71_1992_ad644badf1f6b4314445588feaa097fb",
             "mahalle_adi": "Keçili Köyü",
             "mahalle_slug": "kecili-koyu",
-            "posta_kodu": "71452"
-          },
-          {
-            "mahalle_id": "71_1992_b9a5b037b581b8f5df01415ca71f5aae",
-            "mahalle_adi": "Köyönü Mevkii / Hacıbalı Köyü",
-            "mahalle_slug": "koyonu-mevkii-hacibali-koyu",
-            "posta_kodu": "71452"
-          },
-          {
-            "mahalle_id": "71_1992_2fcf6e9010ea3d9d5fcc97b58d5d0cab",
-            "mahalle_adi": "Kütüklü / Mahmutlar Köyü",
-            "mahalle_slug": "kutuklu-mahmutlar-koyu",
             "posta_kodu": "71452"
           },
           {
@@ -276435,24 +276051,6 @@
             "mahalle_id": "71_1992_4bc2bbe0ed4644675e70814fe282bb2e",
             "mahalle_adi": "Seyrantepe / Merkez Köyü",
             "mahalle_slug": "seyrantepe-merkez-koyu",
-            "posta_kodu": "71452"
-          },
-          {
-            "mahalle_id": "71_1992_b007ee14f73e09507a648196293d3329",
-            "mahalle_adi": "Üzümlü Mevkii / Bedesten Köyü",
-            "mahalle_slug": "uzumlu-mevkii-bedesten-koyu",
-            "posta_kodu": "71452"
-          },
-          {
-            "mahalle_id": "71_1992_a5fe740e87b855f685e73d0b3fad263b",
-            "mahalle_adi": "Vakağın Tepesi / Keçili Köyü",
-            "mahalle_slug": "vakagin-tepesi-kecili-koyu",
-            "posta_kodu": "71452"
-          },
-          {
-            "mahalle_id": "71_1992_ac2549be931b4b9dea4b9b6760b851c5",
-            "mahalle_adi": "Yazı Mevkii / Hacıbalı Köyü",
-            "mahalle_slug": "yazi-mevkii-hacibali-koyu",
             "posta_kodu": "71452"
           },
           {
@@ -397846,12 +397444,6 @@
             "posta_kodu": "73202"
           },
           {
-            "mahalle_id": "73_1223_35376d767ea1c344735a93e2e2aa120f",
-            "mahalle_adi": "Çavuş Mücavir / Çavuşköy Köyü",
-            "mahalle_slug": "cavus-mucavir-cavuskoy-koyu",
-            "posta_kodu": "73202"
-          },
-          {
             "mahalle_id": "73_1223_8a8c0e2821afdcbc4e4f9cec14755b45",
             "mahalle_adi": "Çavuşköy Köyü",
             "mahalle_slug": "cavuskoy-koyu",
@@ -398023,12 +397615,6 @@
             "mahalle_id": "73_1223_6332450ce65ee527adf5161533f1a248",
             "mahalle_adi": "Yakacık Köyü",
             "mahalle_slug": "yakacik-koyu",
-            "posta_kodu": "73202"
-          },
-          {
-            "mahalle_id": "73_1223_3372a7454f6033241cfe7e9e17b7723c",
-            "mahalle_adi": "Yakacık Mücavir / Yakacık Köyü",
-            "mahalle_slug": "yakacik-mucavir-yakacik-koyu",
             "posta_kodu": "73202"
           },
           {
@@ -403627,9 +403213,9 @@
             "posta_kodu": "60540"
           },
           {
-            "mahalle_id": "60_1308_55b0328c0ad621cfe3b347e4d513d280",
-            "mahalle_adi": "Kaleköy Köyü",
-            "mahalle_slug": "kalekoy-koyu",
+            "mahalle_id": "60_1308_c164de28876080698c23862fb7ff3acc",
+            "mahalle_adi": "Kale Köyü",
+            "mahalle_slug": "kale-koyu",
             "posta_kodu": "60540"
           },
           {
@@ -404113,9 +403699,9 @@
             "posta_kodu": "60502"
           },
           {
-            "mahalle_id": "60_1308_1980c7cd9d7fb43c38ef455c1c9207a4",
-            "mahalle_adi": "Dereçiflik / Endekpınar Köyü",
-            "mahalle_slug": "dereciflik-endekpinar-koyu",
+            "mahalle_id": "60_1308_752fb14679746bef55cfe1c520098133",
+            "mahalle_adi": "Dereçiflik / Endikpınar Köyü",
+            "mahalle_slug": "dereciflik-endikpinar-koyu",
             "posta_kodu": "60502"
           },
           {
@@ -404149,9 +403735,9 @@
             "posta_kodu": "60502"
           },
           {
-            "mahalle_id": "60_1308_2ae66b454bb87610333554f424a394cf",
-            "mahalle_adi": "Endekpınar Köyü",
-            "mahalle_slug": "endekpinar-koyu",
+            "mahalle_id": "60_1308_c101ba11b62b430992afbeeb99a9024c",
+            "mahalle_adi": "Endikpınar Köyü",
+            "mahalle_slug": "endikpinar-koyu",
             "posta_kodu": "60502"
           },
           {
@@ -404335,12 +403921,6 @@
             "posta_kodu": "60502"
           },
           {
-            "mahalle_id": "60_1308_12a98a9bfc338d7bac778810a3d43d57",
-            "mahalle_adi": "Kartosman Köyü",
-            "mahalle_slug": "kartosman-koyu",
-            "posta_kodu": "60502"
-          },
-          {
             "mahalle_id": "60_1308_9ac4cc847d3ba76641a9b1821b94b8b6",
             "mahalle_adi": "Kavalcık Köyü",
             "mahalle_slug": "kavalcik-koyu",
@@ -404506,6 +404086,12 @@
             "mahalle_id": "60_1308_c90bded2e8a2a43044a2a8b1e77e04f2",
             "mahalle_adi": "Orta / Güveçli Köyü",
             "mahalle_slug": "orta-guvecli-koyu",
+            "posta_kodu": "60502"
+          },
+          {
+            "mahalle_id": "60_1308_f376a427158256e4630f525c3252ba9d",
+            "mahalle_adi": "Osmanköy Köyü",
+            "mahalle_slug": "osmankoy-koyu",
             "posta_kodu": "60502"
           },
           {
