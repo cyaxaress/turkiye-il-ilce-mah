@@ -420,9 +420,9 @@
         "posta_kodu": "60540"
     },
     {
-        "mahalle_id": "60_1308_55b0328c0ad621cfe3b347e4d513d280",
-        "mahalle_adi": "Kaleköy Köyü",
-        "mahalle_slug": "kalekoy-koyu",
+        "mahalle_id": "60_1308_c164de28876080698c23862fb7ff3acc",
+        "mahalle_adi": "Kale Köyü",
+        "mahalle_slug": "kale-koyu",
         "posta_kodu": "60540"
     },
     {
@@ -906,9 +906,9 @@
         "posta_kodu": "60502"
     },
     {
-        "mahalle_id": "60_1308_1980c7cd9d7fb43c38ef455c1c9207a4",
-        "mahalle_adi": "Dereçiflik / Endekpınar Köyü",
-        "mahalle_slug": "dereciflik-endekpinar-koyu",
+        "mahalle_id": "60_1308_752fb14679746bef55cfe1c520098133",
+        "mahalle_adi": "Dereçiflik / Endikpınar Köyü",
+        "mahalle_slug": "dereciflik-endikpinar-koyu",
         "posta_kodu": "60502"
     },
     {
@@ -942,9 +942,9 @@
         "posta_kodu": "60502"
     },
     {
-        "mahalle_id": "60_1308_2ae66b454bb87610333554f424a394cf",
-        "mahalle_adi": "Endekpınar Köyü",
-        "mahalle_slug": "endekpinar-koyu",
+        "mahalle_id": "60_1308_c101ba11b62b430992afbeeb99a9024c",
+        "mahalle_adi": "Endikpınar Köyü",
+        "mahalle_slug": "endikpinar-koyu",
         "posta_kodu": "60502"
     },
     {
@@ -1128,12 +1128,6 @@
         "posta_kodu": "60502"
     },
     {
-        "mahalle_id": "60_1308_12a98a9bfc338d7bac778810a3d43d57",
-        "mahalle_adi": "Kartosman Köyü",
-        "mahalle_slug": "kartosman-koyu",
-        "posta_kodu": "60502"
-    },
-    {
         "mahalle_id": "60_1308_9ac4cc847d3ba76641a9b1821b94b8b6",
         "mahalle_adi": "Kavalcık Köyü",
         "mahalle_slug": "kavalcik-koyu",
@@ -1299,6 +1293,12 @@
         "mahalle_id": "60_1308_c90bded2e8a2a43044a2a8b1e77e04f2",
         "mahalle_adi": "Orta / Güveçli Köyü",
         "mahalle_slug": "orta-guvecli-koyu",
+        "posta_kodu": "60502"
+    },
+    {
+        "mahalle_id": "60_1308_f376a427158256e4630f525c3252ba9d",
+        "mahalle_adi": "Osmanköy Köyü",
+        "mahalle_slug": "osmankoy-koyu",
         "posta_kodu": "60502"
     },
     {
