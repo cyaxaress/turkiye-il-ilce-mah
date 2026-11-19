@@ -4,7 +4,7 @@ Türkiye genelinde **il**, **ilçe** ve **mahalle** (posta kodu dahiye) hiyerar�
 
 ## 📅 Son Güncelleme
 
-**Son güncelleme:** 18 Kasım 2026, 06:25
+**Son güncelleme:** 19 Kasım 2026, 06:25
 
 ## Veri özeti
 
